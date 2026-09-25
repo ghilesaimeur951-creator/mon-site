@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:22:18Z",
+  "generated_at": "2026-09-25T22:33:55Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T19:22:18Z",
+      "published_at": "2026-09-25T22:33:55Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T19:22:18Z",
+      "published_at": "2026-09-25T22:33:55Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T19:22:18Z",
+      "published_at": "2026-09-25T22:33:55Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -38,17 +38,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T19:22:18Z",
+      "published_at": "2026-09-25T22:33:55Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "f5dd20ff54d8912d04f0",
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "id": "d7761a75ee2f45961ad6",
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T19:22:18Z",
+      "published_at": "2026-09-25T22:33:55Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -58,8 +58,28 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T19:22:18Z",
+      "published_at": "2026-09-25T22:33:55Z",
       "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3e6437721d938a62267b",
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T21:41:07Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6e342a8a97cf99d0e3cd",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T20:57:55Z",
+      "category": "Menace",
       "severity": "Élevée"
     },
     {
@@ -233,6 +253,16 @@
       "severity": "Critique"
     },
     {
+      "id": "918443b7798c48b4c1c5",
+      "title": "CVE-2026-87902 — WordPress Core",
+      "summary": "WordPress Core contains a remote file inclusion vulnerability which could allow an unauthenticated attacker to make page-template resolution include a chosen readable local `.php` file outside the active theme directories, leading to remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-87902",
+      "source": "CISA KEV",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "7265697f416b0e92d6da",
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
       "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
@@ -269,26 +299,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
       "source": "BleepingComputer",
       "published_at": "2026-09-24T14:02:12Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "d7761a75ee2f45961ad6",
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T13:27:57Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "1f4ae2ff4c872a9cdb89",
-      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-      "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T12:16:32Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2019,16 +2029,6 @@
       "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-0257",
       "source": "CISA KEV",
       "published_at": "2026-05-29T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "58145804d2d29cc8e37b",
-      "title": "CVE-2026-48027 — Nx Nx Console",
-      "summary": "Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48027",
-      "source": "CISA KEV",
-      "published_at": "2026-05-27T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
