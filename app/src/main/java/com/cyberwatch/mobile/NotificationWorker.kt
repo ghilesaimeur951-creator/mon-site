@@ -95,7 +95,7 @@ class NotificationWorker(
             ) return
 
             val notification = NotificationCompat.Builder(context, CHANNEL_ID)
-                .setSmallIcon(R.drawable.ic_shield)
+                .setSmallIcon(R.drawable.ic_notification)
                 .setContentTitle(article.source + " · " + article.severity)
                 .setContentText(article.title)
                 .setStyle(NotificationCompat.BigTextStyle().bigText(article.title))

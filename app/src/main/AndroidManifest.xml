@@ -5,7 +5,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_shield"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:label="CyberWatch"
         android:supportsRtl="true"
         android:theme="@style/Theme.CyberWatch"

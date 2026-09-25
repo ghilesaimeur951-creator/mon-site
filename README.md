@@ -62,3 +62,15 @@ Pour tester le collecteur :
 python -m pip install -r collector/requirements.txt
 python collector/collect.py
 ```
+
+
+## Interface 0.2
+
+La version 0.2 introduit une refonte complète de l'interface mobile :
+- tableau de bord synthétique avec volume, priorités et nombre de sources ;
+- identité visuelle CyberWatch claire/sombre ;
+- recherche et filtres enrichis avec compteurs ;
+- cartes d'alerte hiérarchisées par gravité ;
+- meilleure lisibilité des sources, dates et catégories ;
+- états de chargement, erreur et recherche vide cohérents ;
+- nouvelle icône adaptative Android.
