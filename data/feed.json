@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-09-25T15:16:32Z",
+  "generated_at": "2026-09-25T19:22:18Z",
   "count": 250,
   "items": [
+    {
+      "id": "7e0f816f375f2a30132d",
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-25T19:22:18Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "3c5d9756b70db29c546f",
       "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T15:16:32Z",
+      "published_at": "2026-09-25T19:22:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T15:16:32Z",
+      "published_at": "2026-09-25T19:22:18Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -28,19 +38,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T15:16:32Z",
+      "published_at": "2026-09-25T19:22:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "ab9e6d2169bc6936f7bc",
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "id": "f5dd20ff54d8912d04f0",
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T15:16:32Z",
-      "category": "Menace",
-      "severity": "Élevée"
+      "published_at": "2026-09-25T19:22:18Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "9228fd09d5251b1310f1",
@@ -48,19 +58,39 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T15:16:32Z",
+      "published_at": "2026-09-25T19:22:18Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "368846adf0a4a33882b7",
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-25T15:16:32Z",
+      "id": "53c3f861257c27459c1d",
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T18:13:33Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "2e9b76e63d00c8de62de",
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T17:24:20Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "5324567d954d93a31362",
+      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
+      "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T16:00:00Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "9c3f4fd6215749cc53bb",
@@ -183,6 +213,26 @@
       "severity": "Élevée"
     },
     {
+      "id": "e03acfbf9d20d2d42ad2",
+      "title": "CVE-2026-67279 — MikroTik RouterOS",
+      "summary": "Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to achieve unauthenticated exploitation of CVE-2026-86060.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-67279",
+      "source": "CISA KEV",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "500fc26a9070d8cfa38a",
+      "title": "CVE-2026-65660 — Microsoft SharePoint",
+      "summary": "Microsoft SharePoint contains a code injection vulnerability which could allow an authorized attacker to execute code over a network.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-65660",
+      "source": "CISA KEV",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "7265697f416b0e92d6da",
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
       "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
@@ -239,36 +289,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
       "source": "BleepingComputer",
       "published_at": "2026-09-24T12:16:32Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "f5dd20ff54d8912d04f0",
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T10:42:37Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "7e0f816f375f2a30132d",
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T09:38:53Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "97c422976cf7802d8e96",
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T08:14:47Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2007,26 +2027,6 @@
       "title": "CVE-2026-48027 — Nx Nx Console",
       "summary": "Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory.",
       "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48027",
-      "source": "CISA KEV",
-      "published_at": "2026-05-27T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "b89ea31cdc6807dccce7",
-      "title": "CVE-2026-45321 — TanStack TanStack",
-      "summary": "TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-45321",
-      "source": "CISA KEV",
-      "published_at": "2026-05-27T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "b3b2f6e8817a3c6d5808",
-      "title": "CVE-2026-8398 — Daemon Daemon Tools Lite",
-      "summary": "Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-8398",
       "source": "CISA KEV",
       "published_at": "2026-05-27T00:00:00Z",
       "category": "Vulnérabilité",
