@@ -1,5 +1,2506 @@
 {
-  "generated_at": "2026-09-25T15:00:00Z",
-  "count": 0,
-  "items": []
+  "generated_at": "2026-09-25T15:16:32Z",
+  "count": 250,
+  "items": [
+    {
+      "id": "3c5d9756b70db29c546f",
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-25T15:16:32Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "5204aaedc51d4d0b7247",
+      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-25T15:16:32Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "8b8a2ad63964807c5ed8",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-25T15:16:32Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "ab9e6d2169bc6936f7bc",
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-25T15:16:32Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "9228fd09d5251b1310f1",
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-25T15:16:32Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "368846adf0a4a33882b7",
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-25T15:16:32Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "9c3f4fd6215749cc53bb",
+      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+      "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T14:54:33Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "d6c9977600d440d24237",
+      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T14:51:10Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b77adcfbe2b6646c7d93",
+      "title": "Microsoft plans to deprecate Windows Deployment Services",
+      "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T12:40:59Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "e20c79b4079910e91510",
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T11:35:14Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "a32e62f50e70b121fed5",
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T10:30:38Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "4ef5d17c61039a39102b",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-25T08:33:44Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "cedaa7a15776ff25d1d3",
+      "title": "Multiples vulnérabilités dans les produits IBM (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1233/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "14220430880197996ef5",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "715ca3c058bc42eba5b1",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "018ac8758ff8872a5dd3",
+      "title": "Multiples vulnérabilités dans les produits Elastic (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "8e98b1de01cf8c7cc7c8",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1231/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "05370fd5cc21a03762f6",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1230/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "7265697f416b0e92d6da",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T20:53:35Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "8692e38436e8a580464b",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T20:10:48Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d8d3bf9e01bca0f75739",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T17:47:44Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "1c3c43c410792b809c0e",
+      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T14:02:12Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "d7761a75ee2f45961ad6",
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T13:27:57Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1f4ae2ff4c872a9cdb89",
+      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
+      "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T12:16:32Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "f5dd20ff54d8912d04f0",
+      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
+      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T10:42:37Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "7e0f816f375f2a30132d",
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T09:38:53Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "97c422976cf7802d8e96",
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-24T08:14:47Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "ce3254336a051ef0e8d6",
+      "title": "Multiples vulnérabilités dans Papercut (24 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1223/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "03c4e432729b07d1c8dd",
+      "title": "Multiples vulnérabilités dans LibreNMS (24 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1222/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a7c243199850c47edc3f",
+      "title": "Multiples vulnérabilités dans Zabbix Agent (24 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix Agent. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1226/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2abddd115f4bf6533d03",
+      "title": "Multiples vulnérabilités dans PHP (24 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "112bb8f1db9e0370f4c8",
+      "title": "Multiples vulnérabilités dans GitLab (24 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1225/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ba6f8d070fd445548bed",
+      "title": "Multiples vulnérabilités dans Wireshark (24 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1221/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a130cbdda717e765d45",
+      "title": "Vulnérabilité dans Microsoft Office (24 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1224/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "4ad9a881ed7b5812940d",
+      "title": "CVE-2026-5430 — WSO2 Multiple Products",
+      "summary": "WSO2 API Control Plane, API Manager, Traffic Manager & Universal Gateway contain a path traversal vulnerability that could allow for unrestricted file upload and lead to remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-5430",
+      "source": "CISA KEV",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b5d94e918b830df14881",
+      "title": "CVE-2026-71362 — Adobe Commerce and Magento",
+      "summary": "Adobe Commerce and Magento contains an incorrect authorization vulnerability that could allow an attacker to leverage this vulnerability to gain elevated access to sensitive resources without any user interaction.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-71362",
+      "source": "CISA KEV",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1a1ae4b96086b3f0157d",
+      "title": "Multiples vulnérabilités dans Apache Tomcat (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1218/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ea52819c0610e5290307",
+      "title": "Multiples vulnérabilités dans les produits FoxIT (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1214/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "066f27f83785b947450e",
+      "title": "Multiples vulnérabilités dans SolarWinds Observability Self-Hosted (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SolarWinds Observability Self-Hosted. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1215/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "48d0e5f9c7d57559bb19",
+      "title": "Vulnérabilité dans WordPress (23 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1216/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "34279272941ce33d1d4e",
+      "title": "Multiples vulnérabilités dans Mattermost Server (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1212/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "15c33f52b27466f6ff2a",
+      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1217/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6bdde89cbe1631acf306",
+      "title": "Multiples vulnérabilités dans Google Chrome (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1213/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "69cd4ba913daac46a288",
+      "title": "Vulnérabilité dans Check Point Security Management Server (23 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Check Point Security Management Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. L'éditeur indique que la vulnérabilité CVE-2026-93616 est activement exploitée. Check...",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1219/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "7c9779732a2355515527",
+      "title": "Vulnérabilité dans F5 BIG-IP (23 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que la vulnérabilité CVE-2026-94127 est activement exploitée. Des indicateurs de compromission sont disponibles dans l'avis de l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1220/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b1fe6328b4f8bf88b553",
+      "title": "Multiples vulnérabilités dans Moodle (22 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection SQL (SQLi) et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1210/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "8b2b2818601d0b63084e",
+      "title": "Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1211/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "7dfea8c8aa7f62f1f212",
+      "title": "CVE-2026-93952 — Arista VeloCloud Orchestrator",
+      "summary": "Arista VeloCloud Orchestrator (VCO) on-prem contains an improper input validation vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-93952",
+      "source": "CISA KEV",
+      "published_at": "2026-09-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "78c28bb63b3ec8bb83a1",
+      "title": "CVE-2026-94127 — F5 BIG-IP APM",
+      "summary": "F5 BIG-IP APM contains a heap-based buffer overflow vulnerability when access policy and an OAuth profile are configured on a virtual server. This vulnerability could allow an unauthenticated attacker to perform remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-94127",
+      "source": "CISA KEV",
+      "published_at": "2026-09-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "26c4591fdeef4cf2f18e",
+      "title": "CVE-2026-93616 — Check Point Multiple Products",
+      "summary": "Check Point Security Management Server, Multi-Domain Security Management Server, Log Server, Multi-Domain Log Server, and SmartEvent contain a path traversal vulnerability that allows an unauthenticated attacker to upload and execute arbitrary scripts.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-93616",
+      "source": "CISA KEV",
+      "published_at": "2026-09-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "ce316097d2ace2be9b19",
+      "title": "CVE-2026-85102 — Check Point Multiple Products",
+      "summary": "Check Point Security Gateway and Check Point Spark Firewall using Site to Site VPN or Remote Access VPN contain an improper certificate validation vulnerability which could allow an unauthenticated remote attacker to execute arbitrary code on the Gateway.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-85102",
+      "source": "CISA KEV",
+      "published_at": "2026-09-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "bab63cbbdea10c006622",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-040 (21 septembre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-040/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "767c40473cf6eaa2fd8c",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1208/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a7b72cfbb3c1557b27da",
+      "title": "Multiples vulnérabilités dans Synology DSM (21 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1209/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "9bb704c0589e92cc7887",
+      "title": "Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "320d53d6fdc9bc7c344e",
+      "title": "CVE-2026-7273 — Zyxel GS1900 Series Switches",
+      "summary": "Zyxel GS1900 series switches contain a stack-based buffer overflow vulnerability in the CGI program which could allow a LAN-based, unauthenticated attacker to exploit the flaw and potentially execute OS commands via a crafted HTTP request.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-7273",
+      "source": "CISA KEV",
+      "published_at": "2026-09-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b7a522695c9e2efd87cb",
+      "title": "Multiples vulnérabilités dans les produits IBM (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c0d58084ec3de496d7cf",
+      "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ec6a2d983e3b8597594c",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2064c20eaaf00880c9a8",
+      "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "01290c5d1e01d791977b",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1203/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a51c0c455c7057fb05da",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1204/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "380153b3a1db5ef8772e",
+      "title": "Multiples vulnérabilités dans Google Chrome (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1199/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "82df89483339397a082e",
+      "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "47acba00d4b269358d79",
+      "title": "CVE-2025-39964 — Linux Kernel",
+      "summary": "Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-39964",
+      "source": "CISA KEV",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b1898518f28b9dfc36aa",
+      "title": "CVE-2026-53266 — Linux Kernel",
+      "summary": "Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a splice-imported file page. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-53266",
+      "source": "CISA KEV",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "793e3c9b67aad29137c7",
+      "title": "CVE-2025-39682 — Linux Kernel",
+      "summary": "Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg() record-type handling, potentially causing subsequent TLS records to be processed using incorrect zero-copy and queuing assumptions. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-39682",
+      "source": "CISA KEV",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "22200f15356e742f1747",
+      "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76460 est...",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2b58699550f043bfc970",
+      "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "cf47ac934728c9c70819",
+      "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "fb6dae4368ba2094bbfb",
+      "title": "CVE-2026-58704 — Google Pixel",
+      "summary": "Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-58704",
+      "source": "CISA KEV",
+      "published_at": "2026-09-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "747cd6a7f22d40197f7d",
+      "title": "CVE-2026-76460 — Cisco Identity Services Engine",
+      "summary": "Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) contain an incorrect use of privileged APIs vulnerability that could allow an unauthenticated, remote attacker to gain unauthorized access to the affected device by bypassing the web-based management interface.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-76460",
+      "source": "CISA KEV",
+      "published_at": "2026-09-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "652d604476a2dfcfc92d",
+      "title": "CVE-2026-87886 — Acronis Backup",
+      "summary": "Acronis Backup plugin for cPanel & WHM and extension for Plesk contains an incorrect default permissions vulnerability that could allow for privilege escalation.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-87886",
+      "source": "CISA KEV",
+      "published_at": "2026-09-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e8fe502946bc69a15744",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-039 (14 septembre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-039/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d8e3753e17746a65828f",
+      "title": "CVE-2026-76461 — Cisco Secure Email Gateway",
+      "summary": "Cisco AsyncOS software for Cisco Secure Email Gateway (SEG) contains a SQL injection vulnerability that could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-76461",
+      "source": "CISA KEV",
+      "published_at": "2026-09-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "9397f9c09cc1fd8c0548",
+      "title": "CVE-2026-84869 — ConnectWise ScreenConnect",
+      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to transfer and execute files through an active remote session without authorization or host confirmation.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-84869",
+      "source": "CISA KEV",
+      "published_at": "2026-09-11T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "dfcf4f8b4add45ba45fb",
+      "title": "CVE-2026-42016 — JFrog Artifactory",
+      "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that leads to a privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-42016",
+      "source": "CISA KEV",
+      "published_at": "2026-09-11T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "3d5500ac044a01092b77",
+      "title": "CVE-2026-42018 — JFrog Artifactory",
+      "summary": "JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-42018",
+      "source": "CISA KEV",
+      "published_at": "2026-09-11T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "f88ad91f9ff371ddeaa6",
+      "title": "CVE-2026-85706 — GitLab Community Edition and Enterprise Edition",
+      "summary": "GitLab Community Edition and Enterprise Edition contains a path traversal vulnerability that allows an unauthenticated user to read arbitrary files due to an improper path confinement and missing authentication enforcement in the repository commits API.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-85706",
+      "source": "CISA KEV",
+      "published_at": "2026-09-11T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "2c4c7d25f14c71018651",
+      "title": "Vulnérabilité dans Metabase (10 septembre 2026)",
+      "summary": "Le 06 août 2026, Metabase a publié un avis de sécurité concernant une vulnérabilité critique permettant à un attaquant non authentifié de provoquer une injection SQL (SQLi) dans la base de donnée de l'application Metabase. Cette injection SQL permet d’obtenir les droits administrateur de...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-09-10T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6efa56490aa20538ae3e",
+      "title": "CVE-2026-86060 — MikroTik RouterOS",
+      "summary": "MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacker to change the trusted RouterOS policy mask, leading to privilege escalation.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-86060",
+      "source": "CISA KEV",
+      "published_at": "2026-09-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "22cf387a5ae0d50ac94c",
+      "title": "CVE-2026-67277 — MikroTik RouterOS",
+      "summary": "MikroTik RouterOS contains a missing authentication for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-67277",
+      "source": "CISA KEV",
+      "published_at": "2026-09-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "add44ab23f243bb0dcd8",
+      "title": "CVE-2026-19490 — Citrix NetScaler",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an authentication-bypass vulnerability involving an alternate path or channel. When the NetScaler appliance is configured as an AAA virtual server or as a Gateway (SSL VPN, ICA Proxy, CVPN, or RDP Proxy), an unauthenticated remote threat actor may be able to bypass authentication.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-19490",
+      "source": "CISA KEV",
+      "published_at": "2026-09-09T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6f3b73b5330524df07a9",
+      "title": "CVE-2025-25249 — Fortinet Multiple Products",
+      "summary": "Fortinet FortiOS, FortiSwitchManager, and FortiSASE contain a heap-based buffer overflow vulnerability that allows an attacker to execute unauthorized code or commands via specially crafted packets.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-25249",
+      "source": "CISA KEV",
+      "published_at": "2026-09-09T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "5031b36fcd64d2620e60",
+      "title": "CVE-2026-87491 — Google Chromium V8",
+      "summary": "Google Chromium V8 contains an out of bounds write vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-87491",
+      "source": "CISA KEV",
+      "published_at": "2026-09-09T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d3bcfa2a7c76d71cadd5",
+      "title": "CVE-2026-20079 — Cisco Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management",
+      "summary": "Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management contain an authentication Bypass using an alternate path or channel vulnerability that could allow an unauthenticated, remote attacker to bypass authentication and execute script files on an affected device to obtain root access to the underlying operating system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20079",
+      "source": "CISA KEV",
+      "published_at": "2026-09-09T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "25ffe7e92ee0f1cfeb59",
+      "title": "CVE-2026-75650 — Adobe Commerce and Magento",
+      "summary": "Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-75650",
+      "source": "CISA KEV",
+      "published_at": "2026-09-08T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "af86ebb5198d4d22120d",
+      "title": "CVE-2026-81963 — Microsoft Windows",
+      "summary": "Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-81963",
+      "source": "CISA KEV",
+      "published_at": "2026-09-08T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "40d84e2b09be1673ef91",
+      "title": "CVE-2026-86218 — N-able N-central",
+      "summary": "N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-86218",
+      "source": "CISA KEV",
+      "published_at": "2026-09-08T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a647cc597786cf6d95c7",
+      "title": "CVE-2026-85880 — Microsoft Windows",
+      "summary": "Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-85880",
+      "source": "CISA KEV",
+      "published_at": "2026-09-08T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "fc8cf85e8924a1f57603",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-038 (07 septembre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-038/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-09-07T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "dd88d82fc6f578c41706",
+      "title": "CVE-2026-85046 — Google Chromium V8",
+      "summary": "Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-85046",
+      "source": "CISA KEV",
+      "published_at": "2026-09-04T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "07502649e465cd57d02a",
+      "title": "Multiples vulnérabilités dans SonicWall Secure Mobile Access (02 septembre 2026)",
+      "summary": "Le 01 septembre 2026, SonicWall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-83548 permet une falsification de requêtes côté serveur (SSRF) de la part d'un attaquant non authentifié. La vulnérabilité...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-09-02T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "1e1ce6ce703084fdff79",
+      "title": "CVE-2026-59822 — BerriAI LiteLLM",
+      "summary": "BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-59822",
+      "source": "CISA KEV",
+      "published_at": "2026-09-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e218afa81cf3811b2612",
+      "title": "CVE-2026-48710 — Kludex Starlette",
+      "summary": "Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when the authentication depends on the reconstructed URL’s path. This vulnerability could be chaned with CVE-2026-42271.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48710",
+      "source": "CISA KEV",
+      "published_at": "2026-09-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "14edc9a03bd9974d8c0b",
+      "title": "CVE-2026-49869 — Kestra Kestra OSS",
+      "summary": "Kestra OSS contains an OS command injection vulnerability that could allow an unauthenticated remote attacker to create and execute arbitrary workflows without credentials.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-49869",
+      "source": "CISA KEV",
+      "published_at": "2026-09-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6d84487d374d5a68da1c",
+      "title": "CVE-2026-82329 — JFrog Artifactory",
+      "summary": "JFrog Artifactory contains an improper authentication vulnerability that under default configuration can allow an unauthenticated attacker with network access to obtain administrative privileges.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-82329",
+      "source": "CISA KEV",
+      "published_at": "2026-09-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1056027367e3bb67f3d0",
+      "title": "CVE-2026-9586 — Sangoma Switchvox",
+      "summary": "Sangoma Switchvox contains a SQL injection vulnerability which allows an unauthenticated remote attacker to execute arbitrary SQL statements against the backend PostgreSQL database using a single crafted request, including database operations and remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-9586",
+      "source": "CISA KEV",
+      "published_at": "2026-09-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "cc0a94376411a9d38d96",
+      "title": "CVE-2026-83548 — SonicWall SMA1000 Appliances",
+      "summary": "SonicWall SMA1000 Appliances contains a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to gain unauthorized access to sensitive functionality and perform unauthorized operations.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-83548",
+      "source": "CISA KEV",
+      "published_at": "2026-09-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b8cc66ab959915563523",
+      "title": "CVE-2026-83549 — SonicWall SMA1000 Appliances",
+      "summary": "SonicWall SMA1000 Appliances contains an OS command injection vulnerability that could enable a remote authenticated attacker as administrator to execute arbitrary OS commands, resulting in remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-83549",
+      "source": "CISA KEV",
+      "published_at": "2026-09-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "bd027dfdfaff1432a7ce",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-037 (31 août 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-037/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-08-31T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "79533af8758bf8bfe246",
+      "title": "CVE-2026-82078 — PaperCut NG/MF",
+      "summary": "PaperCut NG/MF contains an unsafe reflection vulnerability that allows an attacker to manipulate system configuration parameters and execute arbitrary Java bytecode residing on the application classpath under the security context of the PaperCut server process. This vulnerability can be chained with CVE-2026-81578.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-82078",
+      "source": "CISA KEV",
+      "published_at": "2026-08-31T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "bf3b870887239125af97",
+      "title": "CVE-2026-81578 — PaperCut NG/MF",
+      "summary": "PaperCut NG/MF contains a missing authentication for critical function vulnerability which allows an unauthenticated remote attacker to modify certain system configurations. This vulnerability can be chained with CVE-2026-82078.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-81578",
+      "source": "CISA KEV",
+      "published_at": "2026-08-31T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "40584954563838671ff6",
+      "title": "CVE-2023-49105 — ownCloud ownCloud",
+      "summary": "ownCloud contains an improper authentication vulnerability that allows an attacker to access, modify, or delete any file without authentication if the username of a victim is known, and the victim has no signing-key configured.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2023-49105",
+      "source": "CISA KEV",
+      "published_at": "2026-08-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1281301fadc8589713cf",
+      "title": "CVE-2026-53362 — Linux Kernel",
+      "summary": "Linux Kernel contains an unspecified vulnerability that can allow for privilege escalation via IPv6 networking subsystem. This vulnerability can impact multiple products, including but not limited to Suse, Red Hat, and other products using Linux.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-53362",
+      "source": "CISA KEV",
+      "published_at": "2026-08-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "471cde2ed67c215c348f",
+      "title": "CVE-2026-66384 — JFrog Artifactory",
+      "summary": "JFrog Artifactory contains an improper limitation of a pathname to a restricted directory vulnerability. This can allow an authenticated user to write data outside the intended Docker cache path under specific remote-repository conditions.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-66384",
+      "source": "CISA KEV",
+      "published_at": "2026-08-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "54ac4371534b1575aba4",
+      "title": "CVE-2021-23758 — Ajax.NET Professional Ajax.NET Professional",
+      "summary": "Ajax.NET Professional (AjaxPro) contains a deserialization of untrusted data vulnerability that could allow for remote code execution via arbitrary .NET classes. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2021-23758",
+      "source": "CISA KEV",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "17051acffd79d3075b27",
+      "title": "CVE-2015-3246 — Red Hat Libuser",
+      "summary": "Red Hat libuser contains a race condition vulnerability that allows authenticated local users to corrupt the /etc/passwd file to cause a denial of service or privilege escalation.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2015-3246",
+      "source": "CISA KEV",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "f36dbafa8c2607e5df48",
+      "title": "CVE-2015-5287 — Red Hat Automatic Bug Reporting Tool",
+      "summary": "Red Hat Automatic Bug Reporting Tool (ABRT) contains a privilege escalation vulnerability that could allow local users with certain permissions to gain privileges via a symlink attack on a file with a predictable name. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2015-5287",
+      "source": "CISA KEV",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "af697fbeedd66ea19e6e",
+      "title": "CVE-2022-0995 — Linux Kernel",
+      "summary": "Linux Kernel contains an out-of-bounds memory write vulnerability which could allow a local user to gain privileged access or cause a denial of service on the system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2022-0995",
+      "source": "CISA KEV",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "10704c507f336f01166f",
+      "title": "CVE-2026-8452 — Citrix NetScaler ADC and NetScaler Gateway",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability which could lead to denial of service.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-8452",
+      "source": "CISA KEV",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "fe1ffc7f6da8b8436d21",
+      "title": "CVE-2019-1068 — Microsoft SQL Server",
+      "summary": "Microsoft SQL Server contains a remote code execution vulnerability that could allow an attacker to execute code in the context of the SQL Server Database Engine service account.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2019-1068",
+      "source": "CISA KEV",
+      "published_at": "2026-08-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "fbc5ea293d3975450e75",
+      "title": "CVE-2026-60004 — Gitea Gitea",
+      "summary": "Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-60004",
+      "source": "CISA KEV",
+      "published_at": "2026-08-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6e3eedf0d0f229e3f0ff",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-036 (24 août 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-036/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-08-24T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "1d7fbf13da855c3e0b65",
+      "title": "CVE-2026-21962 — Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in",
+      "summary": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in contain an improper access control vulnerability that can result in unauthorized creation, deletion or modification access to critical data as well as unauthorized access to critical data or complete access to all Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in accessible data.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-21962",
+      "source": "CISA KEV",
+      "published_at": "2026-08-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e2ee2034cef4095c7f02",
+      "title": "CVE-2026-73570 — Synacor Zimbra Collaboration Suite (ZCS)",
+      "summary": "Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-73570",
+      "source": "CISA KEV",
+      "published_at": "2026-08-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "c138f8959b41102ecd72",
+      "title": "CVE-2026-72530 — TrueConf Server",
+      "summary": "TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-72530",
+      "source": "CISA KEV",
+      "published_at": "2026-08-20T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6798dfbadeec0709216c",
+      "title": "CVE-2026-72529 — TrueConf Server",
+      "summary": "TrueConf Server contains a missing authentication for critical function vulnerability which could allow a remote unauthorized attacker with network access via port 4307/TCP to execute an arbitrary script.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-72529",
+      "source": "CISA KEV",
+      "published_at": "2026-08-20T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6242dfa87276e7c91183",
+      "title": "CVE-2026-64849 — MLflow MLflow",
+      "summary": "MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-64849",
+      "source": "CISA KEV",
+      "published_at": "2026-08-19T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "9f6db95c4fdaf31273b0",
+      "title": "CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions",
+      "summary": "Microsoft Internet Key Exchange (IKE) Service Extensions contains a double free vulnerability that could enable remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-33824",
+      "source": "CISA KEV",
+      "published_at": "2026-08-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "38156e5e46106ebd7ced",
+      "title": "CVE-2026-59310 — Broadcom VMware vCenter",
+      "summary": "Broadcom VMware vCenter contains a path traversal vulnerability which could allow a threat actor with network access to vCenter to execute arbitrary code.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-59310",
+      "source": "CISA KEV",
+      "published_at": "2026-08-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "97c8096b35ea298ef297",
+      "title": "CVE-2026-55040 — Microsoft SharePoint",
+      "summary": "Microsoft SharePoint contains a weak authentication vulnerability which allows an unauthorized attacker to bypass a security feature over a network.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-55040",
+      "source": "CISA KEV",
+      "published_at": "2026-08-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1d73b0247e43057aa954",
+      "title": "CVE-2026-65400 — Apple macOS",
+      "summary": "Apple macOS contains an improper authentication vulnerability that could allow an attacker on the network to authenticate to Screen Sharing without valid credentials.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-65400",
+      "source": "CISA KEV",
+      "published_at": "2026-08-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "51b20a3847a792e44fdb",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-035 (17 août 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-035/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-08-17T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b964dbaee397552ad3da",
+      "title": "CVE-2025-62593 — Ray-Project Ray",
+      "summary": "Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-62593",
+      "source": "CISA KEV",
+      "published_at": "2026-08-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "702a91d4ad6c0b242abe",
+      "title": "CVE-2026-20349 — Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)",
+      "summary": "Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) contain a heap inspection vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20349",
+      "source": "CISA KEV",
+      "published_at": "2026-08-11T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "feebd31081206458c2ed",
+      "title": "CVE-2026-68820 — Microsoft Windows Ancillary Function Driver for WinSock",
+      "summary": "Microsoft Windows Ancillary Function Driver for WinSock contains a use-after-free vulnerability that allows an authorized attacker to elevate privileges locally.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-68820",
+      "source": "CISA KEV",
+      "published_at": "2026-08-11T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "93734135a07ec296b0ad",
+      "title": "CVE-2026-72898 — Metabase Metabase",
+      "summary": "Metabase contains a SQL Injection vulnerability that allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, which can give them administrator access to the instance. From there, the attacker could change the application configuration, steal stored credentials for the connected databases, read any data accessible through those connections, and export data.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-72898",
+      "source": "CISA KEV",
+      "published_at": "2026-08-11T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "5d441a9c4761969d139d",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-034 (10 août 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-034/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-08-10T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a1fe75da9ba46289374d",
+      "title": "CVE-2026-8037 — Progress LoadMaster",
+      "summary": "Progress LoadMaster contains a command injection vulnerability that allows an un-authenticated attacker to execute arbitrary commands on the LoadMaster appliance by exploiting unsanitized input in multiple command endpoints.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-8037",
+      "source": "CISA KEV",
+      "published_at": "2026-08-07T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "45090cf95d86aa254f83",
+      "title": "CVE-2026-63077 — JetBrains TeamCity",
+      "summary": "JetBrains TeamCity contains a deserialization of untrusted data vulnerability that could allow unauthenticated remote code execution via the agent polling protocol.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-63077",
+      "source": "CISA KEV",
+      "published_at": "2026-08-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "2ebf4c4a7eefa86812c7",
+      "title": "CVE-2026-18556 — N-able N-central",
+      "summary": "N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-18556",
+      "source": "CISA KEV",
+      "published_at": "2026-08-04T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "7b9bbc221e6225c37dda",
+      "title": "CVE-2026-34486 — Apache Tomcat",
+      "summary": "Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. This vulnerability can be chained with CVE‑2025‑24813.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-34486",
+      "source": "CISA KEV",
+      "published_at": "2026-08-04T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b8ca8bc6b10ae5316972",
+      "title": "CVE-2026-9198 — IBM Langflow",
+      "summary": "Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-9198",
+      "source": "CISA KEV",
+      "published_at": "2026-08-04T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "3feb6d567e5eb0a625b0",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-033 (03 août 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-033/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-08-03T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e73636d9a4a1adb449c8",
+      "title": "CVE-2026-18577 — N-able N-central",
+      "summary": "N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-18577",
+      "source": "CISA KEV",
+      "published_at": "2026-08-03T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "975d9320d00d3620e44a",
+      "title": "CVE-2026-20316 — Cisco Secure Firewall Management Center (FMC)",
+      "summary": "Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20316",
+      "source": "CISA KEV",
+      "published_at": "2026-07-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1d645b208e51d86b2e7c",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-032 (27 juillet 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-032/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-07-27T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "31f4d866f5547be6502e",
+      "title": "CVE-2025-68686 — Fortinet FortiOS",
+      "summary": "Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-68686",
+      "source": "CISA KEV",
+      "published_at": "2026-07-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "84234db84e20d5b8c1e0",
+      "title": "CVE-2026-16812 — Arista VeloCloud Orchestrator",
+      "summary": "Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-16812",
+      "source": "CISA KEV",
+      "published_at": "2026-07-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "bd97320296d04fcee1e7",
+      "title": "Multiples vulnérabilités dans Microsoft Sharepoint (22 juillet 2026)",
+      "summary": "Le 14 juillet 2026, à l'occasion de sa mise à jour mensuelle, Microsoft a publié, entre autres, des correctifs pour deux vulnérabilités critiques affectant SharePoint. Les vulnérabilités CVE-2026-50522 et CVE-2026-58644 permettent à un attaquant non authentifié d'exécuter du code arbitraire à...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-008/",
+      "source": "CERT-FR",
+      "published_at": "2026-07-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d56846878514e8f4fd47",
+      "title": "CVE-2026-16232 — Check Point SmartConsole",
+      "summary": "Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-16232",
+      "source": "CISA KEV",
+      "published_at": "2026-07-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e4a95203622bbdae271c",
+      "title": "CVE-2026-50522 — Microsoft SharePoint",
+      "summary": "Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-50522",
+      "source": "CISA KEV",
+      "published_at": "2026-07-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "df54942c5303a74236c2",
+      "title": "CVE-2026-60137 — WordPress Core",
+      "summary": "WordPress Core contains a SQL injection vulnerability when a plugin or theme passes untrusted input to the parameter. This vulnerability can be chained with CVE-2026-63030 to allow an unauthenticated attacker to gain remote code execution on default WordPress installations.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-60137",
+      "source": "CISA KEV",
+      "published_at": "2026-07-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "042da7d78ff84dd07dd2",
+      "title": "CVE-2026-63030 — WordPress Core",
+      "summary": "WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-63030",
+      "source": "CISA KEV",
+      "published_at": "2026-07-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "0a0e41f30b9aab2ab83d",
+      "title": "CVE-2026-0770 — Langflow Langflow",
+      "summary": "Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-0770",
+      "source": "CISA KEV",
+      "published_at": "2026-07-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e7f1dc3aad7ef70ec787",
+      "title": "CVE-2021-27137 — DD-WRT DD-WRT",
+      "summary": "DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2021-27137",
+      "source": "CISA KEV",
+      "published_at": "2026-07-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "9b1271692a540db64735",
+      "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
+      "summary": "Le 17 juillet 2026, WordPress a publié un correctif pour deux vulnérabilités : CVE-2026-60137 : une injection SQL (SQLi) ; CVE-2026-63030 : celle-ci permet un contournement de la politique de sécurité. Un attaquant peut exploiter ces deux vulnérabilités, de manière combinée, pour obtenir une...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-007/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-07-20T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "7f092f1a656b18ea223b",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-031 (20 juillet 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-031/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-07-20T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "8519fa8636892d308caa",
+      "title": "CVE-2026-58644 — Microsoft SharePoint",
+      "summary": "Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-58644",
+      "source": "CISA KEV",
+      "published_at": "2026-07-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6f778cad127205704c81",
+      "title": "CVE-2026-25089 — Fortinet FortiSandbox",
+      "summary": "Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-25089",
+      "source": "CISA KEV",
+      "published_at": "2026-07-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d827c6bbe2615de116b2",
+      "title": "CVE-2026-39808 — Fortinet FortiSandbox",
+      "summary": "Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-39808",
+      "source": "CISA KEV",
+      "published_at": "2026-07-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "95c516de28145d60301e",
+      "title": "Multiples vulnérabilités dans Sonicwall Secure Mobile Access (15 juillet 2026)",
+      "summary": "Le 14 juillet 2026, Sonicwall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-15409 permet une falsification de requêtes côté serveur (SSRF) de la part d'un attaquant non authentifié. La vulnérabilité...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-006/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-07-15T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "354e090c48df85fb1166",
+      "title": "CVE-2026-46817 — Oracle E-Business Suite",
+      "summary": "Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-46817",
+      "source": "CISA KEV",
+      "published_at": "2026-07-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "9165587293f48154c195",
+      "title": "CVE-2023-4346 — KNX Association KNX Protocol Connection Authorization Option 1",
+      "summary": "KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2023-4346",
+      "source": "CISA KEV",
+      "published_at": "2026-07-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "55fdf9dc0820bb9a7994",
+      "title": "CVE-2026-56155 — Microsoft Active Directory Federation Services",
+      "summary": "Microsoft Active Directory Federation Services contains an insufficient granularity of access control vulnerability that allows an authorized attacker to elevate privileges locally.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-56155",
+      "source": "CISA KEV",
+      "published_at": "2026-07-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "444a8eab5a5008cdb064",
+      "title": "CVE-2026-56164 — Microsoft SharePoint Server",
+      "summary": "Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-56164",
+      "source": "CISA KEV",
+      "published_at": "2026-07-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "edda1ef36a46d294b48f",
+      "title": "CVE-2026-15409 — SonicWall SMA1000 Appliances",
+      "summary": "SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-15409",
+      "source": "CISA KEV",
+      "published_at": "2026-07-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "307d8774b89f440275c8",
+      "title": "CVE-2026-15410 — SonicWall SMA1000 Appliances",
+      "summary": "SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-15410",
+      "source": "CISA KEV",
+      "published_at": "2026-07-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "30198aec380399f75f97",
+      "title": "Ciblage et compromission d’entités françaises au moyen du mode opératoire d’attaque Turla (13 juillet 2026)",
+      "summary": "English version : 🇬🇧 Les membres du Centre de Coordination des Crises Cyber (C4) ont observé le ciblage et la compromission d’entités françaises au moyen du mode opératoire d’attaque (MOA) Turla, opéré par le 16ème Centre du service fédéral de sécurité de la fédération de Russie (FSB). Depuis au...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-004/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-07-13T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3e3ba9840e342c192ed6",
+      "title": "Targeting and Compromise of French Entities Using the Turla Intrusion Set (13 juillet 2026)",
+      "summary": "Version française: 🇫🇷 Members of the Cyber Crisis Coordination Centre (C4) have observed the targeting and compromise of French entities using the Turla intrusion set operated by the 16th Centre of the Federal Security Service of the Russian Federation (FSB). Since at least 2004, this intrusion...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-005/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-07-13T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3a02e33755940935db41",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-030 (13 juillet 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-030/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-07-13T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "69cdc893024447dbdfdc",
+      "title": "CVE-2008-4128 — Cisco IOS",
+      "summary": "Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain \"show privilege\" command to the /level/15/exec/- URI, and (2) a certain \"alias exec\" command to the /level/15/exec/-/configure/http URI.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2008-4128",
+      "source": "CISA KEV",
+      "published_at": "2026-07-13T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a5d3682a45348930b37d",
+      "title": "CVE-2026-56291 — Balbooa Forms",
+      "summary": "Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-56291",
+      "source": "CISA KEV",
+      "published_at": "2026-07-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "2e09fe874027fa1101e9",
+      "title": "CVE-2026-48939 — iCagenda iCagenda",
+      "summary": "iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48939",
+      "source": "CISA KEV",
+      "published_at": "2026-07-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "098c0eabc15832a994be",
+      "title": "CVE-2026-48908 — JoomShaper SP Page Builder",
+      "summary": "JoomShaper SP Page Builder contains an unrestricted upload of file with dangerous type vulnerability that allows unauthenticated users to upload arbitrary files, ultimately resulting in the upload and execution of PHP code.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48908",
+      "source": "CISA KEV",
+      "published_at": "2026-07-07T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "165d74c53290cdca38b6",
+      "title": "CVE-2026-55255 — Langflow Langflow",
+      "summary": "Langflow contains an authorization bypass through user-controlled key vulnerability which allows an authenticated attacker to execute any flow belonging to another user by specifying the victim's flow ID in the request.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-55255",
+      "source": "CISA KEV",
+      "published_at": "2026-07-07T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "08e58500b69cbf25150d",
+      "title": "CVE-2026-56290 — Joomlack Page Builder",
+      "summary": "Joomlack Page Builder contains an improper access control vulnerability that could allow for remote code execution via unauthenticated arbitrary file upload.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-56290",
+      "source": "CISA KEV",
+      "published_at": "2026-07-07T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "adf8cc52b07551d03cd8",
+      "title": "CVE-2026-48282 — Adobe ColdFusion",
+      "summary": "Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48282",
+      "source": "CISA KEV",
+      "published_at": "2026-07-07T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "51e0961c9db203ed9564",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-029 (06 juillet 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-029/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-07-06T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "98cd9614b6dedde78f78",
+      "title": "CVE-2026-45659 — Microsoft SharePoint Server",
+      "summary": "Microsoft SharePoint Server contains a deserialization of untrusted data vulnerability which allows an authorized attacker to execute code over a network.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-45659",
+      "source": "CISA KEV",
+      "published_at": "2026-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d5ea9da86f23ebc95e5e",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-028 (29 juin 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-028/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-06-29T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ea55cb54bdfda2be6aa9",
+      "title": "CVE-2026-48558 — SimpleHelp SimpleHelp",
+      "summary": "SimpleHelp contains an authentication bypass vulnerability in the OIDC authentication flow. When OIDC authentication is configured, identity tokens submitted during login are accepted without verifying their cryptographic signature. In a vulnerable configuration, a remote, unauthenticated attacker can submit a forged token containing arbitrary identity claims to obtain a fully authenticated technician session. In some configurations, this may also allow bypass of multi-factor authentication.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48558",
+      "source": "CISA KEV",
+      "published_at": "2026-06-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "eefad152ab4a32d9543a",
+      "title": "CVE-2026-12569 — PTC Windchill and FlexPLM",
+      "summary": "PTC Windchill and FlexPLM contains an improper input validation vulnerability allowing an unauthenticated, remote attacker to execute arbitrary code by sending a malicious request to the network.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-12569",
+      "source": "CISA KEV",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "83f9f82533741040f68a",
+      "title": "CVE-2026-20230 — Cisco Unified Communications Manager",
+      "summary": "Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) contain a server-side request forgery (SSRF) Vulnerability that could allow an unauthenticated, remote attacker to write files to the underlying operating system that could be used later to elevate to root.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20230",
+      "source": "CISA KEV",
+      "published_at": "2026-06-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d4b8f72f7cf15da70765",
+      "title": "CVE-2025-67038 — Lantronix EDS5000",
+      "summary": "Lantronix EDS5000 contains a code injection vulnerability that could allow attackers to inject arbitrary OS commands into the username parameter. Injected commands are executed with root privileges.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-67038",
+      "source": "CISA KEV",
+      "published_at": "2026-06-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "fbf0c783914de44fda24",
+      "title": "CVE-2026-34910 — Ubiquiti UniFi OS",
+      "summary": "Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-34910",
+      "source": "CISA KEV",
+      "published_at": "2026-06-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "ad215695bc2c6772d8d5",
+      "title": "CVE-2026-34909 — Ubiquiti UniFi OS",
+      "summary": "Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-34909",
+      "source": "CISA KEV",
+      "published_at": "2026-06-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "5aecce49546f5052f7e1",
+      "title": "CVE-2026-34908 — Ubiquiti UniFi OS",
+      "summary": "Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-34908",
+      "source": "CISA KEV",
+      "published_at": "2026-06-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6733e7b04cc9e27c444f",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-027 (22 juin 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-027/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-06-22T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b271d07143ae5015a0b3",
+      "title": "CVE-2026-20253 — Splunk Enterprise",
+      "summary": "Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20253",
+      "source": "CISA KEV",
+      "published_at": "2026-06-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "3ba1491d6089b46fe224",
+      "title": "CVE-2026-48907 — Widget Factory Joomla Content Editor",
+      "summary": "Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48907",
+      "source": "CISA KEV",
+      "published_at": "2026-06-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a8ee8c6db9490d538163",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-026 (15 juin 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-026/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-06-15T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "777329dda18ca738e8ed",
+      "title": "CVE-2026-54420 — LiteSpeed cPanel Plugin",
+      "summary": "LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-54420",
+      "source": "CISA KEV",
+      "published_at": "2026-06-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "194bc38aff3da051bee6",
+      "title": "CVE-2026-20262 — Cisco Catalyst SD-WAN Manager",
+      "summary": "Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20262",
+      "source": "CISA KEV",
+      "published_at": "2026-06-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "89fcbc9086a521a5305c",
+      "title": "CVE-2026-35273 — Oracle PeopleSoft Enterprise PeopleTools",
+      "summary": "Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-35273",
+      "source": "CISA KEV",
+      "published_at": "2026-06-12T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "c643f89b9e4f9bb9ae0c",
+      "title": "CVE-2026-10520 — Ivanti Sentry",
+      "summary": "Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its endpoints externally reachable. The use of mTLS with EPMM or restricted HTTPS access through Neurons for MDM makes interfaces inaccessible to external actors.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-10520",
+      "source": "CISA KEV",
+      "published_at": "2026-06-11T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "7b9807c2d5a3906184aa",
+      "title": "CVE-2026-11645 — Google Chromium V8",
+      "summary": "Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-11645",
+      "source": "CISA KEV",
+      "published_at": "2026-06-09T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "2cb46a43d8261e71cd65",
+      "title": "CVE-2026-7473 — Arista Extensible Operating System",
+      "summary": "Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-7473",
+      "source": "CISA KEV",
+      "published_at": "2026-06-09T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b8f43ba0b9b8d7d02245",
+      "title": "CVE-2026-20245 — Cisco Catalyst SD-WAN Manager",
+      "summary": "Cisco Catalyst SD-WAN Manager formerly SD-WAN vManage contains an improper encoding or escaping of output vulnerability. This vulnerability could allow an authenticated, local attacker to execute arbitrary commands as root by supplying a crafted file to the affected system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20245",
+      "source": "CISA KEV",
+      "published_at": "2026-06-09T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "9780c58fb53242f9c8e9",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-025 (08 juin 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-025/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-06-08T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "09e4b5b87225e7783f43",
+      "title": "CVE-2026-42271 — BerriAI LiteLLM",
+      "summary": "BerriAI LiteLLM contains a command injection vulnerability that could allow any authenticated user, including holders of low-privilege internal-user keys, to run arbitrary commands on the host.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-42271",
+      "source": "CISA KEV",
+      "published_at": "2026-06-08T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a05b773e781b708d8877",
+      "title": "CVE-2026-50751 — Check Point Security Gateway",
+      "summary": "Check Point Security Gateway contains an improper authentication vulnerability in IKEv1 key exchange that could allow an unauthenticated remote attacker to bypass user authentication and establish a remote access VPN connection without a valid user password.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-50751",
+      "source": "CISA KEV",
+      "published_at": "2026-06-08T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b17ef86b6f10eeab76bc",
+      "title": "CVE-2026-28318 — SolarWinds Serv-U",
+      "summary": "SolarWinds Serv-U contains an uncontrolled resource consumption vulnerability that allows specially crafted POST requests using the Content-Encoding: deflate header to crash the Serv-U service without authentication.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-28318",
+      "source": "CISA KEV",
+      "published_at": "2026-06-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e7418f98586b031d1644",
+      "title": "CVE-2026-45247 — Mirasvit Mirasvit Full Page Cache Warmer",
+      "summary": "Mirasvit Full Page Cache Warmer contains a deserialization of untrusted data vulnerability that could allow unauthenticated attackers to achieve remote code execution by supplying a crafted serialized PHP object in the CacheWarmer cookie.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-45247",
+      "source": "CISA KEV",
+      "published_at": "2026-06-03T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d2946bf64e71c7bae016",
+      "title": "CVE-2022-0492 — Linux Kernel",
+      "summary": "Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2022-0492",
+      "source": "CISA KEV",
+      "published_at": "2026-06-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1c827609dfcefe846006",
+      "title": "CVE-2025-48595 — Android Framework",
+      "summary": "Android Framework contains an integer overflow vulnerability that allows for code execution that could allow for local privilege escalation.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-48595",
+      "source": "CISA KEV",
+      "published_at": "2026-06-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "487b1c87fe059133f33d",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-024 (01 juin 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-024/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-06-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "9ac2dce50762cf0947cb",
+      "title": "CVE-2024-21182 — Oracle WebLogic Server",
+      "summary": "Oracle WebLogic contains an unspecified vulnerability that could allow an unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2024-21182",
+      "source": "CISA KEV",
+      "published_at": "2026-06-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "728544fb5df6a895958b",
+      "title": "CVE-2026-0257 — Palo Alto Networks PAN-OS",
+      "summary": "Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-0257",
+      "source": "CISA KEV",
+      "published_at": "2026-05-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "58145804d2d29cc8e37b",
+      "title": "CVE-2026-48027 — Nx Nx Console",
+      "summary": "Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48027",
+      "source": "CISA KEV",
+      "published_at": "2026-05-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b89ea31cdc6807dccce7",
+      "title": "CVE-2026-45321 — TanStack TanStack",
+      "summary": "TanStack contains an unspecified vulnerability that allowed malicious versions of the product to be published to the npm registry to publish credential-stealing malware under a trusted identity.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-45321",
+      "source": "CISA KEV",
+      "published_at": "2026-05-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b3b2f6e8817a3c6d5808",
+      "title": "CVE-2026-8398 — Daemon Daemon Tools Lite",
+      "summary": "Daemon Tools contains an unspecified vulnerability that has a high impact on confidentiality, integrity, and availability.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-8398",
+      "source": "CISA KEV",
+      "published_at": "2026-05-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "702518c7ff06e14e8293",
+      "title": "Multiples vulnérabilités dans Roundcube (26 mai 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0644/",
+      "source": "CERT-FR",
+      "published_at": "2026-05-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b33ee662fe7de52c9fd8",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-023 (26 mai 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-023/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-05-26T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "32341fb9e485f6783a59",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-022 (18 mai 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-022/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-05-18T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ba1322d570270e831047",
+      "title": "[Màj] Vulnérabilité dans Microsoft Exchange Server (15 mai 2026)",
+      "summary": "[Mise à jour du 11 juin 2026] Le 9 juin 2026, Microsoft a publié des versions correctives. [Publication initiale] Le 14 mai 2026, Microsoft a publié un avis de sécurité concernant la vulnérabilité CVE-2026-42897 affectant Exchange Server. Elle permet à un attaquant non authentifié de provoquer...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-005/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-05-15T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "191c8be7b4fd71a20fc1",
+      "title": "🇬🇧 Cyber Threat Overview 2025 (13 mai 2026)",
+      "summary": "Version française: 🇫🇷 The boundaries which traditionally separate state-sponsored and cybercriminal actors continued to blur in 2025, thereby further complexifying the imputation process. The exploitation of legitimate applications and services for malicious purposes can, for example, no longer...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-003/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-05-13T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ef85353d4f9769b21620",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-021 (11 mai 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-021/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-05-11T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "331bdae6a0bf5acac71a",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-020 (04 mai 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-020/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-05-04T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e08df608eff5b7b04915",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-019 (27 avril 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-019/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-04-27T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e5d0554933f621e07047",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-018 (20 avril 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-018/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-04-20T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d991d827b7cbce4ad121",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-017 (13 avril 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-017/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-04-13T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "cc92738b32fb39956d79",
+      "title": "Vulnérabilités et risques des produits d’automatisation par IA agentique sur les postes de travail (13 avril 2026)",
+      "summary": "Depuis le début d’année 2026, les assistants personnels autonomes de type OpenClaw, Claude Cowork et d’autres solutions en sources ouvertes connaissent une adoption particulièrement soutenue. Contrairement aux assistants conversationnels classiques, ces assistants personnels autonomes ne se...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-016/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-04-13T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b34c6ffd4ed90c61891d",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-015 (07 avril 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-015/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-04-07T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b73e3734b627b2f81536",
+      "title": "Expiration de certificats Secure Boot en juin 2026 (02 avril 2026)",
+      "summary": "Le démarrage sécurisé (UEFI Secure Boot) est une fonctionnalité de sécurité disponible sur les ordinateurs PC clients et serveurs depuis 2011. Son rôle est de sécuriser la séquence de démarrage de l’appareil, en vérifiant l’intégrité du code exécuté entre la mise sous tension et le démarrage du...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-014/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-04-02T00:00:00Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "275fbe02d1f78d428930",
+      "title": "Vulnérabilité dans F5 BIG-IP Access Policy Manager (31 mars 2026)",
+      "summary": "Le 15 octobre 2025, F5 a publié un avis de sécurité concernant entre autres la vulnérabilité CVE-2025-53521. Celle-ci affecte BIG-IP APM et permet à un attaquant non authentifié d'exécuter du code à distance. Le 29 mars 2026, l'éditeur indique que cette vulnérabilité est exploitée activement. Le...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-004/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-03-31T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a5c48beef04d9a0fbff2",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-013 (30 mars 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-013/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-03-30T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3b0816a97e437416222c",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-012 (23 mars 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-012/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-03-23T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "7002029c6f179952c9ba",
+      "title": "Note d’alerte – Ciblage des messageries instantanées (20 mars 2026)",
+      "summary": "Le CERT-FR observe une recrudescence de campagnes d’attaques ciblant les comptes de messagerie instantanées. Ces campagnes ciblent particulièrement les secteurs régaliens (personnalités politiques, cadres de l’administration) mais aussi les personnels de la société civile exerçant des fonctions...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-003/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-03-20T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2dbcf5b95d9a50cff929",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-011 (16 mars 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-011/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-03-16T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "965fc495f5ef5d6de532",
+      "title": "Panorama de la cybermenace 2025 (11 mars 2026)",
+      "summary": "English version : 🇬🇧 En 2025, les frontières qui existent traditionnellement entre acteurs étatiques et cybercriminels ont continué de s’éroder, complexifiant notamment le processus d'imputation. Ainsi par exemple le détournement, à des fins malveillantes, d’outils et de services légitimes, n'est...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-002/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-03-11T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "92cc8c417dc722889a82",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-010 (09 mars 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-010/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-03-09T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3ecf834c6190878dd958",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-009 (02 mars 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-009/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-03-02T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "cd244ef4ce48d27c773d",
+      "title": "[MàJ] Vulnérabilité dans Cisco Catalyst SD-WAN (25 février 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-20127 est activement exploitée.",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-002/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-02-25T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "4af45c9b3038c0fb1074",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-008 (23 février 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-008/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-02-23T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "32ce15e25441611e3cc2",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-007 (16 février 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-007/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-02-16T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "19574cd213cef5f71f74",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-006 (09 février 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-006/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-02-09T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "0b3ed188d9531cbf361f",
+      "title": "L’intelligence artificielle générative face aux attaques informatiques (04 février 2026)",
+      "summary": "En tant que service numérique innovant, performant et flexible, l’IA générative est progressivement intégrée à l’éventail d’outils et de services auxquels sont susceptibles de recourir les attaquants informatiques quel que soit leur profil. Des modèles d’IA générative sont ainsi utilisées et/ou...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-001/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-02-04T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e19c2269e35da96453b6",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-005 (02 février 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-005/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-02-02T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b110efc0018a226f0e23",
+      "title": "[MàJ] Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (30 janvier 2026)",
+      "summary": "[Mise à jour du 09 février 2026] Le 6 février 2026, Ivanti a mis à disposition des scripts RPM de détection d'indicateurs de compromission, à utiliser en fonction de la version d'EPMM installée. L'éditeur a également mis son guide d'analyse à jour (cf. section Documentation). [Mise à jour du 02...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-001/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2026-01-30T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a3a65c9fc2d1f655f72c",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-004 (26 janvier 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-004/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-01-26T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d1ef013fac589014c53d",
+      "title": "Vulnérabilité dans telnetd (21 janvier 2026)",
+      "summary": "Le 20 janvier 2026, les détails de la vulnérabilité CVE-2026-24061, affectant *telnetd*, ont été publiés. Cette vulnérabilité permet à un attaquant de contourner l'authentification et de se connecter à une machine vulnérable en tant que l'utilisateur *root*. Elle a été introduite en mars 2015 et...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-003/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-01-21T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ad7b5b74713ee0eae4ad",
+      "title": "[MàJ] Vulnérabilité dans React Server Components (05 décembre 2025)",
+      "summary": "**[Mise à jour du 11 décembre 2025]** Le CERT-FR a connaissance de multiples exploitations de la vulnérabilité CVE-2025-55182. Les serveurs avec une version vulnérable exposés après la publication des preuves de concept publiques du 5 décembre 2025 doivent être considérés comme compromis....",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-014/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-12-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d9a392f1289e79bef468",
+      "title": "Téléphones mobiles : État de la menace depuis 2015 (26 novembre 2025)",
+      "summary": "English version : 🇬🇧 Les téléphones mobiles font aujourd'hui partie du quotidien. L'augmentation croissante des usages, aussi bien liés à la vie personnelle que professionnelle, en font une cible de choix pour les attaquants. Comme tout équipement informatique, et bien que de nouvelles mesures de...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-012/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-11-26T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "91123cb85d58cbae043e",
+      "title": "🇬🇧 Mobile phones : Threat landscape since 2015 (26 novembre 2025)",
+      "summary": "Version française: 🇫🇷 Mobile phones are an integral part of everyday life. Their use in every aspect of life, personal as well as professional, makes them a prime target for malicious actors. Mobile phones actually offer unique opportunities for attackers, stemming from their specific use and...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-013/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-11-26T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b7e6fe9e586e1b8600cd",
+      "title": "Opération ENDGAME de novembre 2025 (13 novembre 2025)",
+      "summary": "Dans le cadre de l'opération de coopération judiciaire internationale ENDGAME lancée en mai 2024, de nouvelles actions de démantèlement ont été menées contre les infrastructures liées à des codes cybercriminels depuis la semaine du 3 novembre 2025. Ces opérations ont impliqué les autorités...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-011/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-11-13T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "37f9628eadbd7c0e11c5",
+      "title": "[MàJ] Multiples vulnérabilités dans Cisco ASA et FTD (25 septembre 2025)",
+      "summary": "**[Mise à jour du 07 novembre 2025]** Le 5 novembre 2025, Cisco a mis a jour son billet de blogue initialement publié le 25 septembre 2025 (cf. section Documentation). L'éditeur déclare avoir connaissance d'une nouvelle attaque, affectant les équipements ASA et FTD vulnérables, qui cause un déni...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-013/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-09-25T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5f136fccb6b56e30423d",
+      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
+      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particulièrement sophistiqués et difficiles à détecter. Ces attaques complexes ciblent des...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-010/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-09-11T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "349fcf56a3340ff12625",
+      "title": "Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (26 août 2025)",
+      "summary": "Le 26 août 2025, Citrix a publié un bulletin de sécurité (cf. section Documentation) concernant, entre autres, la vulnérabilité CVE-2025-7775. Celle-ci permet une exécution de code arbitraire à distance et affecte toutes les versions de Citrix NetScaler ADC et NetScaler Gateway, dans certaines...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-012/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-26T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "7107424ad22106dcca71",
+      "title": "Incidents de sécurité dans les pare-feux SonicWall (05 août 2025)",
+      "summary": "[Mise à jour du 7 août 2025] Le 6 août 2025, SonicWall a remplacé une partie de son communiqué initial pour indiquer que les incidents de sécurité évoqués étaient vraisemblablement corrélés à la vulnérabilité CVE-2024-40766. Celle-ci a fait l'objet d'un bulletin de sécurité, SNWLID-2024-0015 (cf....",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-011/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "1c0fc6399907d32a65ec",
+      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
+      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "39b30af5529cc701957f",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2ef6c92274ce6f313bd2",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6d17de8c94a0b080e7f0",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "409d811bdff30cc1c971",
+      "title": "Opération ENDGAME 2025 (23 mai 2025)",
+      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-05-23T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6368041108d7dc95e6bc",
+      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (EPMM) (14 mai 2025)",
+      "summary": "[Mise à jour du 15 mai 2025] Une preuve de concept est publiquement disponible sur Internet. [Publication initiale] Le 13 mai 2025, Ivanti a publié deux avis de sécurité concernant les vulnérabilités CVE-2025-4427 et CVE-2025-4428. L'utilisation combinée de ces deux vulnérabilités permet...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-007/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-14T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5e4f56d49477a4ca2430",
+      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
+      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-006/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-13T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ef0ed0f1dd0c2f1e62ee",
+      "title": "Ciblage et compromission d'entités françaises au moyen du mode opératoire d'attaque APT28 (29 avril 2025)",
+      "summary": "English version : 🇬🇧 L’ANSSI et ses partenaires du Centre de coordination des crises cyber (C4) ont observé entre 2021 et 2024 des attaques informatiques conduites par les opérateurs d’APT28, qui sont publiquement rattachés par différentes sources à la Russie. Le mode opératoire d’attaque APT28 a...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "31589b069cc8ff518af3",
+      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
+      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    }
+  ]
 }
