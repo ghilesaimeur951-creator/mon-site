@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:16:11Z",
+  "generated_at": "2026-09-26T14:36:21Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T10:16:11Z",
+      "published_at": "2026-09-26T14:36:21Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T10:16:11Z",
+      "published_at": "2026-09-26T14:36:21Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T10:16:11Z",
+      "published_at": "2026-09-26T14:36:21Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -38,19 +38,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T10:16:11Z",
+      "published_at": "2026-09-26T14:36:21Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "d7761a75ee2f45961ad6",
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "id": "d8d3bf9e01bca0f75739",
+      "title": "Exposed GitLab project email addresses let attackers push code",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T10:16:11Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
+      "published_at": "2026-09-26T14:36:21Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "1c3c43c410792b809c0e",
+      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-26T14:36:21Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "368846adf0a4a33882b7",
@@ -58,9 +68,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T10:16:11Z",
+      "published_at": "2026-09-26T14:36:21Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "fa5c037c6dc25b42b205",
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-26T14:19:46Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "17579509bdfc5756113d",
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-26T12:28:41Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "3e6437721d938a62267b",
@@ -281,26 +311,6 @@
       "published_at": "2026-09-24T20:10:48Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "d8d3bf9e01bca0f75739",
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T17:47:44Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "1c3c43c410792b809c0e",
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T14:02:12Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "ce3254336a051ef0e8d6",
@@ -2487,16 +2497,6 @@
       "title": "Ciblage et compromission d'entités françaises au moyen du mode opératoire d'attaque APT28 (29 avril 2025)",
       "summary": "English version : 🇬🇧 L’ANSSI et ses partenaires du Centre de coordination des crises cyber (C4) ont observé entre 2021 et 2024 des attaques informatiques conduites par les opérateurs d’APT28, qui sont publiquement rattachés par différentes sources à la Russie. Le mode opératoire d’attaque APT28 a...",
       "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-04-29T00:00:00Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "31589b069cc8ff518af3",
-      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
-      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
