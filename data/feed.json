@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:36:21Z",
+  "generated_at": "2026-09-26T18:00:47Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T14:36:21Z",
+      "published_at": "2026-09-26T18:00:47Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T14:36:21Z",
+      "published_at": "2026-09-26T18:00:47Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T14:36:21Z",
+      "published_at": "2026-09-26T18:00:47Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -38,29 +38,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T14:36:21Z",
+      "published_at": "2026-09-26T18:00:47Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "d8d3bf9e01bca0f75739",
-      "title": "Exposed GitLab project email addresses let attackers push code",
+      "id": "7265697f416b0e92d6da",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T14:36:21Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-09-26T18:00:47Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
-      "id": "1c3c43c410792b809c0e",
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "id": "8692e38436e8a580464b",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T14:36:21Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-09-26T18:00:47Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "368846adf0a4a33882b7",
@@ -68,9 +68,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T14:36:21Z",
+      "published_at": "2026-09-26T18:00:47Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "1d5487d8b2c1f7862ef1",
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-26T16:26:58Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "b597d5341c3fff2ceea7",
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-26T15:50:38Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "fa5c037c6dc25b42b205",
@@ -291,26 +311,6 @@
       "published_at": "2026-09-25T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "7265697f416b0e92d6da",
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T20:53:35Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "8692e38436e8a580464b",
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-24T20:10:48Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "ce3254336a051ef0e8d6",
