@@ -1,46 +1,16 @@
 {
-  "generated_at": "2026-09-26T18:00:47Z",
+  "generated_at": "2026-09-26T21:05:44Z",
   "count": 250,
   "items": [
     {
-      "id": "7e0f816f375f2a30132d",
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "id": "4ef5d17c61039a39102b",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T18:00:47Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "3c5d9756b70db29c546f",
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T18:00:47Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "5204aaedc51d4d0b7247",
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T18:00:47Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "8b8a2ad63964807c5ed8",
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T18:00:47Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-09-26T21:05:44Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "7265697f416b0e92d6da",
@@ -48,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T18:00:47Z",
+      "published_at": "2026-09-26T21:05:44Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -58,19 +28,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T18:00:47Z",
+      "published_at": "2026-09-26T21:05:44Z",
       "category": "Menace",
       "severity": "Élevée"
     },
     {
-      "id": "368846adf0a4a33882b7",
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "id": "8b8a2ad63964807c5ed8",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-26T18:00:47Z",
+      "published_at": "2026-09-26T21:05:44Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "77ddfbcd4e34cd1f5125",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-26T19:03:34Z",
       "category": "Vulnérabilité",
-      "severity": "Critique"
+      "severity": "Élevée"
     },
     {
       "id": "1d5487d8b2c1f7862ef1",
@@ -211,16 +191,6 @@
       "published_at": "2026-09-25T10:30:38Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "4ef5d17c61039a39102b",
-      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
-      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T08:33:44Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "cedaa7a15776ff25d1d3",
@@ -2499,6 +2469,36 @@
       "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/",
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "31589b069cc8ff518af3",
+      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
+      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "03a7ac539f5ab2030a99",
+      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
+      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet de télécharger...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-005/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-28T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c5231bdc95e254bf7c9b",
+      "title": "Transports urbains - État de la menace informatique (17 avril 2025)",
+      "summary": "La menace à l’encontre des entités des transports urbains cible des entreprises de toutes les tailles dans le monde entier qui opèrent différents modes de transport. La convergence de technologies industrielles et bureautique, l’interconnexion de réseaux informatiques de grande taille composés...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-005/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-17T00:00:00Z",
       "category": "Menace",
       "severity": "Élevée"
     }
