@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-09-27T13:10:01Z",
+  "generated_at": "2026-09-27T17:42:46Z",
   "count": 250,
   "items": [
     {
-      "id": "4ef5d17c61039a39102b",
-      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "id": "e20c79b4079910e91510",
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T13:10:01Z",
-      "category": "Incident",
-      "severity": "Moyenne"
+      "published_at": "2026-09-27T17:42:46Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
-      "id": "7265697f416b0e92d6da",
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T13:10:01Z",
-      "category": "Menace",
-      "severity": "Élevée"
+      "id": "0954e8dba9d8d6736374",
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-27T16:02:37Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "cf659e9658b9aff55be0",
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-27T14:13:31Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "b3dddf9b03fd17ca3873",
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-27T13:38:40Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "77ddfbcd4e34cd1f5125",
@@ -141,36 +161,6 @@
       "published_at": "2026-09-25T14:51:10Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "b77adcfbe2b6646c7d93",
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T12:40:59Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "e20c79b4079910e91510",
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T11:35:14Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "a32e62f50e70b121fed5",
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T10:30:38Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "cedaa7a15776ff25d1d3",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-04-03T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d916bafec89597936fac",
+      "title": "🇬🇧 Cyber Threat Overview 2024 (11 mars 2025)",
+      "summary": "Version française: 🇫🇷 In this fourth edition of the Cyber Threat Overview, The French Cybersecurity Agency (ANSSI) addresses prevalent cybersecurity threats and the pivotal incidents which occurred in 2024. In line with the previous years, ANSSI estimates that attackers associated with the...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-004/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-03-11T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
