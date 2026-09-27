@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T01:46:20Z",
+  "generated_at": "2026-09-27T07:18:42Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T01:46:20Z",
+      "published_at": "2026-09-27T07:18:42Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T01:46:20Z",
+      "published_at": "2026-09-27T07:18:42Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -28,19 +28,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T01:46:20Z",
+      "published_at": "2026-09-27T07:18:42Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "8b8a2ad63964807c5ed8",
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T01:46:20Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "77ddfbcd4e34cd1f5125",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-17T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "cf4b914d8f256bed510f",
+      "title": "Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
+      "summary": "Fortinet a publié le 10 avril 2025 un billet de blogue [1] indiquant l'utilisation d'une technique de post-exploitation qui permet une atteinte à la confidentialité des données de l'ensemble du système des équipements Fortigate affectés. Cette technique repose sur l'utilisation d'un lien...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-004/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-11T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
