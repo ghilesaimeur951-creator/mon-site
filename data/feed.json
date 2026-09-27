@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:18:42Z",
+  "generated_at": "2026-09-27T13:10:01Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T07:18:42Z",
+      "published_at": "2026-09-27T13:10:01Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,17 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T07:18:42Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "8692e38436e8a580464b",
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T07:18:42Z",
+      "published_at": "2026-09-27T13:10:01Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-004/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-04-11T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b4eb8ae9e7d6487eec06",
+      "title": "[MàJ] Vulnérabilité dans les produits Ivanti (03 avril 2025)",
+      "summary": "**\\[Mise à jour du 11 avril 2025\\]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer une exécution de code arbitraire à distance. **[Mise à jour du 04 avril 2025]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer un arrêt du...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-003/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-03T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
