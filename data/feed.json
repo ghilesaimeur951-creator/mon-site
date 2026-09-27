@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:23:56Z",
+  "generated_at": "2026-09-27T23:11:16Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T20:23:56Z",
+      "published_at": "2026-09-27T23:11:16Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -41,6 +41,26 @@
       "published_at": "2026-09-27T13:38:40Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "abe9673c796671fc2692",
+      "title": "CVE-2026-88772 — Citrix NetScaler",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-88772",
+      "source": "CISA KEV",
+      "published_at": "2026-09-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "63ab22172f8d7260dc8e",
+      "title": "CVE-2026-88771 — Citrix NetScaler",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-88771",
+      "source": "CISA KEV",
+      "published_at": "2026-09-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "77ddfbcd4e34cd1f5125",
@@ -1961,26 +1981,6 @@
       "published_at": "2026-06-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
-    },
-    {
-      "id": "9ac2dce50762cf0947cb",
-      "title": "CVE-2024-21182 — Oracle WebLogic Server",
-      "summary": "Oracle WebLogic contains an unspecified vulnerability that could allow an unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2024-21182",
-      "source": "CISA KEV",
-      "published_at": "2026-06-01T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "728544fb5df6a895958b",
-      "title": "CVE-2026-0257 — Palo Alto Networks PAN-OS",
-      "summary": "Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-0257",
-      "source": "CISA KEV",
-      "published_at": "2026-05-29T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "702518c7ff06e14e8293",
