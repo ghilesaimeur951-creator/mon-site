@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-28T15:56:33Z",
+  "generated_at": "2026-09-28T21:30:15Z",
   "count": 250,
   "items": [
     {
-      "id": "6e342a8a97cf99d0e3cd",
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "id": "fa5c037c6dc25b42b205",
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T15:56:33Z",
+      "published_at": "2026-09-28T21:30:15Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "53c3f861257c27459c1d",
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
+      "id": "3e6437721d938a62267b",
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T15:56:33Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-09-28T21:30:15Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "2e9b76e63d00c8de62de",
@@ -28,9 +28,49 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T15:56:33Z",
+      "published_at": "2026-09-28T21:30:15Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "ccc11f98d4a8d3b30fe0",
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T20:56:47Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "12100c22384661b5f889",
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T20:31:16Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "e36cbd6c6f999e6b69b3",
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T19:49:10Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "6606207dd9b5b62d29ae",
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T18:50:59Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "178f19609d472e572bbf",
@@ -201,46 +241,6 @@
       "published_at": "2026-09-26T16:26:58Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "b597d5341c3fff2ceea7",
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-26T15:50:38Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "fa5c037c6dc25b42b205",
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-26T14:19:46Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "17579509bdfc5756113d",
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-26T12:28:41Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "3e6437721d938a62267b",
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T21:41:07Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "cedaa7a15776ff25d1d3",
