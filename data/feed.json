@@ -1,26 +1,36 @@
 {
-  "generated_at": "2026-09-28T01:37:58Z",
+  "generated_at": "2026-09-28T07:36:54Z",
   "count": 250,
   "items": [
+    {
+      "id": "55c3c36e526cb4745814",
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-28T07:36:54Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "d6c9977600d440d24237",
       "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T01:37:58Z",
+      "published_at": "2026-09-28T07:36:54Z",
       "category": "Menace",
       "severity": "Élevée"
     },
     {
-      "id": "e20c79b4079910e91510",
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T01:37:58Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "id": "2e6e934ea7b88452608d",
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T06:24:19Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "2483bce2bbb2d6a84e5c",
@@ -179,16 +189,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
       "source": "BleepingComputer",
       "published_at": "2026-09-25T16:00:00Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "9c3f4fd6215749cc53bb",
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T14:54:33Z",
       "category": "Actualité",
       "severity": "Info"
     },
