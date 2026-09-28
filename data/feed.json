@@ -1,26 +1,76 @@
 {
-  "generated_at": "2026-09-28T07:36:54Z",
+  "generated_at": "2026-09-28T15:56:33Z",
   "count": 250,
   "items": [
     {
-      "id": "55c3c36e526cb4745814",
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "id": "6e342a8a97cf99d0e3cd",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T07:36:54Z",
+      "published_at": "2026-09-28T15:56:33Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "d6c9977600d440d24237",
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      "id": "53c3f861257c27459c1d",
+      "title": "Elementor WordPress flaw lets attackers create admin accounts",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T07:36:54Z",
+      "published_at": "2026-09-28T15:56:33Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "2e9b76e63d00c8de62de",
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-28T15:56:33Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "178f19609d472e572bbf",
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T15:49:27Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "cdfc9fd9c0967ef832e0",
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T14:00:10Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "2098b2b0b95774c394ef",
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T09:25:29Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "55c3c36e526cb4745814",
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-28T07:30:15Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "2e6e934ea7b88452608d",
@@ -31,6 +81,46 @@
       "published_at": "2026-09-28T06:24:19Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "2780801e7e40f8bdf30e",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-041 (28 septembre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-041/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-28T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "59dcd7e30e8c3a31029b",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix NetScaler ADC et Gateway. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. Citrix indique que les...",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1235/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-28T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b35d666ae70a04dd3966",
+      "title": "Multiples vulnérabilités dans MongoDB (28 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1234/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-28T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "52369fa32b06599ed6c2",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
+      "summary": "Le 27 septembre 2026, Citrix a publié un avis de sécurité concernant plusieurs vulnérabilités qui affectent NetScaler ADC et Gateway. Parmi celles-ci, les vulnérabilités CVE-2026-88771 et CVE-2026-88772 permettent une exécution de code arbitraire à distance par un attaquant non authentifié. Ces...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-28T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "2483bce2bbb2d6a84e5c",
@@ -151,46 +241,6 @@
       "published_at": "2026-09-25T21:41:07Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "6e342a8a97cf99d0e3cd",
-      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T20:57:55Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "53c3f861257c27459c1d",
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
-      "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T18:13:33Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "2e9b76e63d00c8de62de",
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T17:24:20Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "5324567d954d93a31362",
-      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-      "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T16:00:00Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "cedaa7a15776ff25d1d3",
@@ -583,50 +633,10 @@
       "severity": "Élevée"
     },
     {
-      "id": "c0d58084ec3de496d7cf",
-      "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-18T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "ec6a2d983e3b8597594c",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-18T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "2064c20eaaf00880c9a8",
       "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
       "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-18T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "01290c5d1e01d791977b",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (18 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1203/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-18T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "a51c0c455c7057fb05da",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (18 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1204/",
       "source": "CERT-FR",
       "published_at": "2026-09-18T00:00:00Z",
       "category": "Vulnérabilité",
@@ -647,6 +657,46 @@
       "title": "Multiples vulnérabilités dans WordPress (18 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c0d58084ec3de496d7cf",
+      "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway (18 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ec6a2d983e3b8597594c",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "01290c5d1e01d791977b",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1203/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a51c0c455c7057fb05da",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (18 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1204/",
       "source": "CERT-FR Avis",
       "published_at": "2026-09-18T00:00:00Z",
       "category": "Vulnérabilité",
@@ -683,32 +733,12 @@
       "severity": "Critique"
     },
     {
-      "id": "22200f15356e742f1747",
-      "title": "Multiples vulnérabilités dans les produits Cisco (17 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76460 est...",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-17T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "2b58699550f043bfc970",
       "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
       "summary": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
       "source": "CERT-FR Avis",
       "published_at": "2026-09-17T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "cf47ac934728c9c70819",
-      "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-16T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -2273,16 +2303,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "a3a65c9fc2d1f655f72c",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-004 (26 janvier 2026)",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-004/",
-      "source": "CERT-FR Actualité",
-      "published_at": "2026-01-26T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
       "id": "d1ef013fac589014c53d",
       "title": "Vulnérabilité dans telnetd (21 janvier 2026)",
       "summary": "Le 20 janvier 2026, les détails de la vulnérabilité CVE-2026-24061, affectant *telnetd*, ont été publiés. Cette vulnérabilité permet à un attaquant de contourner l'authentification et de se connecter à une machine vulnérable en tant que l'utilisateur *root*. Elle a été introduite en mars 2015 et...",
@@ -2480,26 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-17T00:00:00Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "cf4b914d8f256bed510f",
-      "title": "Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
-      "summary": "Fortinet a publié le 10 avril 2025 un billet de blogue [1] indiquant l'utilisation d'une technique de post-exploitation qui permet une atteinte à la confidentialité des données de l'ensemble du système des équipements Fortigate affectés. Cette technique repose sur l'utilisation d'un lien...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-004/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-11T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b4eb8ae9e7d6487eec06",
-      "title": "[MàJ] Vulnérabilité dans les produits Ivanti (03 avril 2025)",
-      "summary": "**\\[Mise à jour du 11 avril 2025\\]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer une exécution de code arbitraire à distance. **[Mise à jour du 04 avril 2025]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer un arrêt du...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-003/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-03T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
