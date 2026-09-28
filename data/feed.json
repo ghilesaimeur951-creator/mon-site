@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-09-27T23:11:16Z",
+  "generated_at": "2026-09-28T01:37:58Z",
   "count": 250,
   "items": [
+    {
+      "id": "d6c9977600d440d24237",
+      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-28T01:37:58Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
     {
       "id": "e20c79b4079910e91510",
       "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-27T23:11:16Z",
+      "published_at": "2026-09-28T01:37:58Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "2483bce2bbb2d6a84e5c",
+      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+      "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-27T23:40:39Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -171,16 +191,6 @@
       "published_at": "2026-09-25T14:54:33Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "d6c9977600d440d24237",
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-25T14:51:10Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "cedaa7a15776ff25d1d3",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-04-03T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "d916bafec89597936fac",
-      "title": "🇬🇧 Cyber Threat Overview 2024 (11 mars 2025)",
-      "summary": "Version française: 🇫🇷 In this fourth edition of the Cyber Threat Overview, The French Cybersecurity Agency (ANSSI) addresses prevalent cybersecurity threats and the pivotal incidents which occurred in 2024. In line with the previous years, ANSSI estimates that attackers associated with the...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-004/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-03-11T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
