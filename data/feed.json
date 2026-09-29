@@ -1,16 +1,56 @@
 {
-  "generated_at": "2026-09-29T06:56:17Z",
+  "generated_at": "2026-09-29T13:37:18Z",
   "count": 250,
   "items": [
     {
-      "id": "fa5c037c6dc25b42b205",
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "id": "77ddfbcd4e34cd1f5125",
+      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T06:56:17Z",
+      "published_at": "2026-09-29T13:37:18Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "e28c990b80ea9b190d9e",
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T11:41:53Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "d37d4f7b043dbb2b4813",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T09:04:06Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "bfc2554a53b3995f7e4a",
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T07:33:12Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6102b8f963d68889c159",
+      "title": "Vulnérabilité dans les produits Apple (29 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Apple indique que la vulnérabilité CVE-2026-86950 est activement exploitée.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1236/",
+      "source": "CERT-FR",
+      "published_at": "2026-09-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "ccc11f98d4a8d3b30fe0",
@@ -173,16 +213,6 @@
       "severity": "Info"
     },
     {
-      "id": "b3dddf9b03fd17ca3873",
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-27T13:38:40Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
       "id": "abe9673c796671fc2692",
       "title": "CVE-2026-88772 — Citrix NetScaler",
       "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
@@ -201,26 +231,6 @@
       "published_at": "2026-09-27T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "77ddfbcd4e34cd1f5125",
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-26T19:03:34Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "1d5487d8b2c1f7862ef1",
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-26T16:26:58Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "cedaa7a15776ff25d1d3",
@@ -613,16 +623,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "2064c20eaaf00880c9a8",
-      "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-18T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "380153b3a1db5ef8772e",
       "title": "Multiples vulnérabilités dans Google Chrome (18 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
@@ -683,6 +683,16 @@
       "severity": "Élevée"
     },
     {
+      "id": "2064c20eaaf00880c9a8",
+      "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
       "id": "47acba00d4b269358d79",
       "title": "CVE-2025-39964 — Linux Kernel",
       "summary": "Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.",
@@ -711,16 +721,6 @@
       "published_at": "2026-09-18T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "2b58699550f043bfc970",
-      "title": "Vulnérabilité dans Nextcloud Server (17 septembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-17T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "fb6dae4368ba2094bbfb",
