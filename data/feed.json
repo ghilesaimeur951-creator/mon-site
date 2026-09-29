@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:30:15Z",
+  "generated_at": "2026-09-29T01:15:02Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T21:30:15Z",
+      "published_at": "2026-09-29T01:15:02Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T21:30:15Z",
+      "published_at": "2026-09-29T01:15:02Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-28T21:30:15Z",
+      "published_at": "2026-09-29T01:15:02Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
