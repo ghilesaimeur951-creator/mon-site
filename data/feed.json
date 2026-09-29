@@ -1,16 +1,116 @@
 {
-  "generated_at": "2026-09-29T13:37:18Z",
+  "generated_at": "2026-09-29T18:51:42Z",
   "count": 250,
   "items": [
+    {
+      "id": "0954e8dba9d8d6736374",
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-29T18:51:42Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
     {
       "id": "77ddfbcd4e34cd1f5125",
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T13:37:18Z",
+      "published_at": "2026-09-29T18:51:42Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "cf659e9658b9aff55be0",
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-29T18:51:42Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "2098b2b0b95774c394ef",
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-29T18:51:42Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "55c3c36e526cb4745814",
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-29T18:51:42Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "3cb734ba29cf05d46c4a",
+      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+      "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T18:37:12Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "c4e96687c6145568ae5b",
+      "title": "Former US Air Force members sent to prison over BEC attacks",
+      "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T18:09:39Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "dc3f4e0491ba5691ca02",
+      "title": "Windows 11 2026 Update released, here's everything you need to know",
+      "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T17:37:40Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "189887844e8027a43535",
+      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
+      "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T17:10:11Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "adeb989744729e652565",
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T15:39:19Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "f45ff54e25bb1672bbbd",
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T14:01:11Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "e28c990b80ea9b190d9e",
@@ -48,6 +148,16 @@
       "summary": "Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Apple indique que la vulnérabilité CVE-2026-86950 est activement exploitée.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1236/",
       "source": "CERT-FR",
+      "published_at": "2026-09-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e726cf359188d6b91519",
+      "title": "CVE-2026-86950 — Apple Multiple Products",
+      "summary": "Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-86950",
+      "source": "CISA KEV",
       "published_at": "2026-09-29T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
@@ -113,36 +223,6 @@
       "severity": "Info"
     },
     {
-      "id": "2098b2b0b95774c394ef",
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-28T09:25:29Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "55c3c36e526cb4745814",
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
-      "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-28T07:30:15Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "2e6e934ea7b88452608d",
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-28T06:24:19Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "2780801e7e40f8bdf30e",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-041 (28 septembre 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -181,36 +261,6 @@
       "published_at": "2026-09-28T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "2483bce2bbb2d6a84e5c",
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-27T23:40:39Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "0954e8dba9d8d6736374",
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-27T16:02:37Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "cf659e9658b9aff55be0",
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-27T14:13:31Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "abe9673c796671fc2692",
@@ -1983,16 +2033,6 @@
       "severity": "Critique"
     },
     {
-      "id": "1c827609dfcefe846006",
-      "title": "CVE-2025-48595 — Android Framework",
-      "summary": "Android Framework contains an integer overflow vulnerability that allows for code execution that could allow for local privilege escalation.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-48595",
-      "source": "CISA KEV",
-      "published_at": "2026-06-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "487b1c87fe059133f33d",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-024 (01 juin 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2460,46 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "03a7ac539f5ab2030a99",
-      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
-      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet de télécharger...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-005/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-28T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c5231bdc95e254bf7c9b",
-      "title": "Transports urbains - État de la menace informatique (17 avril 2025)",
-      "summary": "La menace à l’encontre des entités des transports urbains cible des entreprises de toutes les tailles dans le monde entier qui opèrent différents modes de transport. La convergence de technologies industrielles et bureautique, l’interconnexion de réseaux informatiques de grande taille composés...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-005/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-04-17T00:00:00Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "cf4b914d8f256bed510f",
-      "title": "Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
-      "summary": "Fortinet a publié le 10 avril 2025 un billet de blogue [1] indiquant l'utilisation d'une technique de post-exploitation qui permet une atteinte à la confidentialité des données de l'ensemble du système des équipements Fortigate affectés. Cette technique repose sur l'utilisation d'un lien...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-004/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-11T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b4eb8ae9e7d6487eec06",
-      "title": "[MàJ] Vulnérabilité dans les produits Ivanti (03 avril 2025)",
-      "summary": "**\\[Mise à jour du 11 avril 2025\\]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer une exécution de code arbitraire à distance. **[Mise à jour du 04 avril 2025]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer un arrêt du...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-003/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-03T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
