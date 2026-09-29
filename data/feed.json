@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:51:42Z",
+  "generated_at": "2026-09-29T22:45:24Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T18:51:42Z",
+      "published_at": "2026-09-29T22:45:24Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T18:51:42Z",
+      "published_at": "2026-09-29T22:45:24Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,27 +28,67 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T18:51:42Z",
+      "published_at": "2026-09-29T22:45:24Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "2098b2b0b95774c394ef",
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "id": "6606207dd9b5b62d29ae",
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T18:51:42Z",
+      "published_at": "2026-09-29T22:45:24Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "55c3c36e526cb4745814",
-      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "id": "178f19609d472e572bbf",
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T18:51:42Z",
+      "published_at": "2026-09-29T22:45:24Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "cdfc9fd9c0967ef832e0",
+      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-29T22:45:24Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "1e9b704f29a586f98ac3",
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T21:30:08Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "aafd86b072fb4eb48f89",
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T20:59:39Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "156dd54c407b27fb8c16",
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-29T20:09:55Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -189,36 +229,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
       "source": "BleepingComputer",
       "published_at": "2026-09-28T19:49:10Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "6606207dd9b5b62d29ae",
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-28T18:50:59Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "178f19609d472e572bbf",
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-28T15:49:27Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "cdfc9fd9c0967ef832e0",
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-28T14:00:10Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2487,16 +2497,6 @@
       "title": "Ciblage et compromission d'entités françaises au moyen du mode opératoire d'attaque APT28 (29 avril 2025)",
       "summary": "English version : 🇬🇧 L’ANSSI et ses partenaires du Centre de coordination des crises cyber (C4) ont observé entre 2021 et 2024 des attaques informatiques conduites par les opérateurs d’APT28, qui sont publiquement rattachés par différentes sources à la Russie. Le mode opératoire d’attaque APT28 a...",
       "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-04-29T00:00:00Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "31589b069cc8ff518af3",
-      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
-      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
