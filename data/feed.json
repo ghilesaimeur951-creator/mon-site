@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:15:02Z",
+  "generated_at": "2026-09-29T06:56:17Z",
   "count": 250,
   "items": [
     {
@@ -8,29 +8,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T01:15:02Z",
+      "published_at": "2026-09-29T06:56:17Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "3e6437721d938a62267b",
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T01:15:02Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2e9b76e63d00c8de62de",
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T01:15:02Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "ccc11f98d4a8d3b30fe0",
@@ -2500,6 +2480,26 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-17T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "cf4b914d8f256bed510f",
+      "title": "Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
+      "summary": "Fortinet a publié le 10 avril 2025 un billet de blogue [1] indiquant l'utilisation d'une technique de post-exploitation qui permet une atteinte à la confidentialité des données de l'ensemble du système des équipements Fortigate affectés. Cette technique repose sur l'utilisation d'un lien...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-004/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-11T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b4eb8ae9e7d6487eec06",
+      "title": "[MàJ] Vulnérabilité dans les produits Ivanti (03 avril 2025)",
+      "summary": "**\\[Mise à jour du 11 avril 2025\\]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer une exécution de code arbitraire à distance. **[Mise à jour du 04 avril 2025]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer un arrêt du...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-003/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-03T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
