@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:44:07Z",
+  "generated_at": "2026-09-30T07:29:02Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T01:44:07Z",
+      "published_at": "2026-09-30T07:29:02Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T01:44:07Z",
+      "published_at": "2026-09-30T07:29:02Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T01:44:07Z",
+      "published_at": "2026-09-30T07:29:02Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T01:44:07Z",
+      "published_at": "2026-09-30T07:29:02Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T01:44:07Z",
+      "published_at": "2026-09-30T07:29:02Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,9 +58,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T01:44:07Z",
+      "published_at": "2026-09-30T07:29:02Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "2e6e934ea7b88452608d",
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-30T07:29:02Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "3b6b222f8b8e870640a2",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "ef0ed0f1dd0c2f1e62ee",
-      "title": "Ciblage et compromission d'entités françaises au moyen du mode opératoire d'attaque APT28 (29 avril 2025)",
-      "summary": "English version : 🇬🇧 L’ANSSI et ses partenaires du Centre de coordination des crises cyber (C4) ont observé entre 2021 et 2024 des attaques informatiques conduites par les opérateurs d’APT28, qui sont publiquement rattachés par différentes sources à la Russie. Le mode opératoire d’attaque APT28 a...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-04-29T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
