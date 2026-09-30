@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:14:46Z",
+  "generated_at": "2026-09-30T23:01:15Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T19:14:46Z",
+      "published_at": "2026-09-30T23:01:15Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T19:14:46Z",
+      "published_at": "2026-09-30T23:01:15Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,29 +28,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T19:14:46Z",
+      "published_at": "2026-09-30T23:01:15Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "adeb989744729e652565",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "id": "189887844e8027a43535",
+      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T19:14:46Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "f45ff54e25bb1672bbbd",
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T19:14:46Z",
-      "category": "Menace",
-      "severity": "Élevée"
+      "published_at": "2026-09-30T23:01:15Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "cf659e9658b9aff55be0",
@@ -58,17 +48,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T19:14:46Z",
+      "published_at": "2026-09-30T23:01:15Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "2e6e934ea7b88452608d",
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T19:14:46Z",
+      "id": "2d28f457acee0ed72eb8",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-30T20:34:01Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3776ad1cae04a940ba55",
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-30T19:49:15Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -281,26 +281,6 @@
       "published_at": "2026-09-29T18:09:39Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "dc3f4e0491ba5691ca02",
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T17:37:40Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "189887844e8027a43535",
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T17:10:11Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "6102b8f963d68889c159",
@@ -2500,6 +2480,26 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-14T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5e4f56d49477a4ca2430",
+      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
+      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-006/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-13T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "31589b069cc8ff518af3",
+      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
+      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
