@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:05:07Z",
+  "generated_at": "2026-09-30T19:14:46Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T14:05:07Z",
+      "published_at": "2026-09-30T19:14:46Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T14:05:07Z",
+      "published_at": "2026-09-30T19:14:46Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,19 +28,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T14:05:07Z",
+      "published_at": "2026-09-30T19:14:46Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "ad0d1f3062bdc5bc8d86",
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "id": "adeb989744729e652565",
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T14:05:07Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-09-30T19:14:46Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "f45ff54e25bb1672bbbd",
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-30T19:14:46Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "cf659e9658b9aff55be0",
@@ -48,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T14:05:07Z",
+      "published_at": "2026-09-30T19:14:46Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,9 +68,49 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-30T14:05:07Z",
+      "published_at": "2026-09-30T19:14:46Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "2ebaae643cd392ce2dee",
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-30T18:08:34Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "37d3b9649beab632464b",
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-30T15:49:29Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "8f1d5c9abb6358583e2b",
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-30T14:46:40Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "ad0d1f3062bdc5bc8d86",
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-30T14:01:11Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "29c0329f5a87d971653e",
@@ -173,6 +223,16 @@
       "severity": "Élevée"
     },
     {
+      "id": "fffe4e7568408d7c7971",
+      "title": "CVE-2026-76504 — Cisco Catalyst SD-WAN Manager",
+      "summary": "Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI encoding in an HTTP request.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-76504",
+      "source": "CISA KEV",
+      "published_at": "2026-09-30T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "1e9b704f29a586f98ac3",
       "title": "Signal adds encypted local backup support to iOS, desktop apps",
       "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
@@ -239,46 +299,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
       "source": "BleepingComputer",
       "published_at": "2026-09-29T17:10:11Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "adeb989744729e652565",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T15:39:19Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "f45ff54e25bb1672bbbd",
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T14:01:11Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "e28c990b80ea9b190d9e",
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T11:41:53Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "d37d4f7b043dbb2b4813",
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T09:04:06Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2043,16 +2063,6 @@
       "severity": "Critique"
     },
     {
-      "id": "d2946bf64e71c7bae016",
-      "title": "CVE-2022-0492 — Linux Kernel",
-      "summary": "Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2022-0492",
-      "source": "CISA KEV",
-      "published_at": "2026-06-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "487b1c87fe059133f33d",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-024 (01 juin 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2489,16 +2499,6 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-007/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-14T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "5e4f56d49477a4ca2430",
-      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
-      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-006/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
