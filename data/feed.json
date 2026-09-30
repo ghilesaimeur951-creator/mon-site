@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:45:24Z",
+  "generated_at": "2026-09-30T01:44:07Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T22:45:24Z",
+      "published_at": "2026-09-30T01:44:07Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T22:45:24Z",
+      "published_at": "2026-09-30T01:44:07Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T22:45:24Z",
+      "published_at": "2026-09-30T01:44:07Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "e36cbd6c6f999e6b69b3",
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-09-30T01:44:07Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T22:45:24Z",
+      "published_at": "2026-09-30T01:44:07Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,17 +58,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T22:45:24Z",
+      "published_at": "2026-09-30T01:44:07Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "cdfc9fd9c0967ef832e0",
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-09-29T22:45:24Z",
+      "id": "3b6b222f8b8e870640a2",
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "source": "BleepingComputer",
+      "published_at": "2026-09-30T00:40:57Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -221,16 +231,6 @@
       "published_at": "2026-09-28T20:31:16Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "e36cbd6c6f999e6b69b3",
-      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
-      "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-28T19:49:10Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "2780801e7e40f8bdf30e",
