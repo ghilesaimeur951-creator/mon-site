@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:50:33Z",
+  "generated_at": "2026-10-01T15:48:46Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T08:50:33Z",
+      "published_at": "2026-10-01T15:48:46Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T08:50:33Z",
+      "published_at": "2026-10-01T15:48:46Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,17 +28,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T08:50:33Z",
+      "published_at": "2026-10-01T15:48:46Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "c4e96687c6145568ae5b",
-      "title": "Former US Air Force members sent to prison over BEC attacks",
+      "id": "1e9b704f29a586f98ac3",
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T08:50:33Z",
+      "published_at": "2026-10-01T15:48:46Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,9 +48,59 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T08:50:33Z",
+      "published_at": "2026-10-01T15:48:46Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "624e1a7a080490956224",
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-01T14:25:14Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "929134258e6a2a0ae397",
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-01T14:01:11Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "3e59dcb3b502dca383b1",
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-01T13:51:08Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "52279358df2a64a65616",
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-01T11:14:28Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "4f07180fa12189cbe89e",
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-01T09:44:28Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "a3f893b99aeb7d30e187",
@@ -61,6 +111,46 @@
       "published_at": "2026-10-01T07:33:57Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "815102fdc112bbf208b8",
+      "title": "Multiples vulnérabilités dans CPython (01 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans CPython. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1243/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "db4df7da4ea39717e82f",
+      "title": "Multiples vulnérabilités dans Redmine (01 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1245/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "467cb5ab68c47b25fa6c",
+      "title": "Multiples vulnérabilités dans Mozilla Thunderbird (01 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1244/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "1687df44b7955f2dddfe",
+      "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-76504 est activement exploitée.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "2d28f457acee0ed72eb8",
@@ -153,16 +243,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "3b6b222f8b8e870640a2",
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-30T00:40:57Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
       "id": "63cb7a09ad4f483e4222",
       "title": "Point de situation de l’opération REACTIV – septembre 2026 (30 septembre 2026)",
       "summary": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de...",
@@ -239,46 +319,6 @@
       "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-76504",
       "source": "CISA KEV",
       "published_at": "2026-09-30T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "1e9b704f29a586f98ac3",
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T21:30:08Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "aafd86b072fb4eb48f89",
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T20:59:39Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "156dd54c407b27fb8c16",
-      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-      "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T20:09:55Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "3cb734ba29cf05d46c4a",
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-29T18:37:12Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -553,16 +593,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "ea52819c0610e5290307",
-      "title": "Multiples vulnérabilités dans les produits FoxIT (23 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1214/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-23T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "066f27f83785b947450e",
       "title": "Multiples vulnérabilités dans SolarWinds Observability Self-Hosted (23 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans SolarWinds Observability Self-Hosted. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
@@ -583,30 +613,10 @@
       "severity": "Élevée"
     },
     {
-      "id": "34279272941ce33d1d4e",
-      "title": "Multiples vulnérabilités dans Mattermost Server (23 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1212/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-23T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "15c33f52b27466f6ff2a",
       "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (23 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1217/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-23T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "6bdde89cbe1631acf306",
-      "title": "Multiples vulnérabilités dans Google Chrome (23 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1213/",
       "source": "CERT-FR",
       "published_at": "2026-09-23T00:00:00Z",
       "category": "Vulnérabilité",
@@ -633,12 +643,32 @@
       "severity": "Critique"
     },
     {
-      "id": "8b2b2818601d0b63084e",
-      "title": "Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1211/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-22T00:00:00Z",
+      "id": "34279272941ce33d1d4e",
+      "title": "Multiples vulnérabilités dans Mattermost Server (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1212/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6bdde89cbe1631acf306",
+      "title": "Multiples vulnérabilités dans Google Chrome (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1213/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ea52819c0610e5290307",
+      "title": "Multiples vulnérabilités dans les produits FoxIT (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1214/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-23T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -647,6 +677,16 @@
       "title": "Multiples vulnérabilités dans Moodle (22 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection SQL (SQLi) et un contournement de la politique de sécurité.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1210/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-22T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "8b2b2818601d0b63084e",
+      "title": "Vulnérabilité dans SolarWinds Access Rights Manager (22 septembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1211/",
       "source": "CERT-FR Avis",
       "published_at": "2026-09-22T00:00:00Z",
       "category": "Vulnérabilité",
@@ -693,26 +733,6 @@
       "severity": "Critique"
     },
     {
-      "id": "9bb704c0589e92cc7887",
-      "title": "Multiples vulnérabilités dans les produits Mattermost (21 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1207/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-21T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "767c40473cf6eaa2fd8c",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (21 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1208/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-21T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "a7b72cfbb3c1557b27da",
       "title": "Multiples vulnérabilités dans Synology DSM (21 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Synology DSM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
@@ -741,26 +761,6 @@
       "published_at": "2026-09-21T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "2064c20eaaf00880c9a8",
-      "title": "Vulnérabilité dans les produits Moxa (18 septembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-18T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b7a522695c9e2efd87cb",
-      "title": "Multiples vulnérabilités dans les produits IBM (18 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-18T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "47acba00d4b269358d79",
