@@ -1,56 +1,26 @@
 {
-  "generated_at": "2026-10-01T15:48:46Z",
+  "generated_at": "2026-10-01T20:39:29Z",
   "count": 250,
   "items": [
     {
-      "id": "0954e8dba9d8d6736374",
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "id": "52ffe63dd45a7f657cae",
+      "title": "Bitget hacked via zero-day in third-party security products",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T15:48:46Z",
+      "published_at": "2026-10-01T20:39:29Z",
       "category": "Vulnérabilité",
-      "severity": "Critique"
+      "severity": "Élevée"
     },
     {
-      "id": "77ddfbcd4e34cd1f5125",
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T15:48:46Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "bfc2554a53b3995f7e4a",
-      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T15:48:46Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "1e9b704f29a586f98ac3",
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T15:48:46Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "2e6e934ea7b88452608d",
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T15:48:46Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
+      "id": "8b472bb05c2f3c15b80d",
+      "title": "Microsoft says threat actors are ahead in the early AI race",
+      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-01T19:32:47Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "624e1a7a080490956224",
@@ -153,6 +123,16 @@
       "severity": "Critique"
     },
     {
+      "id": "9ba609d9afe5d95bd939",
+      "title": "CVE-2026-104286 — Fortinet FortiMail",
+      "summary": "Fortinet FortiMail contains a path traversal and an improper neutralization of NULL byte or NULL character vulnerability that may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-104286",
+      "source": "CISA KEV",
+      "published_at": "2026-10-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "2d28f457acee0ed72eb8",
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
@@ -231,16 +211,6 @@
       "published_at": "2026-09-30T12:25:10Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "52ffe63dd45a7f657cae",
-      "title": "Bitget hacked via zero-day in third-party security products",
-      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-30T11:11:46Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "63cb7a09ad4f483e4222",
@@ -2033,16 +2003,6 @@
       "severity": "Critique"
     },
     {
-      "id": "e7418f98586b031d1644",
-      "title": "CVE-2026-45247 — Mirasvit Mirasvit Full Page Cache Warmer",
-      "summary": "Mirasvit Full Page Cache Warmer contains a deserialization of untrusted data vulnerability that could allow unauthenticated attackers to achieve remote code execution by supplying a crafted serialized PHP object in the CacheWarmer cookie.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-45247",
-      "source": "CISA KEV",
-      "published_at": "2026-06-03T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "487b1c87fe059133f33d",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-024 (01 juin 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2500,6 +2460,46 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ef0ed0f1dd0c2f1e62ee",
+      "title": "Ciblage et compromission d'entités françaises au moyen du mode opératoire d'attaque APT28 (29 avril 2025)",
+      "summary": "English version : 🇬🇧 L’ANSSI et ses partenaires du Centre de coordination des crises cyber (C4) ont observé entre 2021 et 2024 des attaques informatiques conduites par les opérateurs d’APT28, qui sont publiquement rattachés par différentes sources à la Russie. Le mode opératoire d’attaque APT28 a...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "03a7ac539f5ab2030a99",
+      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
+      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet de télécharger...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-005/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-28T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c5231bdc95e254bf7c9b",
+      "title": "Transports urbains - État de la menace informatique (17 avril 2025)",
+      "summary": "La menace à l’encontre des entités des transports urbains cible des entreprises de toutes les tailles dans le monde entier qui opèrent différents modes de transport. La convergence de technologies industrielles et bureautique, l’interconnexion de réseaux informatiques de grande taille composés...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-005/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-17T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "cf4b914d8f256bed510f",
+      "title": "Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
+      "summary": "Fortinet a publié le 10 avril 2025 un billet de blogue [1] indiquant l'utilisation d'une technique de post-exploitation qui permet une atteinte à la confidentialité des données de l'ensemble du système des équipements Fortigate affectés. Cette technique repose sur l'utilisation d'un lien...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-004/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-11T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
