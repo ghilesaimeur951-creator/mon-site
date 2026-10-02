@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-10-01T20:39:29Z",
+  "generated_at": "2026-10-02T00:12:27Z",
   "count": 250,
   "items": [
     {
-      "id": "52ffe63dd45a7f657cae",
-      "title": "Bitget hacked via zero-day in third-party security products",
+      "id": "29c0329f5a87d971653e",
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-01T20:39:29Z",
+      "published_at": "2026-10-02T00:12:27Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "8889e814016cf0b0748e",
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-02T00:12:27Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "b4ba5b4eb39d72464db7",
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-01T22:42:49Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
+      "severity": "Critique"
+    },
+    {
+      "id": "b2099d009ed00ab32c3b",
+      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-01T20:52:50Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "8b472bb05c2f3c15b80d",
@@ -189,26 +219,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
       "source": "BleepingComputer",
       "published_at": "2026-09-30T14:01:11Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "29c0329f5a87d971653e",
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-30T13:37:15Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "8889e814016cf0b0748e",
-      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
-      "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-30T12:25:10Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-17T00:00:00Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "cf4b914d8f256bed510f",
-      "title": "Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
-      "summary": "Fortinet a publié le 10 avril 2025 un billet de blogue [1] indiquant l'utilisation d'une technique de post-exploitation qui permet une atteinte à la confidentialité des données de l'ensemble du système des équipements Fortigate affectés. Cette technique repose sur l'utilisation d'un lien...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-004/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-11T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
