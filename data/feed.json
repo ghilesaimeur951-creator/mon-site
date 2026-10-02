@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:12:27Z",
+  "generated_at": "2026-10-02T05:34:24Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-02T00:12:27Z",
+      "published_at": "2026-10-02T05:34:24Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-02T00:12:27Z",
+      "published_at": "2026-10-02T05:34:24Z",
       "category": "Actualité",
       "severity": "Info"
     },
