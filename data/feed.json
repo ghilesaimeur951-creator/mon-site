@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-02T05:34:24Z",
+  "generated_at": "2026-10-02T11:20:17Z",
   "count": 250,
   "items": [
     {
-      "id": "29c0329f5a87d971653e",
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "id": "ad0d1f3062bdc5bc8d86",
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-02T05:34:24Z",
+      "published_at": "2026-10-02T11:20:17Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,9 +18,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-02T05:34:24Z",
+      "published_at": "2026-10-02T11:20:17Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "b8b4a1085f35e6383360",
+      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-02T09:29:56Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "75b434cf0f3c41cea599",
+      "title": "Vulnérabilités de produits du secteur santé : Retour d'expérience du CERT Santé et du CERT-FR (02 octobre 2026)",
+      "summary": "Le CERT Santé et le CERT-FR assurent le traitement des vulnérabilités qui leur sont signalées par des tiers. A ce titre, ils accompagnent les éditeurs affectés dans la conception et le suivi de plan d’action incluant le développement de correctifs et la communication vers leurs utilisateurs. Dans...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-007/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "b4ba5b4eb39d72464db7",
@@ -211,16 +231,6 @@
       "published_at": "2026-09-30T14:46:40Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "ad0d1f3062bdc5bc8d86",
-      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-      "source": "BleepingComputer",
-      "published_at": "2026-09-30T14:01:11Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "63cb7a09ad4f483e4222",
@@ -573,16 +583,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "066f27f83785b947450e",
-      "title": "Multiples vulnérabilités dans SolarWinds Observability Self-Hosted (23 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans SolarWinds Observability Self-Hosted. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1215/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-23T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "48d0e5f9c7d57559bb19",
       "title": "Vulnérabilité dans WordPress (23 septembre 2026)",
       "summary": "Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
@@ -647,6 +647,16 @@
       "title": "Multiples vulnérabilités dans les produits FoxIT (23 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits FoxIT. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1214/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "066f27f83785b947450e",
+      "title": "Multiples vulnérabilités dans SolarWinds Observability Self-Hosted (23 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans SolarWinds Observability Self-Hosted. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1215/",
       "source": "CERT-FR Avis",
       "published_at": "2026-09-23T00:00:00Z",
       "category": "Vulnérabilité",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-04-28T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c5231bdc95e254bf7c9b",
-      "title": "Transports urbains - État de la menace informatique (17 avril 2025)",
-      "summary": "La menace à l’encontre des entités des transports urbains cible des entreprises de toutes les tailles dans le monde entier qui opèrent différents modes de transport. La convergence de technologies industrielles et bureautique, l’interconnexion de réseaux informatiques de grande taille composés...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-005/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-04-17T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
