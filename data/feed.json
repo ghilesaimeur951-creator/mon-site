@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:25:36Z",
+  "generated_at": "2026-10-03T14:46:37Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T10:25:36Z",
+      "published_at": "2026-10-03T14:46:37Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T10:25:36Z",
+      "published_at": "2026-10-03T14:46:37Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,19 +28,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T10:25:36Z",
+      "published_at": "2026-10-03T14:46:37Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "2d28f457acee0ed72eb8",
-      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "id": "4f07180fa12189cbe89e",
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T10:25:36Z",
-      "category": "Menace",
-      "severity": "Élevée"
+      "published_at": "2026-10-03T14:46:37Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "8889e814016cf0b0748e",
@@ -48,9 +48,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T10:25:36Z",
+      "published_at": "2026-10-03T14:46:37Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "2d28f457acee0ed72eb8",
+      "title": "Russian state hackers use new RedFlick technique to push malware",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-03T14:46:37Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c24f61f66f613431ba97",
+      "title": "Danish university DTU breach exposes data of up to 200,000 people",
+      "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-03T14:35:20Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "1a019c2da70684a54f4d",
@@ -331,16 +351,6 @@
       "published_at": "2026-10-01T11:14:28Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "4f07180fa12189cbe89e",
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-01T09:44:28Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "815102fdc112bbf208b8",
@@ -2489,16 +2499,6 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-007/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-14T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "5e4f56d49477a4ca2430",
-      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
-      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-006/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
