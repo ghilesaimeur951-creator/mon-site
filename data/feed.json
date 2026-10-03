@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T14:46:37Z",
+  "generated_at": "2026-10-03T18:25:27Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T14:46:37Z",
+      "published_at": "2026-10-03T18:25:27Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T14:46:37Z",
+      "published_at": "2026-10-03T18:25:27Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T14:46:37Z",
+      "published_at": "2026-10-03T18:25:27Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T14:46:37Z",
+      "published_at": "2026-10-03T18:25:27Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T14:46:37Z",
+      "published_at": "2026-10-03T18:25:27Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T14:46:37Z",
+      "published_at": "2026-10-03T18:25:27Z",
       "category": "Menace",
       "severity": "Élevée"
     },
