@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:25:27Z",
+  "generated_at": "2026-10-03T21:35:36Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T18:25:27Z",
+      "published_at": "2026-10-03T21:35:36Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T18:25:27Z",
+      "published_at": "2026-10-03T21:35:36Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,19 +28,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T18:25:27Z",
+      "published_at": "2026-10-03T21:35:36Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "4f07180fa12189cbe89e",
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T18:25:27Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "8889e814016cf0b0748e",
@@ -48,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T18:25:27Z",
+      "published_at": "2026-10-03T21:35:36Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,9 +48,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T18:25:27Z",
+      "published_at": "2026-10-03T21:35:36Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "a48481198b82981bf859",
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-03T19:09:38Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "c24f61f66f613431ba97",
@@ -339,16 +339,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
       "source": "BleepingComputer",
       "published_at": "2026-10-01T13:51:08Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "52279358df2a64a65616",
-      "title": "Microsoft enables Windows settings backup by default for orgs",
-      "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-01T11:14:28Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-007/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-14T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5e4f56d49477a4ca2430",
+      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
+      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-006/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
