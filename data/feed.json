@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:29:32Z",
+  "generated_at": "2026-10-04T15:54:46Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-04T11:29:32Z",
+      "published_at": "2026-10-04T15:54:46Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-04T11:29:32Z",
+      "published_at": "2026-10-04T15:54:46Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-04T11:29:32Z",
+      "published_at": "2026-10-04T15:54:46Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -38,17 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-04T11:29:32Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "3e59dcb3b502dca383b1",
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-04T11:29:32Z",
+      "published_at": "2026-10-04T15:54:46Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "31589b069cc8ff518af3",
+      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
+      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
