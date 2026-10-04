@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T21:35:36Z",
+  "generated_at": "2026-10-04T00:01:26Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T21:35:36Z",
+      "published_at": "2026-10-04T00:01:26Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T21:35:36Z",
+      "published_at": "2026-10-04T00:01:26Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,9 +28,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T21:35:36Z",
+      "published_at": "2026-10-04T00:01:26Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "3e59dcb3b502dca383b1",
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-04T00:01:26Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "8889e814016cf0b0748e",
@@ -38,19 +48,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T21:35:36Z",
+      "published_at": "2026-10-04T00:01:26Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "2d28f457acee0ed72eb8",
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-03T21:35:36Z",
-      "category": "Menace",
-      "severity": "Élevée"
+      "id": "4e1146b9767f9c64c650",
+      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+      "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-03T23:12:34Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "a48481198b82981bf859",
@@ -329,16 +339,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
       "source": "BleepingComputer",
       "published_at": "2026-10-01T14:01:11Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "3e59dcb3b502dca383b1",
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-01T13:51:08Z",
       "category": "Actualité",
       "severity": "Info"
     },
