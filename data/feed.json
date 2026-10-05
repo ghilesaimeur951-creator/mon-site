@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:53:15Z",
+  "generated_at": "2026-10-05T06:24:23Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-05T00:53:15Z",
+      "published_at": "2026-10-05T06:24:23Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-05T00:53:15Z",
+      "published_at": "2026-10-05T06:24:23Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-05T00:53:15Z",
+      "published_at": "2026-10-05T06:24:23Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-05T00:53:15Z",
+      "published_at": "2026-10-05T06:24:23Z",
       "category": "Menace",
       "severity": "Élevée"
     },
