@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T06:24:23Z",
+  "generated_at": "2026-10-05T15:03:16Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-05T06:24:23Z",
+      "published_at": "2026-10-05T15:03:16Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-05T06:24:23Z",
+      "published_at": "2026-10-05T15:03:16Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,18 +28,178 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-05T06:24:23Z",
+      "published_at": "2026-10-05T15:03:16Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "624e1a7a080490956224",
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "id": "5098f8e142a5acb2f596",
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-05T06:24:23Z",
+      "published_at": "2026-10-05T15:03:16Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "f4b6d95f5f5a5e706025",
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-05T15:03:16Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "778774296a1ff5604e49",
+      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-05T15:03:16Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "8529f42bd2dde732af24",
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-05T14:53:06Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "d9fe3a1e916f0e9e992f",
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-05T14:22:12Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "8cedd832950d950846c0",
+      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-05T13:33:42Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "7f005eff5309d107cee6",
+      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-05T13:01:45Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "56efa4232e036360324f",
+      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+      "summary": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-05T10:28:45Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "4804d8ee1798b5870795",
+      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
+      "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-05T09:37:56Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "64e40df3b34ac70366b3",
+      "title": "Google halts open-source bug bounty program amid AI spam surge",
+      "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-05T08:27:46Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "6eaea20326d1a5722ce7",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-042 (05 octobre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-042/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "cee85a1913bd0a9c79c5",
+      "title": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (05 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer un déni de service à distance. La CISA indique que la vulnérabilité CVE-2026-88779 est activement exploitée.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1263/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "fa53061432910e439a8e",
+      "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1260/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3668af1914f7bd75dfad",
+      "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "850d1ba8ad0c0dcd8208",
+      "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3eaddfc891454aacbaf5",
+      "title": "Vulnérabilité dans GitLab (05 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1262/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "462a0a3788391c8de105",
+      "title": "Multiples vulnérabilités dans Zabbix (05 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
@@ -129,46 +289,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
       "source": "BleepingComputer",
       "published_at": "2026-10-02T16:20:05Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "5098f8e142a5acb2f596",
-      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
-      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-02T15:20:53Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "f4b6d95f5f5a5e706025",
-      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
-      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-02T14:00:10Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "778774296a1ff5604e49",
-      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
-      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-02T12:37:40Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "b8b4a1085f35e6383360",
-      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-02T09:29:56Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -311,36 +431,6 @@
       "published_at": "2026-10-02T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "b4ba5b4eb39d72464db7",
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-01T22:42:49Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "b2099d009ed00ab32c3b",
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-01T20:52:50Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "8b472bb05c2f3c15b80d",
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-01T19:32:47Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "815102fdc112bbf208b8",
@@ -525,12 +615,12 @@
     {
       "id": "52369fa32b06599ed6c2",
       "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
-      "summary": "[Mise à jour du 30 septembre 2026] Dans un billet de blogue du 29 septembre 2026 (cf. section Documentation), Mandiant et Google Threat Intelligence Group (GTIG) fournissent des indicateurs de compromission ainsi que des règles de détection au format YARA. Ceux-ci n'ont pas été qualifiés par...",
+      "summary": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]** Dans un billet...",
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-011/",
       "source": "CERT-FR",
       "published_at": "2026-09-28T00:00:00Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
+      "severity": "Critique"
     },
     {
       "id": "abe9673c796671fc2692",
@@ -583,16 +673,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "018ac8758ff8872a5dd3",
-      "title": "Multiples vulnérabilités dans les produits Elastic (25 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-25T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "8e98b1de01cf8c7cc7c8",
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (25 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
@@ -608,6 +688,16 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1230/",
       "source": "CERT-FR",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "018ac8758ff8872a5dd3",
+      "title": "Multiples vulnérabilités dans les produits Elastic (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/",
+      "source": "CERT-FR Avis",
       "published_at": "2026-09-25T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
@@ -643,70 +733,20 @@
       "severity": "Critique"
     },
     {
-      "id": "2abddd115f4bf6533d03",
-      "title": "Multiples vulnérabilités dans PHP (24 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "ba6f8d070fd445548bed",
-      "title": "Multiples vulnérabilités dans Wireshark (24 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1221/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "03c4e432729b07d1c8dd",
-      "title": "Multiples vulnérabilités dans LibreNMS (24 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans LibreNMS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1222/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "ce3254336a051ef0e8d6",
-      "title": "Multiples vulnérabilités dans Papercut (24 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Papercut. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1223/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2a130cbdda717e765d45",
-      "title": "Vulnérabilité dans Microsoft Office (24 septembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1224/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "112bb8f1db9e0370f4c8",
-      "title": "Multiples vulnérabilités dans GitLab (24 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1225/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "a7c243199850c47edc3f",
       "title": "Multiples vulnérabilités dans Zabbix Agent (24 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix Agent. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1226/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2abddd115f4bf6533d03",
+      "title": "Multiples vulnérabilités dans PHP (24 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/",
       "source": "CERT-FR Avis",
       "published_at": "2026-09-24T00:00:00Z",
       "category": "Vulnérabilité",
@@ -729,16 +769,6 @@
       "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-71362",
       "source": "CISA KEV",
       "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "7c9779732a2355515527",
-      "title": "Vulnérabilité dans F5 BIG-IP (23 septembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que la vulnérabilité CVE-2026-94127 est activement exploitée. Des indicateurs de compromission sont disponibles dans l'avis de l'éditeur.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1220/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-23T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -2057,7 +2087,7 @@
       "title": "Multiples vulnérabilités dans Roundcube (26 mai 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Roundcube. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0644/",
-      "source": "CERT-FR",
+      "source": "CERT-FR Avis",
       "published_at": "2026-05-26T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
@@ -2313,16 +2343,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "e19c2269e35da96453b6",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-005 (02 février 2026)",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "url": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2026-ACT-005/",
-      "source": "CERT-FR Actualité",
-      "published_at": "2026-02-02T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
       "id": "b110efc0018a226f0e23",
       "title": "[MàJ] Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (30 janvier 2026)",
       "summary": "[Mise à jour du 09 février 2026] Le 6 février 2026, Ivanti a mis à disposition des scripts RPM de détection d'indicateurs de compromission, à utiliser en fonction de la version d'EPMM installée. L'éditeur a également mis son guide d'analyse à jour (cf. section Documentation). [Mise à jour du 02...",
@@ -2480,26 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-14T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "5e4f56d49477a4ca2430",
-      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
-      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-006/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-05-13T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "31589b069cc8ff518af3",
-      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
-      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-04-29T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
