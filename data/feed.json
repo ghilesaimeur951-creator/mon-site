@@ -1,26 +1,66 @@
 {
-  "generated_at": "2026-10-06T08:55:47Z",
+  "generated_at": "2026-10-06T15:34:19Z",
   "count": 250,
   "items": [
+    {
+      "id": "8873deea669b4d54ac7b",
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-06T15:34:19Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
     {
       "id": "a48481198b82981bf859",
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T08:55:47Z",
+      "published_at": "2026-10-06T15:34:19Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "c24f61f66f613431ba97",
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T08:55:47Z",
-      "category": "Incident",
-      "severity": "Moyenne"
+      "id": "7a6163ec70060cb57e6d",
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-06T15:16:44Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "5c72c383e194ac63c1c8",
+      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-06T14:00:10Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "35a5f1b8721508269f40",
+      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-06T11:31:48Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "8a072195000a84bf2672",
+      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-06T09:25:50Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "5a2d043e5a7f3312e9e8",
@@ -30,6 +70,36 @@
       "source": "BleepingComputer",
       "published_at": "2026-10-06T08:19:24Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "673ee05ea984e5736d6d",
+      "title": "Multiples vulnérabilités dans les produits Atlassian (06 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1264/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "8b1aa8fec48e08ea1404",
+      "title": "Vulnérabilité dans Microsoft Office (06 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1266/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "079ca6577fcd5daa5243",
+      "title": "Multiples vulnérabilités dans Google Android (06 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1265/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-06T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
@@ -133,16 +203,6 @@
       "severity": "Info"
     },
     {
-      "id": "64e40df3b34ac70366b3",
-      "title": "Google halts open-source bug bounty program amid AI spam surge",
-      "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-05T08:27:46Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
       "id": "6eaea20326d1a5722ce7",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-042 (05 octobre 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -213,26 +273,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "8873deea669b4d54ac7b",
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-04T21:58:01Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "36473df9dd8c1139aaab",
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-04T10:53:21Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
       "id": "44e103c4a97ab86e7fb2",
       "title": "CVE-2026-88779 — Citrix NetScaler",
       "summary": "Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a denial of service.",
@@ -241,16 +281,6 @@
       "published_at": "2026-10-04T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "4e1146b9767f9c64c650",
-      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-      "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-03T23:12:34Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "75b434cf0f3c41cea599",
@@ -613,16 +643,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "14220430880197996ef5",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (25 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/",
-      "source": "CERT-FR",
-      "published_at": "2026-09-25T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "715ca3c058bc42eba5b1",
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (25 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
@@ -633,11 +653,21 @@
       "severity": "Élevée"
     },
     {
-      "id": "8e98b1de01cf8c7cc7c8",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (25 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1231/",
-      "source": "CERT-FR",
+      "id": "018ac8758ff8872a5dd3",
+      "title": "Multiples vulnérabilités dans les produits Elastic (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-09-25T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "14220430880197996ef5",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/",
+      "source": "CERT-FR Avis",
       "published_at": "2026-09-25T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
@@ -647,16 +677,16 @@
       "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (25 septembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1230/",
-      "source": "CERT-FR",
+      "source": "CERT-FR Avis",
       "published_at": "2026-09-25T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "018ac8758ff8872a5dd3",
-      "title": "Multiples vulnérabilités dans les produits Elastic (25 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/",
+      "id": "8e98b1de01cf8c7cc7c8",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (25 septembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1231/",
       "source": "CERT-FR Avis",
       "published_at": "2026-09-25T00:00:00Z",
       "category": "Vulnérabilité",
@@ -691,26 +721,6 @@
       "published_at": "2026-09-25T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "a7c243199850c47edc3f",
-      "title": "Multiples vulnérabilités dans Zabbix Agent (24 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix Agent. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1226/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2abddd115f4bf6533d03",
-      "title": "Multiples vulnérabilités dans PHP (24 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "4ad9a881ed7b5812940d",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "03a7ac539f5ab2030a99",
-      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
-      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet de télécharger...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-005/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-28T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
