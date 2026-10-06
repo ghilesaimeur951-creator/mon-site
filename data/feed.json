@@ -1,46 +1,36 @@
 {
-  "generated_at": "2026-10-06T02:06:02Z",
+  "generated_at": "2026-10-06T08:55:47Z",
   "count": 250,
   "items": [
+    {
+      "id": "a48481198b82981bf859",
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-06T08:55:47Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "c24f61f66f613431ba97",
       "title": "Danish university DTU breach exposes data of up to 200,000 people",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T02:06:02Z",
+      "published_at": "2026-10-06T08:55:47Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "1a019c2da70684a54f4d",
-      "title": "Frontline Education breach exposes school district employee data",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T02:06:02Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "e611cb20ae49777dc80b",
-      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T02:06:02Z",
+      "id": "5a2d043e5a7f3312e9e8",
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-06T08:19:24Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "9814dffcb60cd9ffa06c",
-      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T02:06:02Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "f4f247786e94673806c5",
@@ -259,16 +249,6 @@
       "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
       "source": "BleepingComputer",
       "published_at": "2026-10-03T23:12:34Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "a48481198b82981bf859",
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-03T19:09:38Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2500,6 +2480,26 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ef0ed0f1dd0c2f1e62ee",
+      "title": "Ciblage et compromission d'entités françaises au moyen du mode opératoire d'attaque APT28 (29 avril 2025)",
+      "summary": "English version : 🇬🇧 L’ANSSI et ses partenaires du Centre de coordination des crises cyber (C4) ont observé entre 2021 et 2024 des attaques informatiques conduites par les opérateurs d’APT28, qui sont publiquement rattachés par différentes sources à la Russie. Le mode opératoire d’attaque APT28 a...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "03a7ac539f5ab2030a99",
+      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
+      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet de télécharger...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-005/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-28T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
