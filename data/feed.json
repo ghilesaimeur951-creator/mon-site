@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:07:07Z",
+  "generated_at": "2026-10-07T05:52:01Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T00:07:07Z",
+      "published_at": "2026-10-07T05:52:01Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T00:07:07Z",
+      "published_at": "2026-10-07T05:52:01Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -28,19 +28,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T00:07:07Z",
+      "published_at": "2026-10-07T05:52:01Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "a48481198b82981bf859",
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T00:07:07Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "e4f90620265751191abe",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "31589b069cc8ff518af3",
+      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
+      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
