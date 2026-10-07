@@ -1,26 +1,36 @@
 {
-  "generated_at": "2026-10-07T05:52:01Z",
+  "generated_at": "2026-10-07T12:16:30Z",
   "count": 250,
   "items": [
     {
-      "id": "8cedd832950d950846c0",
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "id": "d9fe3a1e916f0e9e992f",
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T05:52:01Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-10-07T12:16:30Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
-      "id": "7f005eff5309d107cee6",
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "id": "2b5b7c2cd2dfc5a5dce1",
+      "title": "Denmark population registry data breach affects 8.8 million people",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T05:52:01Z",
-      "category": "Menace",
-      "severity": "Élevée"
+      "published_at": "2026-10-07T12:16:30Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "8529f42bd2dde732af24",
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-07T12:16:30Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "8873deea669b4d54ac7b",
@@ -28,9 +38,39 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T05:52:01Z",
+      "published_at": "2026-10-07T12:16:30Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "a4a0958904259a11a70d",
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-07T11:37:07Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "9350b2b555da63ba189b",
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-07T10:35:15Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "2b5af208b475bd925c21",
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-07T10:27:52Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "e4f90620265751191abe",
@@ -181,36 +221,6 @@
       "published_at": "2026-10-05T17:19:53Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "2b5b7c2cd2dfc5a5dce1",
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-05T15:21:10Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "8529f42bd2dde732af24",
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-05T14:53:06Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "d9fe3a1e916f0e9e992f",
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-05T14:22:12Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "6eaea20326d1a5722ce7",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "31589b069cc8ff518af3",
-      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
-      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-04-29T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
