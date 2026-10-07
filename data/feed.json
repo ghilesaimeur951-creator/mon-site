@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-06T20:33:17Z",
+  "generated_at": "2026-10-07T00:07:07Z",
   "count": 250,
   "items": [
+    {
+      "id": "8cedd832950d950846c0",
+      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-07T00:07:07Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "7f005eff5309d107cee6",
       "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T20:33:17Z",
+      "published_at": "2026-10-07T00:07:07Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "a48481198b82981bf859",
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T20:33:17Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "8873deea669b4d54ac7b",
@@ -28,7 +28,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-06T20:33:17Z",
+      "published_at": "2026-10-07T00:07:07Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a48481198b82981bf859",
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-07T00:07:07Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "e4f90620265751191abe",
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-06T21:00:27Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -201,16 +221,6 @@
       "published_at": "2026-10-05T14:22:12Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "8cedd832950d950846c0",
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-05T13:33:42Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "6eaea20326d1a5722ce7",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "31589b069cc8ff518af3",
-      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
-      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-04-29T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
