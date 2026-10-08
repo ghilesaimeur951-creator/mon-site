@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T23:29:53Z",
+  "generated_at": "2026-10-08T02:51:11Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T23:29:53Z",
+      "published_at": "2026-10-08T02:51:11Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T23:29:53Z",
+      "published_at": "2026-10-08T02:51:11Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T23:29:53Z",
+      "published_at": "2026-10-08T02:51:11Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T23:29:53Z",
+      "published_at": "2026-10-08T02:51:11Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-07T23:29:53Z",
+      "published_at": "2026-10-08T02:51:11Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
