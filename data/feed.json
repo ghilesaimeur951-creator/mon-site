@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T02:51:11Z",
+  "generated_at": "2026-10-08T09:41:49Z",
   "count": 250,
   "items": [
     {
@@ -8,9 +8,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T02:51:11Z",
+      "published_at": "2026-10-08T09:41:49Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "7a6163ec70060cb57e6d",
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-08T09:41:49Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "5c72c383e194ac63c1c8",
@@ -18,17 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T02:51:11Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "35a5f1b8721508269f40",
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T02:51:11Z",
+      "published_at": "2026-10-08T09:41:49Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,19 +38,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T02:51:11Z",
+      "published_at": "2026-10-08T09:41:49Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "8873deea669b4d54ac7b",
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "id": "8529f42bd2dde732af24",
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T02:51:11Z",
+      "published_at": "2026-10-08T09:41:49Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "958c66cc09d0fc86e60f",
+      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-08T06:32:16Z",
       "category": "Vulnérabilité",
-      "severity": "Critique"
+      "severity": "Élevée"
     },
     {
       "id": "8112fe6fe7db20cd324e",
@@ -321,16 +331,6 @@
       "published_at": "2026-10-06T16:33:54Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "7a6163ec70060cb57e6d",
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-06T15:16:44Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "673ee05ea984e5736d6d",
