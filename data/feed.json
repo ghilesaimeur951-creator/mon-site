@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:41:49Z",
+  "generated_at": "2026-10-08T16:56:47Z",
   "count": 250,
   "items": [
     {
@@ -8,29 +8,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T09:41:49Z",
+      "published_at": "2026-10-08T16:56:47Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "7a6163ec70060cb57e6d",
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "id": "9350b2b555da63ba189b",
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T09:41:49Z",
+      "published_at": "2026-10-08T16:56:47Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "5c72c383e194ac63c1c8",
-      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "id": "2b5af208b475bd925c21",
+      "title": "Advantest confirms personal information stolen in ransomware attack",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T09:41:49Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-10-08T16:56:47Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "5a2d043e5a7f3312e9e8",
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T09:41:49Z",
+      "published_at": "2026-10-08T16:56:47Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,9 +48,69 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T09:41:49Z",
+      "published_at": "2026-10-08T16:56:47Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "484d290f7ef10868288b",
+      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-08T15:26:33Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "f5b86e07d92b4477c6bf",
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-08T14:00:10Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e4d8f7f4133e74f46f3f",
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-08T13:18:36Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "8807a125f475e333ee1b",
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-08T12:08:16Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "e7ebdbc179da76f321d4",
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-08T11:42:46Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "c19730d305181e24e54e",
+      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "summary": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-08T10:29:19Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "958c66cc09d0fc86e60f",
@@ -59,6 +119,36 @@
       "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
       "source": "BleepingComputer",
       "published_at": "2026-10-08T06:32:16Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a0450717a899b03bcd6",
+      "title": "Multiples vulnérabilités dans les produits Splunk (08 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1281/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-08T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b999798059dc5dd93bae",
+      "title": "Vulnérabilité dans Ceph (08 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Ceph. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1280/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-08T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a798bc923f25236226e6",
+      "title": "Multiples vulnérabilités dans les produits Cisco (08 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-08T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -141,26 +231,6 @@
       "published_at": "2026-10-07T11:37:07Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "9350b2b555da63ba189b",
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-07T10:35:15Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "2b5af208b475bd925c21",
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-07T10:27:52Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "40874be701ed0ad29b0f",
@@ -291,46 +361,6 @@
       "published_at": "2026-10-07T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "e4f90620265751191abe",
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-06T21:00:27Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "6921c562391bdc0fc047",
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-06T19:21:53Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "17c788dbd3c4e68e5a2f",
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-06T17:34:59Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "f33daff6fbcd675107f0",
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-06T16:33:54Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "673ee05ea984e5736d6d",
@@ -583,21 +613,21 @@
       "severity": "Critique"
     },
     {
+      "id": "1687df44b7955f2dddfe",
+      "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-76504 est activement exploitée.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "815102fdc112bbf208b8",
       "title": "Multiples vulnérabilités dans CPython (01 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans CPython. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1243/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-01T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "db4df7da4ea39717e82f",
-      "title": "Multiples vulnérabilités dans Redmine (01 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1245/",
-      "source": "CERT-FR",
+      "source": "CERT-FR Avis",
       "published_at": "2026-10-01T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
@@ -607,20 +637,20 @@
       "title": "Multiples vulnérabilités dans Mozilla Thunderbird (01 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1244/",
-      "source": "CERT-FR",
+      "source": "CERT-FR Avis",
       "published_at": "2026-10-01T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "1687df44b7955f2dddfe",
-      "title": "Vulnérabilité dans Cisco Catalyst SD-WAN (01 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Cisco Catalyst SD-WAN. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Cisco indique que la vulnérabilité CVE-2026-76504 est activement exploitée.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1246/",
-      "source": "CERT-FR",
+      "id": "db4df7da4ea39717e82f",
+      "title": "Multiples vulnérabilités dans Redmine (01 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1245/",
+      "source": "CERT-FR Avis",
       "published_at": "2026-10-01T00:00:00Z",
       "category": "Vulnérabilité",
-      "severity": "Critique"
+      "severity": "Élevée"
     },
     {
       "id": "9ba609d9afe5d95bd939",
@@ -641,36 +671,6 @@
       "published_at": "2026-09-30T00:00:00Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "d076b7bd5954be8d1187",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (30 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1240/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-30T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "9a8e30b0c70286aa8f17",
-      "title": "Multiples vulnérabilités dans OpenSSL (30 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1241/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-30T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c131aad0c732be0b61db",
-      "title": "Multiples vulnérabilités dans GitLab (30 septembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité. Gitlab indique que la vulnérabilité CVE-2026-85706 est activement exploitée.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1242/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-09-30T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "fffe4e7568408d7c7971",
