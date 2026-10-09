@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:44:43Z",
+  "generated_at": "2026-10-09T23:32:20Z",
   "count": 250,
   "items": [
     {
@@ -8,9 +8,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T19:44:43Z",
+      "published_at": "2026-10-09T23:32:20Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "f5b86e07d92b4477c6bf",
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-09T23:32:20Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "e4d8f7f4133e74f46f3f",
@@ -18,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T19:44:43Z",
+      "published_at": "2026-10-09T23:32:20Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,19 +38,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T19:44:43Z",
+      "published_at": "2026-10-09T23:32:20Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "e7ebdbc179da76f321d4",
-      "title": "ASOS links data breach to social engineering attack, credential theft",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T19:44:43Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "5a2d043e5a7f3312e9e8",
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T19:44:43Z",
+      "published_at": "2026-10-09T23:32:20Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T19:44:43Z",
+      "published_at": "2026-10-09T23:32:20Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -68,9 +68,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T19:44:43Z",
+      "published_at": "2026-10-09T23:32:20Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "944cba0b0c149de62012",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-09T20:31:37Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "5912f0c9922d4ec5ea5a",
@@ -301,16 +311,6 @@
       "published_at": "2026-10-08T15:26:33Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "f5b86e07d92b4477c6bf",
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-08T14:00:10Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "2a0450717a899b03bcd6",
