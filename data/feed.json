@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:43:18Z",
+  "generated_at": "2026-10-09T01:27:36Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T21:43:18Z",
+      "published_at": "2026-10-09T01:27:36Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T21:43:18Z",
+      "published_at": "2026-10-09T01:27:36Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T21:43:18Z",
+      "published_at": "2026-10-09T01:27:36Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T21:43:18Z",
+      "published_at": "2026-10-09T01:27:36Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-08T21:43:18Z",
+      "published_at": "2026-10-09T01:27:36Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
