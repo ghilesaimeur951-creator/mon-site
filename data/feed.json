@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:40:14Z",
+  "generated_at": "2026-10-09T19:44:43Z",
   "count": 250,
   "items": [
     {
@@ -8,29 +8,39 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T14:40:14Z",
+      "published_at": "2026-10-09T19:44:43Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "c19730d305181e24e54e",
-      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "id": "e4d8f7f4133e74f46f3f",
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T14:40:14Z",
+      "published_at": "2026-10-09T19:44:43Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "958c66cc09d0fc86e60f",
-      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "id": "8807a125f475e333ee1b",
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T14:40:14Z",
+      "published_at": "2026-10-09T19:44:43Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "e7ebdbc179da76f321d4",
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-09T19:44:43Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "5a2d043e5a7f3312e9e8",
@@ -38,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T14:40:14Z",
+      "published_at": "2026-10-09T19:44:43Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,19 +58,49 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T14:40:14Z",
+      "published_at": "2026-10-09T19:44:43Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "e4f90620265751191abe",
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "id": "8112fe6fe7db20cd324e",
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T14:40:14Z",
+      "published_at": "2026-10-09T19:44:43Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5912f0c9922d4ec5ea5a",
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-09T17:17:23Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "2578558362f02f989be4",
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-09T17:02:29Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "80ea615a8d476f8cf914",
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-09T15:38:56Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "5ecc5b60f49be4077912",
@@ -271,36 +311,6 @@
       "published_at": "2026-10-08T14:00:10Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "e4d8f7f4133e74f46f3f",
-      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-      "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-08T13:18:36Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "8807a125f475e333ee1b",
-      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-      "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-08T12:08:16Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "e7ebdbc179da76f321d4",
-      "title": "ASOS links data breach to social engineering attack, credential theft",
-      "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-08T11:42:46Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "2a0450717a899b03bcd6",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "409d811bdff30cc1c971",
-      "title": "Opération ENDGAME 2025 (23 mai 2025)",
-      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-008/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-05-23T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
