@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-10-10T02:44:38Z",
+  "generated_at": "2026-10-10T09:02:42Z",
   "count": 250,
   "items": [
-    {
-      "id": "d9fe3a1e916f0e9e992f",
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-10T02:44:38Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
     {
       "id": "f5b86e07d92b4477c6bf",
       "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-10T02:44:38Z",
+      "published_at": "2026-10-10T09:02:42Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-10T02:44:38Z",
+      "published_at": "2026-10-10T09:02:42Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,27 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-10T02:44:38Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "5a2d043e5a7f3312e9e8",
-      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-10T02:44:38Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "17c788dbd3c4e68e5a2f",
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-10T02:44:38Z",
+      "published_at": "2026-10-10T09:02:42Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -68,9 +38,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-10T02:44:38Z",
+      "published_at": "2026-10-10T09:02:42Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "049aad3b8e0ab1a7e8fd",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-10T09:02:42Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "4e5e4a2f6d27f72a2915",
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-10T09:02:42Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "944cba0b0c149de62012",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "409d811bdff30cc1c971",
+      "title": "Opération ENDGAME 2025 (23 mai 2025)",
+      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-05-23T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
