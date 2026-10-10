@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T23:32:20Z",
+  "generated_at": "2026-10-10T02:44:38Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T23:32:20Z",
+      "published_at": "2026-10-10T02:44:38Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T23:32:20Z",
+      "published_at": "2026-10-10T02:44:38Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T23:32:20Z",
+      "published_at": "2026-10-10T02:44:38Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T23:32:20Z",
+      "published_at": "2026-10-10T02:44:38Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T23:32:20Z",
+      "published_at": "2026-10-10T02:44:38Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T23:32:20Z",
+      "published_at": "2026-10-10T02:44:38Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -68,7 +68,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-09T23:32:20Z",
+      "published_at": "2026-10-10T02:44:38Z",
       "category": "Menace",
       "severity": "Élevée"
     },
