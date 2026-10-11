@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:26:32Z",
+  "generated_at": "2026-10-11T14:16:14Z",
   "count": 250,
   "items": [
     {
@@ -8,17 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-11T07:26:32Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "91772b15c79976758b08",
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-11T07:26:32Z",
+      "published_at": "2026-10-11T14:16:14Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "03a7ac539f5ab2030a99",
+      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
+      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet de télécharger...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-005/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-04-28T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
