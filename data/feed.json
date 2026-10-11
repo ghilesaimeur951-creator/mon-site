@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-10-11T14:16:14Z",
+  "generated_at": "2026-10-11T19:03:36Z",
   "count": 250,
   "items": [
+    {
+      "id": "82ee7a48c04d51c52b44",
+      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-11T19:03:36Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
     {
       "id": "5a63718732ecbc41d3b1",
       "title": "Low-cost Android phones ship with residential proxy malware",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-11T14:16:14Z",
+      "published_at": "2026-10-11T19:03:36Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "406e1eebee8a0cabea1a",
+      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+      "summary": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-11T14:23:46Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -241,16 +261,6 @@
       "published_at": "2026-10-08T21:42:51Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "82ee7a48c04d51c52b44",
-      "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-      "summary": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-08T20:09:45Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "2a0450717a899b03bcd6",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "03a7ac539f5ab2030a99",
-      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
-      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet de télécharger...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-005/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-28T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
