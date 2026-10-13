@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-10-13T20:31:31Z",
+  "generated_at": "2026-10-13T23:52:00Z",
   "count": 250,
   "items": [
     {
-      "id": "58f28dbb5db2e5181ff8",
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "id": "259b31cc38afc4ec1ec2",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T20:31:31Z",
+      "published_at": "2026-10-13T23:52:00Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "db0de857c940096aeedc",
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-13T23:52:00Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "953fff0f262464208cd6",
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-13T23:52:00Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,29 +38,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T20:31:31Z",
+      "published_at": "2026-10-13T23:52:00Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "a1a9815eeb632a0e174e",
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T20:31:31Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "768e82c2b3a27eb9cb1e",
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T20:31:31Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "c1d0598b685475320443",
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T20:31:31Z",
+      "published_at": "2026-10-13T23:52:00Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,7 +58,37 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T20:31:31Z",
+      "published_at": "2026-10-13T23:52:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3559b8a89797a267bc77",
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-13T22:33:02Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "521975252a515749d365",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-13T21:33:26Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "39505ef21f939066cd4f",
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-13T21:16:34Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -209,36 +239,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
       "source": "BleepingComputer",
       "published_at": "2026-10-12T19:23:01Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "db0de857c940096aeedc",
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-12T18:51:59Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "259b31cc38afc4ec1ec2",
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-12T16:27:23Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "953fff0f262464208cd6",
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-12T15:23:34Z",
       "category": "Actualité",
       "severity": "Info"
     },
