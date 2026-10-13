@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:35:11Z",
+  "generated_at": "2026-10-13T07:05:41Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T00:35:11Z",
+      "published_at": "2026-10-13T07:05:41Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,19 +18,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T00:35:11Z",
+      "published_at": "2026-10-13T07:05:41Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "6dabc0f8fb49ecb0d038",
-      "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T00:35:11Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "1507a800cd530374fd07",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "31589b069cc8ff518af3",
+      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
+      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
