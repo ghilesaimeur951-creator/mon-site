@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-10-13T07:05:41Z",
+  "generated_at": "2026-10-13T14:59:24Z",
   "count": 250,
   "items": [
     {
-      "id": "2578558362f02f989be4",
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "id": "944cba0b0c149de62012",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T07:05:41Z",
+      "published_at": "2026-10-13T14:59:24Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "80ea615a8d476f8cf914",
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-13T07:05:41Z",
-      "category": "Menace",
+      "id": "f7a2a64fd763c0e688be",
+      "title": "The MFA Gaps Attackers are Still Exploiting",
+      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-13T14:01:11Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
+    },
+    {
+      "id": "3b61a6f16cb0f0284488",
+      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+      "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-13T13:51:02Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "cbdd740ba8d5923ce560",
+      "title": "Vulnérabilité dans NetApp StorageGRID (13 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1295/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-13T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e1e7b18cd421ef1fe19e",
+      "title": "CVE-2026-104935 — Ivanti Connect Secure",
+      "summary": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-104935",
+      "source": "CISA KEV",
+      "published_at": "2026-10-13T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "1507a800cd530374fd07",
@@ -154,8 +184,8 @@
     },
     {
       "id": "8aaef6f507c465ba3675",
-      "title": "Incident de sécurité ciblant les Danfoss série AK-SM et AK-SC (12 octobre 2026)",
-      "summary": "Le CERT-FR a connaissance de nombreuses compromissions de Danfoss série AK-SM et AK-SC. L'exposition d'une interface de gestion sur Internet est contraire aux bonnes pratiques. Dans le cas où l’administration à distance est impérative, une première mesure temporaire peut consister à restreindre...",
+      "title": "Incident de sécurité ciblant les contrôleurs à distance des installations de réfrigération (12 octobre 2026)",
+      "summary": "Le CERT-FR a connaissance de nombreuses compromissions des controleurs à distance d'installation de réfrigération Danfoss série AK-SM, AK-SC ainsi que Copeland xweb et Dixell xweb. De manière générale l'exposition d'une interface de gestion sur Internet est contraire aux bonnes pratiques.",
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-012/",
       "source": "CERT-FR",
       "published_at": "2026-10-12T00:00:00Z",
@@ -201,26 +231,6 @@
       "published_at": "2026-10-10T12:30:39Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "944cba0b0c149de62012",
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-09T20:31:37Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "5912f0c9922d4ec5ea5a",
-      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
-      "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-09T17:17:23Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "74277302e34eaeef31a7",
@@ -563,36 +573,6 @@
       "severity": "Critique"
     },
     {
-      "id": "fa53061432910e439a8e",
-      "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1260/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-05T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3668af1914f7bd75dfad",
-      "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-05T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "850d1ba8ad0c0dcd8208",
-      "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-05T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "3eaddfc891454aacbaf5",
       "title": "Vulnérabilité dans GitLab (05 octobre 2026)",
       "summary": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
@@ -608,6 +588,36 @@
       "summary": "De multiples vulnérabilités ont été découvertes dans Zabbix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1261/",
       "source": "CERT-FR",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "850d1ba8ad0c0dcd8208",
+      "title": "Vulnérabilité dans Microsoft Exchange Server (05 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1258/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3668af1914f7bd75dfad",
+      "title": "Multiples vulnérabilités dans Google Chrome (05 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1259/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-10-05T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "fa53061432910e439a8e",
+      "title": "Multiples vulnérabilités dans OpenOffice (05 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1260/",
+      "source": "CERT-FR Avis",
       "published_at": "2026-10-05T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
@@ -638,16 +648,6 @@
       "summary": "Le CERT Santé et le CERT-FR assurent le traitement des vulnérabilités qui leur sont signalées par des tiers. A ce titre, ils accompagnent les éditeurs affectés dans la conception et le suivi de plan d’action incluant le développement de correctifs et la communication vers leurs utilisateurs. Dans...",
       "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2026-CTI-007/",
       "source": "CERT-FR Menaces",
-      "published_at": "2026-10-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "7a15398fc6b1520e50d6",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (02 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1255/",
-      "source": "CERT-FR Avis",
       "published_at": "2026-10-02T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
@@ -1007,10 +1007,10 @@
       "title": "Vulnérabilité dans Metabase (10 septembre 2026)",
       "summary": "Le 06 août 2026, Metabase a publié un avis de sécurité concernant une vulnérabilité critique permettant à un attaquant non authentifié de provoquer une injection SQL (SQLi) dans la base de donnée de l'application Metabase. Cette injection SQL permet d’obtenir les droits administrateur de...",
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-010/",
-      "source": "CERT-FR Alertes",
+      "source": "CERT-FR",
       "published_at": "2026-09-10T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "6efa56490aa20538ae3e",
@@ -1137,10 +1137,10 @@
       "title": "Multiples vulnérabilités dans SonicWall Secure Mobile Access (02 septembre 2026)",
       "summary": "Le 01 septembre 2026, SonicWall a publié un avis de sécurité concernant deux vulnérabilités affectant les Secure Mobile Access (SMA) 1000. La vulnérabilité critique CVE-2026-83548 permet une falsification de requêtes côté serveur (SSRF) de la part d'un attaquant non authentifié. La vulnérabilité...",
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2026-ALE-009/",
-      "source": "CERT-FR Alertes",
+      "source": "CERT-FR",
       "published_at": "2026-09-02T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "1e1ce6ce703084fdff79",
@@ -2053,16 +2053,6 @@
       "severity": "Critique"
     },
     {
-      "id": "194bc38aff3da051bee6",
-      "title": "CVE-2026-20262 — Cisco Catalyst SD-WAN Manager",
-      "summary": "Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20262",
-      "source": "CISA KEV",
-      "published_at": "2026-06-15T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "9780c58fb53242f9c8e9",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-025 (08 juin 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2497,6 +2487,16 @@
       "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
       "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
       "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ef0ed0f1dd0c2f1e62ee",
+      "title": "Ciblage et compromission d'entités françaises au moyen du mode opératoire d'attaque APT28 (29 avril 2025)",
+      "summary": "English version : 🇬🇧 L’ANSSI et ses partenaires du Centre de coordination des crises cyber (C4) ont observé entre 2021 et 2024 des attaques informatiques conduites par les opérateurs d’APT28, qui sont publiquement rattachés par différentes sources à la Russie. Le mode opératoire d’attaque APT28 a...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-006/",
       "source": "CERT-FR Menaces",
       "published_at": "2025-04-29T00:00:00Z",
       "category": "Menace",
