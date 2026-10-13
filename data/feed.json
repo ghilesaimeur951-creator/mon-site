@@ -1,36 +1,66 @@
 {
-  "generated_at": "2026-10-12T18:04:29Z",
+  "generated_at": "2026-10-13T00:35:11Z",
   "count": 250,
   "items": [
+    {
+      "id": "2578558362f02f989be4",
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-13T00:35:11Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "80ea615a8d476f8cf914",
+      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-13T00:35:11Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
     {
       "id": "6dabc0f8fb49ecb0d038",
       "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-12T18:04:29Z",
+      "published_at": "2026-10-13T00:35:11Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "0c103a036f9d585dc392",
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-12T18:04:29Z",
+      "id": "1507a800cd530374fd07",
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-12T20:13:52Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "776e8c0f806079d80cd0",
-      "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-12T18:04:29Z",
+      "id": "aec445a38383e47366ad",
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-12T19:23:01Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "db0de857c940096aeedc",
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-12T18:51:59Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "259b31cc38afc4ec1ec2",
@@ -201,36 +231,6 @@
       "published_at": "2026-10-09T17:17:23Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "2578558362f02f989be4",
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-09T17:02:29Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "80ea615a8d476f8cf914",
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-09T15:38:56Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "5ecc5b60f49be4077912",
-      "title": "How to keep AI agents within their permissions",
-      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-09T14:01:11Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "74277302e34eaeef31a7",
