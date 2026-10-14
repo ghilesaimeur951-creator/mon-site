@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:00:15Z",
+  "generated_at": "2026-10-14T13:40:21Z",
   "count": 250,
   "items": [
     {
@@ -8,27 +8,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T08:00:15Z",
+      "published_at": "2026-10-14T13:40:21Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "db0de857c940096aeedc",
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "id": "f7a2a64fd763c0e688be",
+      "title": "The MFA Gaps Attackers are Still Exploiting",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T08:00:15Z",
-      "category": "Incident",
-      "severity": "Moyenne"
+      "published_at": "2026-10-14T13:40:21Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
-      "id": "953fff0f262464208cd6",
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "id": "3b61a6f16cb0f0284488",
+      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T08:00:15Z",
+      "published_at": "2026-10-14T13:40:21Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,9 +38,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T08:00:15Z",
+      "published_at": "2026-10-14T13:40:21Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "953fff0f262464208cd6",
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-14T13:40:21Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "768e82c2b3a27eb9cb1e",
@@ -48,7 +58,47 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T08:00:15Z",
+      "published_at": "2026-10-14T13:40:21Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "d21e2d4e3bc5a0bd835f",
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-14T13:12:52Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e05ffdb17dfb1573de63",
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-14T12:58:07Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "7a5799db26b54ed8e1f2",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-14T11:41:20Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "f5ce8897c92c2f4c23f7",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-14T10:48:09Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -163,26 +213,6 @@
       "severity": "Critique"
     },
     {
-      "id": "f7a2a64fd763c0e688be",
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-13T14:01:11Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3b61a6f16cb0f0284488",
-      "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
-      "summary": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-13T13:51:02Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
       "id": "cbdd740ba8d5923ce560",
       "title": "Vulnérabilité dans NetApp StorageGRID (13 octobre 2026)",
       "summary": "Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer un déni de service à distance.",
@@ -211,26 +241,6 @@
       "published_at": "2026-10-13T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "1507a800cd530374fd07",
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-12T20:13:52Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "aec445a38383e47366ad",
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-12T19:23:01Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "441f09b8f98836a6d4cc",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "409d811bdff30cc1c971",
-      "title": "Opération ENDGAME 2025 (23 mai 2025)",
-      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-008/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-05-23T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
