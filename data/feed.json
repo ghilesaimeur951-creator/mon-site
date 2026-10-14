@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:09:46Z",
+  "generated_at": "2026-10-14T21:37:31Z",
   "count": 250,
   "items": [
     {
@@ -8,19 +8,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T18:09:46Z",
+      "published_at": "2026-10-14T21:37:31Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "92637fae567836d42d18",
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+      "id": "12ad0dcab9757427cede",
+      "title": "UK Housing Ombudsman Service investigates 'security incident'",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T18:09:46Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-10-14T21:37:31Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "406e1eebee8a0cabea1a",
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T18:09:46Z",
+      "published_at": "2026-10-14T21:37:31Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T18:09:46Z",
+      "published_at": "2026-10-14T21:37:31Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,9 +48,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T18:09:46Z",
+      "published_at": "2026-10-14T21:37:31Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "f5298475776fafd33d0c",
+      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-14T19:41:43Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "0077d1f981ae153d0f8e",
@@ -303,6 +313,46 @@
       "severity": "Élevée"
     },
     {
+      "id": "8f88cbd034fad006ff64",
+      "title": "CVE-2026-105134 — Ahsay AhsayCBS",
+      "summary": "Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-2026-105133.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-105134",
+      "source": "CISA KEV",
+      "published_at": "2026-10-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "fcbf094db653a6d59f51",
+      "title": "CVE-2026-76519 — Cisco Secure Email Gateway",
+      "summary": "Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-76519",
+      "source": "CISA KEV",
+      "published_at": "2026-10-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "c84584d134c99c508c7a",
+      "title": "CVE-2026-105133 — Ahsay AhsayCBS",
+      "summary": "Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-105133",
+      "source": "CISA KEV",
+      "published_at": "2026-10-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1f48b98e22228d2412dc",
+      "title": "CVE-2026-0322 — Palo Alto Networks PAN-OS",
+      "summary": "Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-0322",
+      "source": "CISA KEV",
+      "published_at": "2026-10-14T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "3559b8a89797a267bc77",
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
       "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
@@ -361,16 +411,6 @@
       "published_at": "2026-10-13T19:04:38Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "12ad0dcab9757427cede",
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-13T18:19:44Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "cbdd740ba8d5923ce560",
@@ -2043,26 +2083,6 @@
       "severity": "Critique"
     },
     {
-      "id": "ad215695bc2c6772d8d5",
-      "title": "CVE-2026-34909 — Ubiquiti UniFi OS",
-      "summary": "Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-34909",
-      "source": "CISA KEV",
-      "published_at": "2026-06-23T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "5aecce49546f5052f7e1",
-      "title": "CVE-2026-34908 — Ubiquiti UniFi OS",
-      "summary": "Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-34908",
-      "source": "CISA KEV",
-      "published_at": "2026-06-23T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "6733e7b04cc9e27c444f",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-027 (22 juin 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2071,26 +2091,6 @@
       "published_at": "2026-06-22T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
-    },
-    {
-      "id": "b271d07143ae5015a0b3",
-      "title": "CVE-2026-20253 — Splunk Enterprise",
-      "summary": "Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20253",
-      "source": "CISA KEV",
-      "published_at": "2026-06-18T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "3ba1491d6089b46fe224",
-      "title": "CVE-2026-48907 — Widget Factory Joomla Content Editor",
-      "summary": "Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48907",
-      "source": "CISA KEV",
-      "published_at": "2026-06-16T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "a8ee8c6db9490d538163",
