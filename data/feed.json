@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T02:37:39Z",
+  "generated_at": "2026-10-14T08:00:15Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T02:37:39Z",
+      "published_at": "2026-10-14T08:00:15Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T02:37:39Z",
+      "published_at": "2026-10-14T08:00:15Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,27 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T02:37:39Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "495445805712c77dc0c5",
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T02:37:39Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "c1d0598b685475320443",
-      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T02:37:39Z",
+      "published_at": "2026-10-14T08:00:15Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,9 +38,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-14T02:37:39Z",
+      "published_at": "2026-10-14T08:00:15Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "768e82c2b3a27eb9cb1e",
+      "title": "GitLab warns of max severity code execution vulnerability",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-14T08:00:15Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "3559b8a89797a267bc77",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "409d811bdff30cc1c971",
+      "title": "Opération ENDGAME 2025 (23 mai 2025)",
+      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-05-23T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
