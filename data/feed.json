@@ -1,16 +1,36 @@
 {
-  "generated_at": "2026-10-15T09:24:09Z",
+  "generated_at": "2026-10-15T14:15:19Z",
   "count": 250,
   "items": [
+    {
+      "id": "39505ef21f939066cd4f",
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-15T14:15:19Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "259b31cc38afc4ec1ec2",
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T09:24:09Z",
+      "published_at": "2026-10-15T14:15:19Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "521975252a515749d365",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-15T14:15:19Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "768e82c2b3a27eb9cb1e",
@@ -18,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T09:24:09Z",
+      "published_at": "2026-10-15T14:15:19Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T09:24:09Z",
+      "published_at": "2026-10-15T14:15:19Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +58,37 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T09:24:09Z",
+      "published_at": "2026-10-15T14:15:19Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "7a9291116f84dd3adb40",
+      "title": "Is AI pentesting as good as a human pentester?",
+      "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-15T14:01:11Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "1a062a69d6207ab7c778",
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-15T13:18:36Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "c60b90d54a6b5d684f03",
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-15T11:55:38Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -371,36 +421,6 @@
       "published_at": "2026-10-14T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "3559b8a89797a267bc77",
-      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-13T22:33:02Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "521975252a515749d365",
-      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-13T21:33:26Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "39505ef21f939066cd4f",
-      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-      "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-13T21:16:34Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "cbdd740ba8d5923ce560",
@@ -2480,26 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "6d17de8c94a0b080e7f0",
-      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
-      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-008/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-06-05T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "409d811bdff30cc1c971",
-      "title": "Opération ENDGAME 2025 (23 mai 2025)",
-      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-008/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-05-23T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
