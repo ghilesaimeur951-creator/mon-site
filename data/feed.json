@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:34:56Z",
+  "generated_at": "2026-10-15T23:50:32Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T21:34:56Z",
+      "published_at": "2026-10-15T23:50:32Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T21:34:56Z",
+      "published_at": "2026-10-15T23:50:32Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T21:34:56Z",
+      "published_at": "2026-10-15T23:50:32Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T21:34:56Z",
+      "published_at": "2026-10-15T23:50:32Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T21:34:56Z",
+      "published_at": "2026-10-15T23:50:32Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -58,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T21:34:56Z",
+      "published_at": "2026-10-15T23:50:32Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -68,7 +68,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T21:34:56Z",
+      "published_at": "2026-10-15T23:50:32Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -78,7 +78,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T21:34:56Z",
+      "published_at": "2026-10-15T23:50:32Z",
       "category": "Actualité",
       "severity": "Info"
     },
