@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T18:26:04Z",
+  "generated_at": "2026-10-15T21:34:56Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T18:26:04Z",
+      "published_at": "2026-10-15T21:34:56Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,9 +18,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T18:26:04Z",
+      "published_at": "2026-10-15T21:34:56Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "d21e2d4e3bc5a0bd835f",
+      "title": "Global takedown hits network behind 1 billion phishing messages",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-15T21:34:56Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e05ffdb17dfb1573de63",
+      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-15T21:34:56Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "7a5799db26b54ed8e1f2",
@@ -28,19 +48,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T18:26:04Z",
+      "published_at": "2026-10-15T21:34:56Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "f5ce8897c92c2f4c23f7",
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T18:26:04Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "768e82c2b3a27eb9cb1e",
@@ -48,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T18:26:04Z",
+      "published_at": "2026-10-15T21:34:56Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,7 +68,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T18:26:04Z",
+      "published_at": "2026-10-15T21:34:56Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -68,7 +78,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T18:26:04Z",
+      "published_at": "2026-10-15T21:34:56Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "d0b52638beda04f74155",
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-15T20:25:04Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b987b9c4e049f405f22f",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-15T19:48:43Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -311,26 +341,6 @@
       "published_at": "2026-10-14T14:00:10Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "d21e2d4e3bc5a0bd835f",
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-14T13:12:52Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "e05ffdb17dfb1573de63",
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-14T12:58:07Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "c7e50dbad8b7b02fabdb",
@@ -2489,16 +2499,6 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "39b30af5529cc701957f",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
