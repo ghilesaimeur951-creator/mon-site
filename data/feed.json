@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:15:19Z",
+  "generated_at": "2026-10-15T18:26:04Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T14:15:19Z",
+      "published_at": "2026-10-15T18:26:04Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,19 +18,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T14:15:19Z",
+      "published_at": "2026-10-15T18:26:04Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "521975252a515749d365",
-      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "id": "7a5799db26b54ed8e1f2",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T14:15:19Z",
-      "category": "Incident",
-      "severity": "Moyenne"
+      "published_at": "2026-10-15T18:26:04Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "f5ce8897c92c2f4c23f7",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-15T18:26:04Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "768e82c2b3a27eb9cb1e",
@@ -38,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T14:15:19Z",
+      "published_at": "2026-10-15T18:26:04Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T14:15:19Z",
+      "published_at": "2026-10-15T18:26:04Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,9 +68,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T14:15:19Z",
+      "published_at": "2026-10-15T18:26:04Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "f6df72ea2abc993dfa9e",
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-15T18:20:59Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "bf40b114a657e05df347",
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-15T17:12:31Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "7a9291116f84dd3adb40",
@@ -111,6 +141,116 @@
       "published_at": "2026-10-15T08:06:47Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "97ba1edeb4265b58a95f",
+      "title": "Multiples vulnérabilités dans les produits F5 (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1317/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "786b22ae0156b07e69cc",
+      "title": "Multiples vulnérabilités dans les produits Symfony (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Symfony. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1324/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5bba4fce20ca9fd0237f",
+      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Palo Alto Networks indique que la...",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1326/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "7b57303555d40e06c115",
+      "title": "Multiples vulnérabilités dans Moodle (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1318/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "031070b5438bb710cef0",
+      "title": "Vulnérabilité dans les produits Microsoft (15 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1323/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d69d278004aacd7fa9c5",
+      "title": "Multiples vulnérabilités dans Drupal (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1321/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a4c7eebf316f88cf2388",
+      "title": "Multiples vulnérabilités dans les produits Juniper Networks (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1322/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "76a4a658dc77a945ecee",
+      "title": "Multiples vulnérabilités dans Sonicwall Network Security Manager (15 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Sonicwall Network Security Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1320/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "01e8b99f8cfa4e5680c2",
+      "title": "Vulnérabilité dans Cisco AsyncOS Software pour Secure Email Gateway (15 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Cisco AsyncOS Software pour Secure Email Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données. Cisco indique que la vulnérabilité CVE-2026-76519 est activement exploitée.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1325/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "631e393a8eec52a8ec53",
+      "title": "Vulnérabilité dans PostgreSQL psqlODBC (15 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans PostgreSQL psqlODBC. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1319/",
+      "source": "CERT-FR",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3ca0e95284a3c84256fc",
+      "title": "CVE-2026-21589 — Atlassian Multiple Products",
+      "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an unauthenticated attacker to access specific files within the web application root directory in affected versions.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-21589",
+      "source": "CISA KEV",
+      "published_at": "2026-10-15T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "10dada637c3ef8019c7e",
@@ -191,26 +331,6 @@
       "published_at": "2026-10-14T12:58:07Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "7a5799db26b54ed8e1f2",
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-14T11:41:20Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "f5ce8897c92c2f4c23f7",
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-14T10:48:09Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "c7e50dbad8b7b02fabdb",
@@ -553,81 +673,11 @@
       "severity": "Moyenne"
     },
     {
-      "id": "74277302e34eaeef31a7",
-      "title": "Vulnérabilité dans les produits Tenable (09 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique qu'une réinstallation d'un composant est nécessaire après la mise à jour.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1284/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-09T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b6d5f8c5a52608fe9f27",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (09 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1286/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-09T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "5ae0582524d79038adca",
-      "title": "Multiples vulnérabilités dans les produits Nextcloud (09 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1283/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-09T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "5bf803c35fc07bcd96a5",
-      "title": "Vulnérabilité dans Citrix NetScaler ADC et Gateway (09 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Citrix NetScaler ADC et Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1285/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-09T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "232690bed2790089dbc2",
-      "title": "Multiples vulnérabilités dans les produits IBM (09 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1291/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-09T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "f59c15e02e521e5e8aef",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (09 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1289/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-09T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "c97f2243ed7f46f987f6",
       "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (09 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1287/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-09T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "464571ee6b93f2b4327d",
-      "title": "Multiples vulnérabilités dans Apache Struts (09 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Struts. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. L'éditeur indique que les versions 2 des...",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1290/",
-      "source": "CERT-FR",
+      "source": "CERT-FR Avis",
       "published_at": "2026-10-09T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
@@ -637,38 +687,38 @@
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (09 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1288/",
-      "source": "CERT-FR",
+      "source": "CERT-FR Avis",
       "published_at": "2026-10-09T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "a798bc923f25236226e6",
-      "title": "Multiples vulnérabilités dans les produits Cisco (08 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-08T00:00:00Z",
+      "id": "f59c15e02e521e5e8aef",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (09 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1289/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-10-09T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "b999798059dc5dd93bae",
-      "title": "Vulnérabilité dans Ceph (08 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Ceph. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1280/",
+      "id": "464571ee6b93f2b4327d",
+      "title": "Multiples vulnérabilités dans Apache Struts (09 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Apache Struts. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. L'éditeur indique que les versions 2 des...",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1290/",
       "source": "CERT-FR Avis",
-      "published_at": "2026-10-08T00:00:00Z",
+      "published_at": "2026-10-09T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "2a0450717a899b03bcd6",
-      "title": "Multiples vulnérabilités dans les produits Splunk (08 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1281/",
+      "id": "232690bed2790089dbc2",
+      "title": "Multiples vulnérabilités dans les produits IBM (09 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1291/",
       "source": "CERT-FR Avis",
-      "published_at": "2026-10-08T00:00:00Z",
+      "published_at": "2026-10-09T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -721,36 +771,6 @@
       "published_at": "2026-10-08T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "eebd6728b8e16f6f93ca",
-      "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (07 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1277/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-07T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "0d44556a73ef50087a61",
-      "title": "Multiples vulnérabilités dans les produits Veeam (07 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1278/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-07T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "27b3a057c766211a2abe",
-      "title": "Multiples vulnérabilités dans SPIP (07 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans SPIP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1279/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-07T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "6eaea20326d1a5722ce7",
@@ -2083,16 +2103,6 @@
       "severity": "Critique"
     },
     {
-      "id": "fbf0c783914de44fda24",
-      "title": "CVE-2026-34910 — Ubiquiti UniFi OS",
-      "summary": "Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-34910",
-      "source": "CISA KEV",
-      "published_at": "2026-06-23T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "6733e7b04cc9e27c444f",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-027 (22 juin 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2ef6c92274ce6f313bd2",
-      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
-      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-009/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
