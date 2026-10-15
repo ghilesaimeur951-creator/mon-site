@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:05:26Z",
+  "generated_at": "2026-10-15T04:30:50Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T00:05:26Z",
+      "published_at": "2026-10-15T04:30:50Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,29 +18,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T00:05:26Z",
+      "published_at": "2026-10-15T04:30:50Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "406e1eebee8a0cabea1a",
-      "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T00:05:26Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "953fff0f262464208cd6",
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T00:05:26Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "768e82c2b3a27eb9cb1e",
@@ -48,7 +28,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-15T00:05:26Z",
+      "published_at": "2026-10-15T04:30:50Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "953fff0f262464208cd6",
+      "title": "Cyberattack shuts down refrigerators at French supermarkets",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-15T04:30:50Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "58f28dbb5db2e5181ff8",
+      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-15T04:30:50Z",
       "category": "Actualité",
       "severity": "Info"
     },
