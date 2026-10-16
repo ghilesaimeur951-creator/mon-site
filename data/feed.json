@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T02:09:32Z",
+  "generated_at": "2026-10-16T07:06:15Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-16T02:09:32Z",
+      "published_at": "2026-10-16T07:06:15Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-16T02:09:32Z",
+      "published_at": "2026-10-16T07:06:15Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "1651735e0da58aedeb54",
+      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-16T07:06:15Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-16T02:09:32Z",
+      "published_at": "2026-10-16T07:06:15Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -38,49 +48,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-16T02:09:32Z",
+      "published_at": "2026-10-16T07:06:15Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "7a5799db26b54ed8e1f2",
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "id": "f5ce8897c92c2f4c23f7",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-16T02:09:32Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "768e82c2b3a27eb9cb1e",
-      "title": "GitLab warns of max severity code execution vulnerability",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-16T02:09:32Z",
+      "published_at": "2026-10-16T07:06:15Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "953fff0f262464208cd6",
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-16T02:09:32Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "58f28dbb5db2e5181ff8",
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-16T02:09:32Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "id": "166fdf646185c6edf3d9",
+      "title": "BeyondTrust patches zero-day exploited in attacks since August",
+      "summary": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-16T06:18:08Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "d0b52638beda04f74155",
@@ -331,16 +321,6 @@
       "published_at": "2026-10-14T14:27:01Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "1651735e0da58aedeb54",
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-      "summary": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-14T14:00:10Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "c7e50dbad8b7b02fabdb",
@@ -2500,6 +2480,26 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "39b30af5529cc701957f",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2ef6c92274ce6f313bd2",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
