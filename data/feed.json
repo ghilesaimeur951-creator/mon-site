@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:00:30Z",
+  "generated_at": "2026-10-17T12:56:05Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T09:00:30Z",
+      "published_at": "2026-10-17T12:56:05Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T09:00:30Z",
+      "published_at": "2026-10-17T12:56:05Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T09:00:30Z",
+      "published_at": "2026-10-17T12:56:05Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -38,19 +38,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T09:00:30Z",
+      "published_at": "2026-10-17T12:56:05Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "f5298475776fafd33d0c",
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T09:00:30Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "f5ce8897c92c2f4c23f7",
@@ -58,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T09:00:30Z",
+      "published_at": "2026-10-17T12:56:05Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6d17de8c94a0b080e7f0",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
