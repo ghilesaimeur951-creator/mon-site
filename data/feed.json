@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:56:05Z",
+  "generated_at": "2026-10-17T16:03:11Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T12:56:05Z",
+      "published_at": "2026-10-17T16:03:11Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,19 +18,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T12:56:05Z",
+      "published_at": "2026-10-17T16:03:11Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "cfef32934ffbcfe5f332",
-      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "id": "c60b90d54a6b5d684f03",
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T12:56:05Z",
-      "category": "Incident",
-      "severity": "Moyenne"
+      "published_at": "2026-10-17T16:03:11Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "10dada637c3ef8019c7e",
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T12:56:05Z",
+      "published_at": "2026-10-17T16:03:11Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -48,9 +48,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-17T12:56:05Z",
+      "published_at": "2026-10-17T16:03:11Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "622bd951152759335bff",
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-17T15:18:51Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "978985bee2a5f3ab64de",
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-17T14:32:48Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "eef67d66b352919d991d",
@@ -299,26 +319,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
       "source": "BleepingComputer",
       "published_at": "2026-10-15T13:18:36Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "c60b90d54a6b5d684f03",
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-15T11:55:38Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "56b4605d9a13053250a6",
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-15T09:10:20Z",
       "category": "Actualité",
       "severity": "Info"
     },
