@@ -1,34 +1,14 @@
 {
-  "generated_at": "2026-10-18T16:38:43Z",
+  "generated_at": "2026-10-18T18:55:27Z",
   "count": 250,
   "items": [
-    {
-      "id": "39505ef21f939066cd4f",
-      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-18T16:38:43Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "259b31cc38afc4ec1ec2",
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-18T16:38:43Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
     {
       "id": "c60b90d54a6b5d684f03",
       "title": "Police arrests 95 suspects in international CSAM crackdown action",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-18T16:38:43Z",
+      "published_at": "2026-10-18T18:55:27Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2500,6 +2480,26 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-14T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5e4f56d49477a4ca2430",
+      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
+      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-006/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-13T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "31589b069cc8ff518af3",
+      "title": "🇬🇧 Targeting and compromise of french entities using the APT28 intrusion set (29 avril 2025)",
+      "summary": "Version française: 🇫🇷 ANSSI and its partners at the Cyber Crisis Coordination Center (C4) have observed informatic attacks conducted by APT28 operators between 2021 and 2024. The attackers are publicly linked to the Russian Federation. The APT28 intrusion set has been used againt various entities...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-04-29T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
