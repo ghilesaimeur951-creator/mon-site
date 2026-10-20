@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-19T22:57:36Z",
+  "generated_at": "2026-10-20T01:30:44Z",
   "count": 250,
   "items": [
     {
-      "id": "d0b52638beda04f74155",
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "id": "39949981264109196c83",
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-19T22:57:36Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
+      "published_at": "2026-10-20T01:30:44Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "27c670c5958b65f1ddb4",
@@ -18,19 +18,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-19T22:57:36Z",
+      "published_at": "2026-10-20T01:30:44Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "39949981264109196c83",
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-19T22:57:36Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "d1065e8458584a9329bc",
@@ -38,19 +28,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-19T22:57:36Z",
+      "published_at": "2026-10-20T01:30:44Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "166fdf646185c6edf3d9",
-      "title": "BeyondTrust patches zero-day exploited in attacks since August",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-19T22:57:36Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "d1504eca70b2d127b950",
@@ -2499,6 +2479,26 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-008/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-06-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "409d811bdff30cc1c971",
+      "title": "Opération ENDGAME 2025 (23 mai 2025)",
+      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-05-23T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6368041108d7dc95e6bc",
+      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (EPMM) (14 mai 2025)",
+      "summary": "[Mise à jour du 15 mai 2025] Une preuve de concept est publiquement disponible sur Internet. [Publication initiale] Le 13 mai 2025, Ivanti a publié deux avis de sécurité concernant les vulnérabilités CVE-2025-4427 et CVE-2025-4428. L'utilisation combinée de ces deux vulnérabilités permet...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-007/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-14T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
