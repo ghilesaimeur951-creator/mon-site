@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T01:30:44Z",
+  "generated_at": "2026-10-20T06:35:11Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-20T01:30:44Z",
+      "published_at": "2026-10-20T06:35:11Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,19 +18,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-20T01:30:44Z",
+      "published_at": "2026-10-20T06:35:11Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "d1065e8458584a9329bc",
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-20T01:30:44Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "d1504eca70b2d127b950",
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-007/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-05-14T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5e4f56d49477a4ca2430",
+      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
+      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-006/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-13T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
