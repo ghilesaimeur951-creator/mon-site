@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:36:41Z",
+  "generated_at": "2026-10-21T06:33:24Z",
   "count": 250,
   "items": [
     {
@@ -8,17 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T01:36:41Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "6300767178137d1519aa",
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T01:36:41Z",
+      "published_at": "2026-10-21T06:33:24Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,29 +18,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T01:36:41Z",
+      "published_at": "2026-10-21T06:33:24Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "622bd951152759335bff",
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T01:36:41Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "978985bee2a5f3ab64de",
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T01:36:41Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "de332aa1deffb5103d69",
@@ -58,9 +28,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T01:36:41Z",
+      "published_at": "2026-10-21T06:33:24Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
+    },
+    {
+      "id": "6300767178137d1519aa",
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-21T06:33:24Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "4c1ba1c175622d229309",
@@ -2499,6 +2479,26 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2ef6c92274ce6f313bd2",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6d17de8c94a0b080e7f0",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
