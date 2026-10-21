@@ -1,24 +1,34 @@
 {
-  "generated_at": "2026-10-20T23:15:08Z",
+  "generated_at": "2026-10-21T01:36:41Z",
   "count": 250,
   "items": [
+    {
+      "id": "d7ef1e937037739659a2",
+      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-21T01:36:41Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "6300767178137d1519aa",
       "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-20T23:15:08Z",
+      "published_at": "2026-10-21T01:36:41Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "f50ca71af7c795cce5dc",
-      "title": "Inside the Underground Market for Know Your Client Services",
+      "id": "60d2b62c6e40105bfb52",
+      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-20T23:15:08Z",
+      "published_at": "2026-10-21T01:36:41Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-20T23:15:08Z",
+      "published_at": "2026-10-21T01:36:41Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -38,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-20T23:15:08Z",
+      "published_at": "2026-10-21T01:36:41Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -48,9 +58,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-20T23:15:08Z",
+      "published_at": "2026-10-21T01:36:41Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
+    },
+    {
+      "id": "4c1ba1c175622d229309",
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-21T01:01:50Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c75006974e5b06b19547",
+      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-21T00:46:42Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "c16b7dbd6314982fcc14",
@@ -271,26 +301,6 @@
       "published_at": "2026-10-19T19:40:58Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "d7ef1e937037739659a2",
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-19T18:51:13Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "60d2b62c6e40105bfb52",
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-19T17:27:15Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "7921a47e6cd78d3e97f1",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2ef6c92274ce6f313bd2",
-      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
-      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
-      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-009/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
