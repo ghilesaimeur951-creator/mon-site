@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T18:03:52Z",
+  "generated_at": "2026-10-22T21:30:39Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T18:03:52Z",
+      "published_at": "2026-10-22T21:30:39Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T18:03:52Z",
+      "published_at": "2026-10-22T21:30:39Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,27 +28,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T18:03:52Z",
+      "published_at": "2026-10-22T21:30:39Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "cdb08ddee200914fbd61",
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+      "id": "dc9d5e13ec1b033afa55",
+      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T18:03:52Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "4c1ba1c175622d229309",
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T18:03:52Z",
+      "published_at": "2026-10-22T21:30:39Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,9 +48,39 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T18:03:52Z",
+      "published_at": "2026-10-22T21:30:39Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "ea40ccd76acf9cc833cd",
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-22T21:25:31Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "1e6095c6e828de757f9a",
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-22T20:22:45Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "37f56369e2ff40e06833",
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-22T19:12:51Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "1ed4b6e940bacb9a350a",
@@ -251,36 +271,6 @@
       "published_at": "2026-10-21T14:07:05Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "dc9d5e13ec1b033afa55",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-21T14:00:10Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b45a4afc9c411c26c41c",
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-21T12:20:34Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "3433f5846096b827d100",
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-21T10:14:53Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "82051f74614543126c6c",
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "39b30af5529cc701957f",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
