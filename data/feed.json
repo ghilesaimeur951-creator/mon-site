@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:47:17Z",
+  "generated_at": "2026-10-22T02:23:18Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T23:47:17Z",
+      "published_at": "2026-10-22T02:23:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T23:47:17Z",
+      "published_at": "2026-10-22T02:23:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T23:47:17Z",
+      "published_at": "2026-10-22T02:23:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-21T23:47:17Z",
+      "published_at": "2026-10-22T02:23:18Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
