@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:23:18Z",
+  "generated_at": "2026-10-22T07:47:18Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T02:23:18Z",
+      "published_at": "2026-10-22T07:47:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T02:23:18Z",
+      "published_at": "2026-10-22T07:47:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,19 +28,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T02:23:18Z",
+      "published_at": "2026-10-22T07:47:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "de332aa1deffb5103d69",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "id": "6300767178137d1519aa",
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-22T02:23:18Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
+      "published_at": "2026-10-22T07:47:18Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "74d714d3ba5e87cf8e4c",
