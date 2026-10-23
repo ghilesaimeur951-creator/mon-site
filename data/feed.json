@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:41:55Z",
+  "generated_at": "2026-10-23T09:34:33Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T04:41:55Z",
+      "published_at": "2026-10-23T09:34:33Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T04:41:55Z",
+      "published_at": "2026-10-23T09:34:33Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T04:41:55Z",
+      "published_at": "2026-10-23T09:34:33Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T04:41:55Z",
+      "published_at": "2026-10-23T09:34:33Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T04:41:55Z",
+      "published_at": "2026-10-23T09:34:33Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -653,16 +653,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "ba64b106c9b9d4e6da16",
-      "title": "Multiples vulnérabilités dans Traefik (16 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1330/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-16T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "b03b49e0edef7c44742f",
       "title": "Multiples vulnérabilités dans Moxa AIG-302 Series (16 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Moxa AIG-302 Series. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
@@ -687,6 +677,16 @@
       "title": "Multiples vulnérabilités dans Google Chrome (16 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1329/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-10-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ba64b106c9b9d4e6da16",
+      "title": "Multiples vulnérabilités dans Traefik (16 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1330/",
       "source": "CERT-FR Avis",
       "published_at": "2026-10-16T00:00:00Z",
       "category": "Vulnérabilité",
@@ -2393,6 +2393,16 @@
       "severity": "Élevée"
     },
     {
+      "id": "cb39e6bee236c515818c",
+      "title": "Recommandations à destination des acteurs du secteur de l’énergie et de l’eau (22 janvier 2026)",
+      "summary": "**Objet** : Recommandations de sécurisation des systèmes d’information à destination des producteurs, des intégrateurs et des installateurs des systèmes de production industriels du secteur de l’énergie et de l’eau en France. **Annexe** : Liens et références Depuis plusieurs mois, l’Agence...",
+      "url": "https://www.cert.ssi.gouv.fr/dur/CERTFR-2025-DUR-003/",
+      "source": "CERT-FR",
+      "published_at": "2026-01-22T00:00:00Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
       "id": "d1ef013fac589014c53d",
       "title": "Vulnérabilité dans telnetd (21 janvier 2026)",
       "summary": "Le 20 janvier 2026, les détails de la vulnérabilité CVE-2026-24061, affectant *telnetd*, ont été publiés. Cette vulnérabilité permet à un attaquant de contourner l'authentification et de se connecter à une machine vulnérable en tant que l'utilisateur *root*. Elle a été introduite en mars 2015 et...",
@@ -2489,16 +2499,6 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "39b30af5529cc701957f",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
