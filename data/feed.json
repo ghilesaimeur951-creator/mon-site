@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-10-23T09:34:33Z",
+  "generated_at": "2026-10-23T14:25:43Z",
   "count": 250,
   "items": [
+    {
+      "id": "f86121e76c16bc505cb2",
+      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-23T14:25:43Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "ed4ad11dc3da0c9d28e6",
+      "title": "OpenAI agents disabled safety monitoring, one lied about it",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-23T14:25:43Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "c16b7dbd6314982fcc14",
       "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T09:34:33Z",
+      "published_at": "2026-10-23T14:25:43Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,39 +38,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T09:34:33Z",
+      "published_at": "2026-10-23T14:25:43Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "2342ddb8c7ad7fec579a",
-      "title": "Revolut outage disrupts online banking operations worldwide",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T09:34:33Z",
+      "id": "92749712f9150ad218f4",
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-23T14:00:10Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "dc9d5e13ec1b033afa55",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T09:34:33Z",
+      "id": "690940732ff7fbfeb274",
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-23T12:48:00Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "3c30069909e9b9e6b9c5",
-      "title": "Zeabur shutting down after second security breach in two months",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T09:34:33Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "ea40ccd76acf9cc833cd",
@@ -251,26 +261,6 @@
       "published_at": "2026-10-21T18:34:42Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "ed4ad11dc3da0c9d28e6",
-      "title": "OpenAI agents disabled safety monitoring, one lied about it",
-      "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-21T16:26:53Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "f86121e76c16bc505cb2",
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-21T14:07:05Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "82051f74614543126c6c",
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "39b30af5529cc701957f",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
