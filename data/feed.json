@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:32:46Z",
+  "generated_at": "2026-10-23T21:39:28Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T18:32:46Z",
+      "published_at": "2026-10-23T21:39:28Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,17 +18,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T18:32:46Z",
+      "published_at": "2026-10-23T21:39:28Z",
       "category": "Menace",
       "severity": "Élevée"
     },
     {
-      "id": "db964fc55da085202ada",
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "id": "e476028eb9f1368a202b",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T18:32:46Z",
+      "published_at": "2026-10-23T21:39:28Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T18:32:46Z",
+      "published_at": "2026-10-23T21:39:28Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T18:32:46Z",
+      "published_at": "2026-10-23T21:39:28Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -58,9 +58,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T18:32:46Z",
+      "published_at": "2026-10-23T21:39:28Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "a5d4387518b81efb54bc",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-23T20:55:05Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "e3ceabcd0c4b4ac0d318",
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-23T18:54:41Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "0d09c5ddef1bf46dbcc8",
@@ -233,6 +253,16 @@
       "severity": "Critique"
     },
     {
+      "id": "00263df9e713d29ead32",
+      "title": "CVE-2026-110447 — Collabora Collabora Online – Built-in CODE Server",
+      "summary": "Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-110447",
+      "source": "CISA KEV",
+      "published_at": "2026-10-23T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "ea40ccd76acf9cc833cd",
       "title": "Railway warns devs to rotate secrets after potential breach",
       "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
@@ -313,16 +343,6 @@
       "severity": "Info"
     },
     {
-      "id": "e476028eb9f1368a202b",
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-22T08:27:11Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
       "id": "27b7986fb845fe52e9b8",
       "title": "Multiples vulnérabilités dans ISC BIND (22 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
@@ -391,16 +411,6 @@
       "published_at": "2026-10-22T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "74d714d3ba5e87cf8e4c",
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-21T22:16:26Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "82051f74614543126c6c",
@@ -2087,16 +2097,6 @@
       "title": "CVE-2026-56291 — Balbooa Forms",
       "summary": "Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE.",
       "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-56291",
-      "source": "CISA KEV",
-      "published_at": "2026-07-10T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "2e09fe874027fa1101e9",
-      "title": "CVE-2026-48939 — iCagenda iCagenda",
-      "summary": "iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48939",
       "source": "CISA KEV",
       "published_at": "2026-07-10T00:00:00Z",
       "category": "Vulnérabilité",
