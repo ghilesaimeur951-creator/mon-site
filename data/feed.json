@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:09:09Z",
+  "generated_at": "2026-10-23T04:41:55Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T00:09:09Z",
+      "published_at": "2026-10-23T04:41:55Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T00:09:09Z",
+      "published_at": "2026-10-23T04:41:55Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T00:09:09Z",
+      "published_at": "2026-10-23T04:41:55Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,19 +38,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T00:09:09Z",
+      "published_at": "2026-10-23T04:41:55Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "6300767178137d1519aa",
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "id": "3c30069909e9b9e6b9c5",
+      "title": "Zeabur shutting down after second security breach in two months",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-23T00:09:09Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-10-23T04:41:55Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "ea40ccd76acf9cc833cd",
