@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:34:02Z",
+  "generated_at": "2026-10-24T08:23:43Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-24T03:34:02Z",
+      "published_at": "2026-10-24T08:23:43Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-24T03:34:02Z",
+      "published_at": "2026-10-24T08:23:43Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -28,27 +28,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-24T03:34:02Z",
+      "published_at": "2026-10-24T08:23:43Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "c16b7dbd6314982fcc14",
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "id": "a299ef36c76884d023c2",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-24T03:34:02Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "c75006974e5b06b19547",
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-24T03:34:02Z",
+      "published_at": "2026-10-24T08:23:43Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "39b30af5529cc701957f",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
