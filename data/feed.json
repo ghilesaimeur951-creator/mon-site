@@ -1,44 +1,14 @@
 {
-  "generated_at": "2026-10-25T21:00:20Z",
+  "generated_at": "2026-10-25T23:12:49Z",
   "count": 250,
   "items": [
-    {
-      "id": "f86121e76c16bc505cb2",
-      "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T21:00:20Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "2484f295e9c43c283a69",
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T21:00:20Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "e476028eb9f1368a202b",
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T21:00:20Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
     {
       "id": "8432ce44e6fee1e83709",
       "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T21:00:20Z",
+      "published_at": "2026-10-25T23:12:49Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -2500,6 +2470,36 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2ef6c92274ce6f313bd2",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6d17de8c94a0b080e7f0",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "409d811bdff30cc1c971",
+      "title": "Opération ENDGAME 2025 (23 mai 2025)",
+      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
+      "url": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2025-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-05-23T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
