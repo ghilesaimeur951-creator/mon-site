@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:13:54Z",
+  "generated_at": "2026-10-25T18:24:31Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T15:13:54Z",
+      "published_at": "2026-10-25T18:24:31Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T15:13:54Z",
+      "published_at": "2026-10-25T18:24:31Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -28,17 +28,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T15:13:54Z",
+      "published_at": "2026-10-25T18:24:31Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "bbaceb69b77dcf201948",
-      "title": "GitLab warns of new max severity code execution vulnerability",
+      "id": "8432ce44e6fee1e83709",
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T15:13:54Z",
+      "published_at": "2026-10-25T18:24:31Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5db2cad8ad53b4cb9cf0",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-25T15:49:38Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -310,16 +320,6 @@
       "source": "BleepingComputer",
       "published_at": "2026-10-22T14:02:12Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "8432ce44e6fee1e83709",
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-22T13:09:12Z",
-      "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
