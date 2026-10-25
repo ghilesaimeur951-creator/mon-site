@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:23:43Z",
+  "generated_at": "2026-10-25T11:51:45Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T06:23:43Z",
+      "published_at": "2026-10-25T11:51:45Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T06:23:43Z",
+      "published_at": "2026-10-25T11:51:45Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T06:23:43Z",
+      "published_at": "2026-10-25T11:51:45Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-25T06:23:43Z",
+      "published_at": "2026-10-25T11:51:45Z",
       "category": "Actualité",
       "severity": "Info"
     },
