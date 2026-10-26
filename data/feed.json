@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-10-26T06:07:06Z",
+  "generated_at": "2026-10-26T12:52:12Z",
   "count": 250,
   "items": [
     {
-      "id": "8432ce44e6fee1e83709",
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-26T06:07:06Z",
+      "id": "982f2ce768917b596cb1",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-26T10:26:52Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "7c54e769948b6fc771cc",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-26T09:19:57Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
+      "severity": "Critique"
     },
     {
       "id": "5db2cad8ad53b4cb9cf0",
@@ -271,26 +281,6 @@
       "published_at": "2026-10-22T17:18:22Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "665c4ee64aacf4aeb9d3",
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-22T15:49:32Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "32ea969a27fc0c323b05",
-      "title": "Machine speed attacks require machine speed detection and response",
-      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-22T14:02:12Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "27b7986fb845fe52e9b8",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-05-23T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "6368041108d7dc95e6bc",
+      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (EPMM) (14 mai 2025)",
+      "summary": "[Mise à jour du 15 mai 2025] Une preuve de concept est publiquement disponible sur Internet. [Publication initiale] Le 13 mai 2025, Ivanti a publié deux avis de sécurité concernant les vulnérabilités CVE-2025-4427 et CVE-2025-4428. L'utilisation combinée de ces deux vulnérabilités permet...",
+      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-007/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-14T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
