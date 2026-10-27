@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:56:41Z",
+  "generated_at": "2026-10-27T01:46:09Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-26T22:56:41Z",
+      "published_at": "2026-10-27T01:46:09Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-26T22:56:41Z",
+      "published_at": "2026-10-27T01:46:09Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-26T22:56:41Z",
+      "published_at": "2026-10-27T01:46:09Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -221,6 +221,26 @@
       "published_at": "2026-10-26T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
+    },
+    {
+      "id": "e4c05c269f7615577906",
+      "title": "CVE-2026-109618 — PHP Group PHP",
+      "summary": "PHP contains an out-of-memory corruption vulnerability that allows for unauthenticated remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-109618",
+      "source": "CISA KEV",
+      "published_at": "2026-10-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "4240746652ecab59f89c",
+      "title": "CVE-2026-109619 — PHP Group PHP",
+      "summary": "PHP contains a stale internal request-state vulnerability that allows for unauthenticated remote code execution.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-109619",
+      "source": "CISA KEV",
+      "published_at": "2026-10-26T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "5db2cad8ad53b4cb9cf0",
@@ -623,6 +643,16 @@
       "severity": "Élevée"
     },
     {
+      "id": "44d9a603c8b5e5fc9885",
+      "title": "Violations de données applicatives - Retour d’expérience du CERT-FR (20 octobre 2026)",
+      "summary": "En 2025, le CERT-FR a suivi près de 200 violations de données issues d’applications web. Dans de nombreux cas, ces exfiltrations ont été permises par des actions attaquantes d’un faible niveau de complexité, sans exploitation de vulnérabilité technique. Les divulgations de données ont des impacts...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-10-20T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
       "id": "9b569463d5a2836422a8",
       "title": "CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition",
       "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.",
@@ -883,6 +913,16 @@
       "severity": "Critique"
     },
     {
+      "id": "273c54886b2a02cb63ee",
+      "title": "Vulnérabilités de produits du secteur santé : Retour d'expérience du CERT Santé et du CERT-FR (02 octobre 2026)",
+      "summary": "Le CERT Santé et le CERT-FR assurent le traitement des vulnérabilités qui leur sont signalées par des tiers. A ce titre, ils accompagnent les éditeurs affectés dans la conception et le suivi de plan d’action incluant le développement de correctifs et la communication vers leurs utilisateurs. Dans...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-007/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-10-02T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
       "id": "a9d56968b84cd0bb90c9",
       "title": "CVE-2026-102490 — Zammad GmbH Zammad",
       "summary": "Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.",
@@ -911,6 +951,16 @@
       "published_at": "2026-10-01T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "70a1d4bcb93ec7a2c417",
+      "title": "Point de situation de l’opération REACTIV – septembre 2026 (30 septembre 2026)",
+      "summary": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-006/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-09-30T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "fffe4e7568408d7c7971",
@@ -2003,6 +2053,26 @@
       "severity": "Critique"
     },
     {
+      "id": "02383afc86f5430bb226",
+      "title": "Ciblage et compromission d’entités françaises au moyen du mode opératoire d’attaque Turla (13 juillet 2026)",
+      "summary": "English version : 🇬🇧 Les membres du Centre de Coordination des Crises Cyber (C4) ont observé le ciblage et la compromission d’entités françaises au moyen du mode opératoire d’attaque (MOA) Turla, opéré par le 16ème Centre du service fédéral de sécurité de la fédération de Russie (FSB). Depuis au...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-004/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-07-13T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "72130f9e18c231298004",
+      "title": "Targeting and Compromise of French Entities Using the Turla Intrusion Set (13 juillet 2026)",
+      "summary": "Version française: 🇫🇷 Members of the Cyber Crisis Coordination Centre (C4) have observed the targeting and compromise of French entities using the Turla intrusion set operated by the 16th Centre of the Federal Security Service of the Russian Federation (FSB). Since at least 2004, this intrusion...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-005/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-07-13T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
       "id": "cd1a122d97beb7c1eaf6",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-030 (13 juillet 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2011,26 +2081,6 @@
       "published_at": "2026-07-13T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
-    },
-    {
-      "id": "69cdc893024447dbdfdc",
-      "title": "CVE-2008-4128 — Cisco IOS",
-      "summary": "Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain \"show privilege\" command to the /level/15/exec/- URI, and (2) a certain \"alias exec\" command to the /level/15/exec/-/configure/http URI.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2008-4128",
-      "source": "CISA KEV",
-      "published_at": "2026-07-13T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "a5d3682a45348930b37d",
-      "title": "CVE-2026-56291 — Balbooa Forms",
-      "summary": "Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-56291",
-      "source": "CISA KEV",
-      "published_at": "2026-07-10T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "4523fdb04447fd3fc53c",
@@ -2120,6 +2170,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2026-05-15T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a4e4141a4755f3a886df",
+      "title": "🇬🇧 Cyber Threat Overview 2025 (13 mai 2026)",
+      "summary": "Version française: 🇫🇷 The boundaries which traditionally separate state-sponsored and cybercriminal actors continued to blur in 2025, thereby further complexifying the imputation process. The exploitation of legitimate applications and services for malicious purposes can, for example, no longer...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-003/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-05-13T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
@@ -2253,6 +2313,16 @@
       "severity": "Élevée"
     },
     {
+      "id": "cad67ff8faf2c906fa2e",
+      "title": "Panorama de la cybermenace 2025 (11 mars 2026)",
+      "summary": "English version : 🇬🇧 En 2025, les frontières qui existent traditionnellement entre acteurs étatiques et cybercriminels ont continué de s’éroder, complexifiant notamment le processus d'imputation. Ainsi par exemple le détournement, à des fins malveillantes, d’outils et de services légitimes, n'est...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-002/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-03-11T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
       "id": "1d39e1683a52e1e54865",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-010 (09 mars 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2280,6 +2350,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2026-02-25T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "9fb0c884cbce6d184e5e",
+      "title": "L’intelligence artificielle générative face aux attaques informatiques (04 février 2026)",
+      "summary": "En tant que service numérique innovant, performant et flexible, l’IA générative est progressivement intégrée à l’éventail d’outils et de services auxquels sont susceptibles de recourir les attaquants informatiques quel que soit leur profil. Des modèles d’IA générative sont ainsi utilisées et/ou...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-001/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-02-04T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     },
     {
@@ -2323,6 +2403,36 @@
       "severity": "Élevée"
     },
     {
+      "id": "b185754902f1aba4c35b",
+      "title": "🇬🇧 Mobile phones : Threat landscape since 2015 (26 novembre 2025)",
+      "summary": "Version française: 🇫🇷 Mobile phones are an integral part of everyday life. Their use in every aspect of life, personal as well as professional, makes them a prime target for malicious actors. Mobile phones actually offer unique opportunities for attackers, stemming from their specific use and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-013/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-11-26T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "fc7125392dd2d2ab27f1",
+      "title": "Téléphones mobiles : État de la menace depuis 2015 (26 novembre 2025)",
+      "summary": "English version : 🇬🇧 Les téléphones mobiles font aujourd'hui partie du quotidien. L'augmentation croissante des usages, aussi bien liés à la vie personnelle que professionnelle, en font une cible de choix pour les attaquants. Comme tout équipement informatique, et bien que de nouvelles mesures de...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-012/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-11-26T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "673b7a5415bb50bbabe6",
+      "title": "Opération ENDGAME de novembre 2025 (13 novembre 2025)",
+      "summary": "Dans le cadre de l'opération de coopération judiciaire internationale ENDGAME lancée en mai 2024, de nouvelles actions de démantèlement ont été menées contre les infrastructures liées à des codes cybercriminels depuis la semaine du 3 novembre 2025. Ces opérations ont impliqué les autorités...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-011/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-11-13T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
       "id": "dfe6d86b42f0d5721876",
       "title": "[MàJ] Multiples vulnérabilités dans Cisco ASA et FTD (25 septembre 2025)",
       "summary": "**[Mise à jour du 07 novembre 2025]** Le 5 novembre 2025, Cisco a mis a jour son billet de blogue initialement publié le 25 septembre 2025 (cf. section Documentation). L'éditeur déclare avoir connaissance d'une nouvelle attaque, affectant les équipements ASA et FTD vulnérables, qui cause un déni...",
@@ -2330,6 +2440,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-09-25T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "01c40756d19d6765c962",
+      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
+      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particulièrement sophistiqués et difficiles à détecter. Ces attaques complexes ciblent des...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-010/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-09-11T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     },
     {
@@ -2373,133 +2493,13 @@
       "severity": "Élevée"
     },
     {
-      "id": "61d0a2271016d28eec6d",
-      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
-      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-06-05T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "e9ea430ef2a1edb7a382",
-      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (EPMM) (14 mai 2025)",
-      "summary": "[Mise à jour du 15 mai 2025] Une preuve de concept est publiquement disponible sur Internet. [Publication initiale] Le 13 mai 2025, Ivanti a publié deux avis de sécurité concernant les vulnérabilités CVE-2025-4427 et CVE-2025-4428. L'utilisation combinée de ces deux vulnérabilités permet...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-007/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-05-14T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3bb7e1e0c7ba08a51190",
-      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
-      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-006/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-05-13T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "780bdcaa5985c1536ecb",
-      "title": "Vulnérabilité dans SAP NetWeaver (28 avril 2025)",
-      "summary": "Le 24 avril 2025, SAP a publié un bulletin de sécurité relatif à la vulnérabilité CVE-2025-31324 qui permet l'exécution de code arbitraire à distance pour un utilisateur non authentifié. Cette vulnérabilité est provoquée par un contournement de la politique de sécurité qui permet de télécharger...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-005/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-28T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "bae307389188b5e31bee",
-      "title": "Activités de post-exploitation dans Fortinet FortiGate (11 avril 2025)",
-      "summary": "Fortinet a publié le 10 avril 2025 un billet de blogue [1] indiquant l'utilisation d'une technique de post-exploitation qui permet une atteinte à la confidentialité des données de l'ensemble du système des équipements Fortigate affectés. Cette technique repose sur l'utilisation d'un lien...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-004/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-11T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "81c21c85f94d97441b1e",
-      "title": "[MàJ] Vulnérabilité dans les produits Ivanti (03 avril 2025)",
-      "summary": "**\\[Mise à jour du 11 avril 2025\\]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer une exécution de code arbitraire à distance. **[Mise à jour du 04 avril 2025]** Le CERT-FR a connaissance d'une preuve de concept publique permettant de provoquer un arrêt du...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-003/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-04-03T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "09a90e13229f514a1682",
-      "title": "[MàJ] Vulnérabilité dans les produits Fortinet (14 janvier 2025)",
-      "summary": "\\[Mise à jour du 28 janvier 2025\\] Une preuve de concept permettant l'exploitation de cette vulnérabilité est disponible publiquement. Le 14 janvier 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-55591 affectant FortiOS et FortiProxy. Elle permet à un...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-002/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-01-14T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "e8626ac001835d494ce3",
-      "title": "[MàJ] Vulnérabilité dans les produits Ivanti (09 janvier 2025)",
-      "summary": "Une vulnérabilité jour-zéro de type débordement de pile a été découverte dans Ivanti Connect Secure (ICS), Policy Secure (IPS), Neurons for Zero Trust Access (ZTA) gateways. Cette vulnérabilité, d'identifiant CVE-2025-0282, permet à un attaquant non authentifié de provoquer une exécution de code...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-001/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-01-09T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "a39bb6b6bd9eec0c5f34",
-      "title": "[MàJ] Multiples vulnérabilités sur l'interface d'administration des équipements Palo Alto Networks (15 novembre 2024)",
-      "summary": "Le 8 novembre 2024, Palo Alto Networks a publié un avis de sécurité relatif à une vulnérabilité critique dans certains pare-feux Palo Alto Networks. Elle permet à un attaquant non authentifié d'exécuter du code arbitraire à distance sur l'interface d'administration des équipements. L'éditeur...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-015/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2024-11-15T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "6375351014f075e4a290",
-      "title": "[MàJ] Multiples vulnérabilités dans Fortinet FortiManager (23 octobre 2024)",
-      "summary": "**[Mise à jour du 14 janvier 2025]** **Publication des correctifs** Le 14 janvier 2025, Fortinet a publié un avis de sécurité relatif à la vulnérabilité CVE-2024-50566 qui correspond à la vulnérabilité de type jour-zéro pour laquelle une preuve de concept a été publiée en novembre 2024. Des...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-014/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2024-10-23T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c2bc3322f40810757f65",
-      "title": "Exploitations de vulnérabilités dans Ivanti Cloud Services Appliance (CSA) (22 octobre 2024)",
-      "summary": "Ivanti a publié plusieurs avis de sécurité sur des vulnérabilités affectant CSA qui sont activement exploitées : * le 10 septembre 2024, Ivanti a publié un avis de sécurité concernant la vulnérabilité CVE-2024-8190 qui permet à un attaquant, authentifié en tant qu'administrateur, d'exécuter du...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-013/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2024-10-22T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3311bc72b612e1408085",
-      "title": "[MàJ] Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)",
-      "summary": "**[Mise à jour du 10 octobre 2024]** Le 28 septembre 2024, Elastic Security Labs a publié des règles de détection au format propriétaire de l'éditeur (cf. section Documentation), qui sont confirmées par les analyses du CERT-FR pour la détection des attaques connues. **[Publication initiale]** De...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-012/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2024-09-27T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "934e6027cde9693c0718",
-      "title": "Vulnérabilité dans SonicWall (10 septembre 2024)",
-      "summary": "Le 22 août 2024, Sonicwall a publié un correctif concernant la vulnérabilité critique CVE-2024-40766 affectant les pare-feux Sonicwall génération 5, 6 et 7. Cette vulnérabilité, de type contrôle d'accès défaillant, permet à un attaquant de provoquer un déni de service à distance, une atteinte à...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2024-ALE-011/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2024-09-10T00:00:00Z",
-      "category": "Alerte",
+      "id": "735a9214b0cd287c3ee0",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
