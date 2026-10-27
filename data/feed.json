@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-10-27T07:00:16Z",
+  "generated_at": "2026-10-27T13:09:09Z",
   "count": 250,
   "items": [
     {
-      "id": "5d9f1f66a499403a0f0c",
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "id": "a5d4387518b81efb54bc",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-27T07:00:16Z",
+      "published_at": "2026-10-27T13:09:09Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "a40721cff07a0d8ded28",
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-27T10:36:12Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "92e4740105c8154a089d",
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-27T09:25:50Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "d32d82b9d6777801ca8f",
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-27T07:00:16Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "id": "c79b9055e5fe5a0b9f95",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-27T08:20:54Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "6d9d5e5887ab889b2ebf",
@@ -251,36 +271,6 @@
       "published_at": "2026-10-24T14:17:32Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "a5d4387518b81efb54bc",
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-23T20:55:05Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "e3ceabcd0c4b4ac0d318",
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-23T18:54:41Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "0d09c5ddef1bf46dbcc8",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-23T17:05:07Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "d7937cdc86ab7b1809ca",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "fd3ac2301a644b39bd8b",
+      "title": "Opération ENDGAME 2025 (23 mai 2025)",
+      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-05-23T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
