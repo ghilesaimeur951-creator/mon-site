@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:40:18Z",
+  "generated_at": "2026-10-27T22:36:20Z",
   "count": 250,
   "items": [
     {
@@ -8,9 +8,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-27T18:40:18Z",
+      "published_at": "2026-10-27T22:36:20Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "f0b80253de2a6ba9eb84",
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-27T22:36:20Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "5a51b4b30386a9ec2a48",
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-27T22:36:20Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "ed9fe79f62b579cc6343",
@@ -18,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-27T18:40:18Z",
+      "published_at": "2026-10-27T22:36:20Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -28,9 +48,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-27T18:40:18Z",
+      "published_at": "2026-10-27T22:36:20Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "7858f058b71eba12f481",
+      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-27T22:07:34Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "02aa5589116e9160e37e",
+      "title": "Hackers hijack Convertr analytics script to steal payment card data",
+      "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-27T20:57:25Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "536e322981d163baad47",
@@ -203,6 +243,26 @@
       "severity": "Élevée"
     },
     {
+      "id": "52c0ca0548256934c88e",
+      "title": "CVE-2026-48356 — Adobe Commerce and Magento",
+      "summary": "Adobe Commerce and Magento contain an unrestricted upload of file with dangerous type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim's account or session.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-48356",
+      "source": "CISA KEV",
+      "published_at": "2026-10-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "fa779c630da62df046af",
+      "title": "CVE-2026-111497 — Google Brotli",
+      "summary": "Google Brotli contains an unchecked return value vulnerability that allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-111497",
+      "source": "CISA KEV",
+      "published_at": "2026-10-27T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "6d9d5e5887ab889b2ebf",
       "title": "University of Copenhagen data breach exposes data of 525,000 people",
       "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
@@ -259,26 +319,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
       "source": "BleepingComputer",
       "published_at": "2026-10-26T15:38:24Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "f0b80253de2a6ba9eb84",
-      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-26T14:00:10Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "5a51b4b30386a9ec2a48",
-      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-26T13:56:44Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2033,26 +2073,6 @@
       "severity": "Critique"
     },
     {
-      "id": "edda1ef36a46d294b48f",
-      "title": "CVE-2026-15409 — SonicWall SMA1000 Appliances",
-      "summary": "SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-15409",
-      "source": "CISA KEV",
-      "published_at": "2026-07-14T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "307d8774b89f440275c8",
-      "title": "CVE-2026-15410 — SonicWall SMA1000 Appliances",
-      "summary": "SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-15410",
-      "source": "CISA KEV",
-      "published_at": "2026-07-14T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "02383afc86f5430bb226",
       "title": "Ciblage et compromission d’entités françaises au moyen du mode opératoire d’attaque Turla (13 juillet 2026)",
       "summary": "English version : 🇬🇧 Les membres du Centre de Coordination des Crises Cyber (C4) ont observé le ciblage et la compromission d’entités françaises au moyen du mode opératoire d’attaque (MOA) Turla, opéré par le 16ème Centre du service fédéral de sécurité de la fédération de Russie (FSB). Depuis au...",
@@ -2480,26 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2a30641f5fa3c4237101",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "735a9214b0cd287c3ee0",
-      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
-      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
