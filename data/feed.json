@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:24:46Z",
+  "generated_at": "2026-10-28T14:12:34Z",
   "count": 250,
   "items": [
     {
@@ -8,9 +8,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-28T07:24:46Z",
+      "published_at": "2026-10-28T14:12:34Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "e83553d746d52cddc9e1",
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-28T14:12:34Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "f5846d497bb2f7fc46f5",
@@ -18,17 +28,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-28T07:24:46Z",
+      "published_at": "2026-10-28T14:12:34Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "f0b80253de2a6ba9eb84",
-      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "id": "c79b9055e5fe5a0b9f95",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-28T07:24:46Z",
+      "published_at": "2026-10-28T14:12:34Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "6d9d5e5887ab889b2ebf",
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-28T14:12:34Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -38,9 +58,59 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-28T07:24:46Z",
+      "published_at": "2026-10-28T14:12:34Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "f2c961bbdd371d7eaeb1",
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-28T14:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d79cee61ecb2f6391c17",
+      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-28T13:50:59Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "cc84d8476e5ff18d61a2",
+      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+      "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-28T12:19:57Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "dfcccddd5281b01bc25a",
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-28T10:46:23Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "62af280b86d2c33ac75d",
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-28T09:43:15Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "ebe6130a3b49d0f809da",
@@ -141,16 +211,6 @@
       "published_at": "2026-10-27T09:25:50Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "c79b9055e5fe5a0b9f95",
-      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-27T08:20:54Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "15792461026ab23b1eb1",
@@ -271,46 +331,6 @@
       "published_at": "2026-10-27T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "6d9d5e5887ab889b2ebf",
-      "title": "University of Copenhagen data breach exposes data of 525,000 people",
-      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-26T22:20:36Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "cb6e7d403caae273d179",
-      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-      "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-26T21:08:28Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "77ef2d30d3450429eb0f",
-      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-      "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-26T20:46:49Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "e83553d746d52cddc9e1",
-      "title": "DreamHost forces password resets in ongoing \"incident\"",
-      "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-26T19:26:20Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "5c3a2ad0f7f8ad3b7a60",
@@ -2479,26 +2499,6 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-08-05T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c77ab0c88c7cb1cc1a41",
-      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
-      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-21T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2a30641f5fa3c4237101",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
