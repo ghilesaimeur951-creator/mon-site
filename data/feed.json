@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-10-29T16:03:42Z",
+  "generated_at": "2026-10-29T21:04:41Z",
   "count": 250,
   "items": [
     {
-      "id": "7c54e769948b6fc771cc",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "id": "cc84d8476e5ff18d61a2",
+      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T16:03:42Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "e83553d746d52cddc9e1",
-      "title": "DreamHost forces password resets in ongoing \"incident\"",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T16:03:42Z",
+      "published_at": "2026-10-29T21:04:41Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,27 +18,47 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T16:03:42Z",
+      "published_at": "2026-10-29T21:04:41Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "ebe6130a3b49d0f809da",
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "id": "7c54e769948b6fc771cc",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T16:03:42Z",
-      "category": "Menace",
+      "published_at": "2026-10-29T21:04:41Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "c41a95bf1bbd3ec8a780",
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29T19:23:41Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "45dcc2eb64d36fed0a3f",
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29T18:38:26Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "3fbb6d8c32783e47dd5a",
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T16:03:42Z",
+      "id": "e1215293558dcf351d04",
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29T16:10:31Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -223,6 +233,26 @@
       "severity": "Élevée"
     },
     {
+      "id": "96351262de3f773510b4",
+      "title": "CVE-2026-97229 — GitLab Community Edition and Enterprise Edition",
+      "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-97229",
+      "source": "CISA KEV",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "fc3b179ff2c6e7c3be39",
+      "title": "CVE-2026-76418 — Cisco Secure Firewall ASA Software and Cisco Secure FTD Software",
+      "summary": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-76418",
+      "source": "CISA KEV",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "bce6775540c21858e0d8",
       "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
       "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
@@ -291,36 +321,6 @@
       "published_at": "2026-10-28T13:50:59Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "cc84d8476e5ff18d61a2",
-      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-      "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T12:19:57Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "dfcccddd5281b01bc25a",
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T10:46:23Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "62af280b86d2c33ac75d",
-      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T09:43:15Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "8719296264c78b8963f9",
@@ -2053,26 +2053,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "354e090c48df85fb1166",
-      "title": "CVE-2026-46817 — Oracle E-Business Suite",
-      "summary": "Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-46817",
-      "source": "CISA KEV",
-      "published_at": "2026-07-15T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "9165587293f48154c195",
-      "title": "CVE-2023-4346 — KNX Association KNX Protocol Connection Authorization Option 1",
-      "summary": "KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2023-4346",
-      "source": "CISA KEV",
-      "published_at": "2026-07-15T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "02383afc86f5430bb226",
       "title": "Ciblage et compromission d’entités françaises au moyen du mode opératoire d’attaque Turla (13 juillet 2026)",
       "summary": "English version : 🇬🇧 Les membres du Centre de Coordination des Crises Cyber (C4) ont observé le ciblage et la compromission d’entités françaises au moyen du mode opératoire d’attaque (MOA) Turla, opéré par le 16ème Centre du service fédéral de sécurité de la fédération de Russie (FSB). Depuis au...",
@@ -2499,6 +2479,26 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "735a9214b0cd287c3ee0",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "61d0a2271016d28eec6d",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
