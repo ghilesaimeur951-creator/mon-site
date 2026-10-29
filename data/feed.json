@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:50:40Z",
+  "generated_at": "2026-10-29T09:05:12Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T02:50:40Z",
+      "published_at": "2026-10-29T09:05:12Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T02:50:40Z",
+      "published_at": "2026-10-29T09:05:12Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T02:50:40Z",
+      "published_at": "2026-10-29T09:05:12Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T02:50:40Z",
+      "published_at": "2026-10-29T09:05:12Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -48,17 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T02:50:40Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "5db2cad8ad53b4cb9cf0",
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T02:50:40Z",
+      "published_at": "2026-10-29T09:05:12Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a30641f5fa3c4237101",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
