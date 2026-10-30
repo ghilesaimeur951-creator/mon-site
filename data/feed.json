@@ -1,26 +1,16 @@
 {
-  "generated_at": "2026-10-30T06:37:59Z",
+  "generated_at": "2026-10-30T13:32:32Z",
   "count": 250,
   "items": [
     {
-      "id": "cfdef39189ea2bb23f95",
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "id": "4665f17a8f062865003b",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T06:37:59Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "0b33a76a486a83fb4995",
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T06:37:59Z",
+      "published_at": "2026-10-30T13:32:32Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
+      "severity": "Critique"
     },
     {
       "id": "3fbb6d8c32783e47dd5a",
@@ -28,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T06:37:59Z",
+      "published_at": "2026-10-30T13:32:32Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,9 +28,49 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T06:37:59Z",
+      "published_at": "2026-10-30T13:32:32Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "651570ec01bc8df7e06d",
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-30T13:00:32Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "aef9e5e4ac6751998541",
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-30T11:20:26Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "072fcb7482ba39ff74f6",
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-30T10:16:07Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a173c7429370150e2961",
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-30T09:18:13Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "c3c936b327656db61a80",
@@ -151,26 +181,6 @@
       "published_at": "2026-10-29T13:59:48Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "07b5b3ef92236812742b",
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29T12:00:07Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "4665f17a8f062865003b",
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29T11:10:13Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "f2affc3cc2c4dc48aae9",
@@ -311,26 +321,6 @@
       "published_at": "2026-10-29T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "bce6775540c21858e0d8",
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T20:47:22Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "aae0c135c0f5a81005cd",
-      "title": "Discord to let search engines index public server messages",
-      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T18:44:16Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "8719296264c78b8963f9",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "61d0a2271016d28eec6d",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
