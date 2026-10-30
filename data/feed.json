@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-10-29T21:04:41Z",
+  "generated_at": "2026-10-30T00:55:23Z",
   "count": 250,
   "items": [
     {
-      "id": "cc84d8476e5ff18d61a2",
-      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+      "id": "cfdef39189ea2bb23f95",
+      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T21:04:41Z",
+      "published_at": "2026-10-30T00:55:23Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "0b33a76a486a83fb4995",
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-30T00:55:23Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "f5846d497bb2f7fc46f5",
@@ -18,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T21:04:41Z",
+      "published_at": "2026-10-30T00:55:23Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,9 +38,59 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-29T21:04:41Z",
+      "published_at": "2026-10-30T00:55:23Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "c3c936b327656db61a80",
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29T23:35:52Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "84f3cbb9776b6ff82e82",
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29T22:45:23Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "2602dfd8795f57de2e0a",
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29T22:09:24Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "96442c511701b8db9213",
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29T22:08:04Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "c57f0aaab059961568a5",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-29T21:47:25Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "c41a95bf1bbd3ec8a780",
@@ -271,56 +331,6 @@
       "published_at": "2026-10-28T18:44:16Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "cfdef39189ea2bb23f95",
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T16:45:47Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "0b33a76a486a83fb4995",
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T16:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "a7b8cf39a163bb049514",
-      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T14:48:32Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "f2c961bbdd371d7eaeb1",
-      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T14:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "d79cee61ecb2f6391c17",
-      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-      "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-28T13:50:59Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "8719296264c78b8963f9",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "61d0a2271016d28eec6d",
-      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
-      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-06-05T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
