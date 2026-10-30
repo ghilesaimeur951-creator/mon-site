@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-30T18:50:42Z",
+  "generated_at": "2026-10-30T22:43:06Z",
   "count": 250,
   "items": [
+    {
+      "id": "e1215293558dcf351d04",
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-30T22:43:06Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "391251a3aaa706799714",
       "title": "3 Ways AI Agents Already Operate in Your Browser",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T18:50:42Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "3e13be198925097590a3",
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T18:50:42Z",
+      "published_at": "2026-10-30T22:43:06Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T18:50:42Z",
+      "published_at": "2026-10-30T22:43:06Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T18:50:42Z",
+      "published_at": "2026-10-30T22:43:06Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "de02ba8ec3835cf3eb6e",
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-30T21:09:46Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -331,16 +341,6 @@
       "published_at": "2026-10-29T18:38:26Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "e1215293558dcf351d04",
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29T16:10:31Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "f2affc3cc2c4dc48aae9",
