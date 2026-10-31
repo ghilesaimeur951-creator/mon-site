@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-10-31T13:53:39Z",
+  "generated_at": "2026-10-31T18:01:58Z",
   "count": 250,
   "items": [
+    {
+      "id": "c57f0aaab059961568a5",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-31T18:01:58Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
     {
       "id": "e1215293558dcf351d04",
       "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T13:53:39Z",
+      "published_at": "2026-10-31T18:01:58Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,19 +28,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T13:53:39Z",
+      "published_at": "2026-10-31T18:01:58Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "c41a95bf1bbd3ec8a780",
-      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "id": "2602dfd8795f57de2e0a",
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T13:53:39Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-10-31T18:01:58Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "96442c511701b8db9213",
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-31T18:01:58Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "dfcccddd5281b01bc25a",
@@ -38,14 +58,44 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T13:53:39Z",
+      "published_at": "2026-10-31T18:01:58Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
+      "id": "a4df36c045ad0e8789c2",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-31T18:01:12Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "72aec30d186370a722b7",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-31T15:35:11Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "dd695362ecd889aeb1ca",
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-10-31T14:05:15Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
       "id": "a7455b293ef3e34bd089",
       "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "summary": "[...]",
+      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
       "source": "BleepingComputer",
       "published_at": "2026-10-31T13:10:19Z",
@@ -309,36 +359,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
       "source": "BleepingComputer",
       "published_at": "2026-10-29T22:45:23Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "2602dfd8795f57de2e0a",
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29T22:09:24Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "96442c511701b8db9213",
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29T22:08:04Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "c57f0aaab059961568a5",
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29T21:47:25Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -2480,26 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2a30641f5fa3c4237101",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "735a9214b0cd287c3ee0",
-      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
-      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
