@@ -1,44 +1,14 @@
 {
-  "generated_at": "2026-10-31T18:01:58Z",
+  "generated_at": "2026-10-31T21:28:40Z",
   "count": 250,
   "items": [
-    {
-      "id": "c57f0aaab059961568a5",
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T18:01:58Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "e1215293558dcf351d04",
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T18:01:58Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "45dcc2eb64d36fed0a3f",
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T18:01:58Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
     {
       "id": "2602dfd8795f57de2e0a",
       "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T18:01:58Z",
+      "published_at": "2026-10-31T21:28:40Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -48,7 +18,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T18:01:58Z",
+      "published_at": "2026-10-31T21:28:40Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "c57f0aaab059961568a5",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-10-31T21:28:40Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -58,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T18:01:58Z",
+      "published_at": "2026-10-31T21:28:40Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -2500,6 +2480,26 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a30641f5fa3c4237101",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "735a9214b0cd287c3ee0",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
