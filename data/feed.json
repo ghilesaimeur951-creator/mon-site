@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:43:06Z",
+  "generated_at": "2026-10-31T01:50:03Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T22:43:06Z",
+      "published_at": "2026-10-31T01:50:03Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T22:43:06Z",
+      "published_at": "2026-10-31T01:50:03Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T22:43:06Z",
+      "published_at": "2026-10-31T01:50:03Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-30T22:43:06Z",
+      "published_at": "2026-10-31T01:50:03Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
