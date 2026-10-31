@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-10-31T01:50:03Z",
+  "generated_at": "2026-10-31T07:42:58Z",
   "count": 250,
   "items": [
-    {
-      "id": "e1215293558dcf351d04",
-      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T01:50:03Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "391251a3aaa706799714",
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T01:50:03Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "3fbb6d8c32783e47dd5a",
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T01:50:03Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "dfcccddd5281b01bc25a",
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-10-31T01:50:03Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
     {
       "id": "de02ba8ec3835cf3eb6e",
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -2500,6 +2460,46 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "61d0a2271016d28eec6d",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "fd3ac2301a644b39bd8b",
+      "title": "Opération ENDGAME 2025 (23 mai 2025)",
+      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-05-23T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e9ea430ef2a1edb7a382",
+      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (EPMM) (14 mai 2025)",
+      "summary": "[Mise à jour du 15 mai 2025] Une preuve de concept est publiquement disponible sur Internet. [Publication initiale] Le 13 mai 2025, Ivanti a publié deux avis de sécurité concernant les vulnérabilités CVE-2025-4427 et CVE-2025-4428. L'utilisation combinée de ces deux vulnérabilités permet...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-007/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-14T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3bb7e1e0c7ba08a51190",
+      "title": "Vulnérabilité dans les produits Fortinet (13 mai 2025)",
+      "summary": "Le 13 mai 2025, Fortinet a publié un avis de sécurité concernant la vulnérabilité CVE-2025-32756. Celle-ci permet à un attaquant non authentifié d'exécuter du code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée. Les exploitations constatées jusqu'ici...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-006/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-13T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
