@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-11-01T18:39:43Z",
+  "generated_at": "2026-11-01T22:24:31Z",
   "count": 250,
   "items": [
     {
-      "id": "84f3cbb9776b6ff82e82",
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "id": "a173c7429370150e2961",
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T18:39:43Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-11-01T22:24:31Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5d7adb06ae584dbcb4a1",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-01T19:57:53Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "d6448e6ee754fd41b678",
@@ -151,16 +161,6 @@
       "published_at": "2026-10-30T10:16:07Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "a173c7429370150e2961",
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-30T09:18:13Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "ccc9af9289d0fa292852",
