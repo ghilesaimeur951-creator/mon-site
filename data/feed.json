@@ -1,26 +1,36 @@
 {
-  "generated_at": "2026-11-01T13:46:23Z",
+  "generated_at": "2026-11-01T18:39:43Z",
   "count": 250,
   "items": [
     {
-      "id": "2602dfd8795f57de2e0a",
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "id": "84f3cbb9776b6ff82e82",
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T13:46:23Z",
-      "category": "Menace",
-      "severity": "Élevée"
+      "published_at": "2026-11-01T18:39:43Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
-      "id": "96442c511701b8db9213",
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T13:46:23Z",
-      "category": "Incident",
-      "severity": "Moyenne"
+      "id": "d6448e6ee754fd41b678",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-01T15:11:21Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a45c5035f5e72c953394",
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-01T13:53:11Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "a4df36c045ad0e8789c2",
@@ -301,26 +311,6 @@
       "published_at": "2026-10-30T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "c3c936b327656db61a80",
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29T23:35:52Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "84f3cbb9776b6ff82e82",
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-29T22:45:23Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "f2affc3cc2c4dc48aae9",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-05-23T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "e9ea430ef2a1edb7a382",
+      "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager Mobile (EPMM) (14 mai 2025)",
+      "summary": "[Mise à jour du 15 mai 2025] Une preuve de concept est publiquement disponible sur Internet. [Publication initiale] Le 13 mai 2025, Ivanti a publié deux avis de sécurité concernant les vulnérabilités CVE-2025-4427 et CVE-2025-4428. L'utilisation combinée de ces deux vulnérabilités permet...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-007/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-05-14T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
