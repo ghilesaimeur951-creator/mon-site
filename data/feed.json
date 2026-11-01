@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T00:17:29Z",
+  "generated_at": "2026-11-01T06:30:39Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T00:17:29Z",
+      "published_at": "2026-11-01T06:30:39Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T00:17:29Z",
+      "published_at": "2026-11-01T06:30:39Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,17 +28,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T00:17:29Z",
+      "published_at": "2026-11-01T06:30:39Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "dfcccddd5281b01bc25a",
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "id": "4665f17a8f062865003b",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T00:17:29Z",
+      "published_at": "2026-11-01T06:30:39Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
