@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:30:39Z",
+  "generated_at": "2026-11-01T13:46:23Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T06:30:39Z",
+      "published_at": "2026-11-01T13:46:23Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -18,29 +18,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T06:30:39Z",
+      "published_at": "2026-11-01T13:46:23Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "c57f0aaab059961568a5",
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T06:30:39Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "4665f17a8f062865003b",
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-01T06:30:39Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "a4df36c045ad0e8789c2",
@@ -2500,6 +2480,26 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "61d0a2271016d28eec6d",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "fd3ac2301a644b39bd8b",
+      "title": "Opération ENDGAME 2025 (23 mai 2025)",
+      "summary": "Entre le 19 et le 23 mai 2025, de nouvelles actions de démantèlement ont été menées contre plusieurs infrastructures liées à des codes cybercriminels. Ces actions ont été réalisées dans le cadre de l’opération de coopération judiciaire internationale ENDGAME lancée en /cti/CERTFR-2024-CTI-004/ et...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-008/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-05-23T00:00:00Z",
+      "category": "Menace",
       "severity": "Élevée"
     }
   ]
