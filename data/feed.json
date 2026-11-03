@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-11-03T15:40:28Z",
+  "generated_at": "2026-11-03T21:15:19Z",
   "count": 250,
   "items": [
+    {
+      "id": "0f81648bf5c6b7071f31",
+      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-03T21:15:19Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
     {
       "id": "5ff3e4930a9500af911a",
       "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T15:40:28Z",
+      "published_at": "2026-11-03T21:15:19Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "5d7adb06ae584dbcb4a1",
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "id": "ce0102be3fc9459f4890",
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T15:40:28Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "d6448e6ee754fd41b678",
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T15:40:28Z",
+      "published_at": "2026-11-03T21:15:19Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T15:40:28Z",
+      "published_at": "2026-11-03T21:15:19Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T15:40:28Z",
+      "published_at": "2026-11-03T21:15:19Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -58,9 +58,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T15:40:28Z",
+      "published_at": "2026-11-03T21:15:19Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "1ad3ad4143cb6c9449e9",
+      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+      "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T20:05:50Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "bcfb2e41fbecf9d29cac",
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T18:51:04Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "7a78f5e71c17f1854b67",
@@ -173,6 +193,16 @@
       "severity": "Élevée"
     },
     {
+      "id": "87ebedcd428a4b30f38e",
+      "title": "CVE-2026-119977 — WordPress WordPress Core",
+      "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-119977",
+      "source": "CISA KEV",
+      "published_at": "2026-11-03T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "6c6aea21f91dfc2c962a",
       "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
       "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
@@ -241,26 +271,6 @@
       "published_at": "2026-11-02T13:57:29Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "ce0102be3fc9459f4890",
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-02T12:47:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "0f81648bf5c6b7071f31",
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-02T11:28:42Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "f0221b371a39eca6302c",
@@ -2071,16 +2081,6 @@
       "published_at": "2026-07-20T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
-    },
-    {
-      "id": "8519fa8636892d308caa",
-      "title": "CVE-2026-58644 — Microsoft SharePoint",
-      "summary": "Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-58644",
-      "source": "CISA KEV",
-      "published_at": "2026-07-16T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "527656da2839ce2d469d",
