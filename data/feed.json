@@ -1,34 +1,24 @@
 {
-  "generated_at": "2026-11-02T18:37:02Z",
+  "generated_at": "2026-11-03T01:15:02Z",
   "count": 250,
   "items": [
     {
-      "id": "de02ba8ec3835cf3eb6e",
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "id": "dd695362ecd889aeb1ca",
+      "title": "Reddit to lock content behind logins to fight scrapers",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-02T18:37:02Z",
+      "published_at": "2026-11-03T01:15:02Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "a173c7429370150e2961",
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "id": "a7455b293ef3e34bd089",
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-02T18:37:02Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "4c919ed5192faab42bb7",
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-02T18:37:02Z",
+      "published_at": "2026-11-03T01:15:02Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,9 +28,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-02T18:37:02Z",
+      "published_at": "2026-11-03T01:15:02Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "de02ba8ec3835cf3eb6e",
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-03T01:15:02Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "651570ec01bc8df7e06d",
@@ -48,17 +48,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-02T18:37:02Z",
+      "published_at": "2026-11-03T01:15:02Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "c1aa108c641e73b74808",
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-02T18:37:02Z",
+      "id": "6c6aea21f91dfc2c962a",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-02T21:40:14Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "b728804dc951fc98b359",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-02T19:00:45Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -291,26 +301,6 @@
       "published_at": "2026-10-31T15:35:11Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "dd695362ecd889aeb1ca",
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-31T14:05:15Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "a7455b293ef3e34bd089",
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-31T13:10:19Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "ccc9af9289d0fa292852",
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a30641f5fa3c4237101",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
