@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T01:15:02Z",
+  "generated_at": "2026-11-03T07:56:18Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T01:15:02Z",
+      "published_at": "2026-11-03T07:56:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T01:15:02Z",
+      "published_at": "2026-11-03T07:56:18Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,29 +28,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T01:15:02Z",
+      "published_at": "2026-11-03T07:56:18Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "de02ba8ec3835cf3eb6e",
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T01:15:02Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "651570ec01bc8df7e06d",
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T01:15:02Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "6c6aea21f91dfc2c962a",
@@ -2499,6 +2479,26 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "735a9214b0cd287c3ee0",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "61d0a2271016d28eec6d",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
