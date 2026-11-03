@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-11-03T07:56:18Z",
+  "generated_at": "2026-11-03T15:40:28Z",
   "count": 250,
   "items": [
     {
-      "id": "dd695362ecd889aeb1ca",
-      "title": "Reddit to lock content behind logins to fight scrapers",
+      "id": "5ff3e4930a9500af911a",
+      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T07:56:18Z",
+      "published_at": "2026-11-03T15:40:28Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5d7adb06ae584dbcb4a1",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-03T15:40:28Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "d6448e6ee754fd41b678",
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-03T15:40:28Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "a7455b293ef3e34bd089",
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "id": "72aec30d186370a722b7",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T07:56:18Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-11-03T15:40:28Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "41cdd41993708079e5a5",
@@ -28,9 +48,129 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T07:56:18Z",
+      "published_at": "2026-11-03T15:40:28Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "a4df36c045ad0e8789c2",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-03T15:40:28Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "7a78f5e71c17f1854b67",
+      "title": "Barracuda warns of critical flaws allowing root access to devices",
+      "summary": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T15:06:16Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "8b078665db55478a9ec8",
+      "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+      "summary": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T15:00:10Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "4fc8c8ddd3ad60a004f8",
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T14:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "89f0cc0163477161bf85",
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T13:33:49Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "1358dd463efa64631680",
+      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T12:05:52Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "790f1db371db373b8f23",
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T10:53:25Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "fc6c36ac917e51120e8a",
+      "title": "Multiples vulnérabilités dans NetApp ONTAP 9 (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans NetApp ONTAP 9. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1446/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-03T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "34acc417a51f3d4e43b2",
+      "title": "Multiples vulnérabilités dans GLPI (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GLPI. Elles permettent à un attaquant de provoquer une élévation de privilèges, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1444/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-03T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "526ff31eeaeaa227a210",
+      "title": "Multiples vulnérabilités dans PostgreSQL (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer une injection SQL (SQLi), un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1445/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-03T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "af0be5d0fba756c04ced",
+      "title": "Multiples vulnérabilités dans Xen (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1447/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-03T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2552caf5c667e3742dd7",
+      "title": "Multiples vulnérabilités dans Google Android (03 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1443/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-03T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "6c6aea21f91dfc2c962a",
@@ -120,16 +260,6 @@
       "source": "BleepingComputer",
       "published_at": "2026-11-02T11:28:42Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "5ff3e4930a9500af911a",
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-02T09:33:26Z",
-      "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
@@ -229,56 +359,6 @@
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
       "source": "CERT-FR",
       "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "5d7adb06ae584dbcb4a1",
-      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-      "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-01T19:57:53Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "d6448e6ee754fd41b678",
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-01T15:11:21Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "a45c5035f5e72c953394",
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-01T13:53:11Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "a4df36c045ad0e8789c2",
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-31T18:01:12Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "72aec30d186370a722b7",
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "source": "BleepingComputer",
-      "published_at": "2026-10-31T15:35:11Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -443,26 +523,6 @@
       "severity": "Critique"
     },
     {
-      "id": "761f8b32f2461c6988a1",
-      "title": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-29T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "19134c3722e0b912e8e7",
-      "title": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-29T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "ef0c1b9b014bff3945ac",
       "title": "Multiples vulnérabilités dans Elastic Cloud Enterprise (29 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Elastic Cloud Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
@@ -497,16 +557,6 @@
       "title": "Multiples vulnérabilités dans les produits Juniper Networks (29 octobre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1414/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-29T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "9f215bd0065c1ba7327c",
-      "title": "Vulnérabilité dans Mattermost Server (29 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1409/",
       "source": "CERT-FR",
       "published_at": "2026-10-29T00:00:00Z",
       "category": "Vulnérabilité",
@@ -553,6 +603,36 @@
       "severity": "Élevée"
     },
     {
+      "id": "9f215bd0065c1ba7327c",
+      "title": "Vulnérabilité dans Mattermost Server (29 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Mattermost Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1409/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "761f8b32f2461c6988a1",
+      "title": "Vulnérabilité dans les produits NetApp (29 octobre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1410/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "19134c3722e0b912e8e7",
+      "title": "Multiples vulnérabilités dans Veeam Backup for Microsoft 365 (29 octobre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Veeam Backup for Microsoft 365. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1411/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-10-29T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
       "id": "96351262de3f773510b4",
       "title": "CVE-2026-97229 — GitLab Community Edition and Enterprise Edition",
       "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.",
@@ -571,56 +651,6 @@
       "published_at": "2026-10-29T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "0ef306acc0faed27a700",
-      "title": "Vulnérabilité dans les produits Belden (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1407/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-28T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "4662a21ac834a768c431",
-      "title": "Vulnérabilité dans Axis Camera Station Pro (28 octobre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Axis Camera Station Pro. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1408/",
-      "source": "CERT-FR",
-      "published_at": "2026-10-28T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "13104214d9fa4342ffa0",
-      "title": "Multiples vulnérabilités dans Mitel OpenScape Endpoint Management (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel OpenScape Endpoint Management. Elles permettent à un attaquant de provoquer une élévation de privilèges et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1404/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-28T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2f004fa4599fe3f246a0",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1405/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-28T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "e23ea1c47794411f2bc9",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (28 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1406/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-28T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "c619bd9992741f822ed2",
@@ -2469,36 +2499,6 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2a30641f5fa3c4237101",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "735a9214b0cd287c3ee0",
-      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
-      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "61d0a2271016d28eec6d",
-      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
-      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
