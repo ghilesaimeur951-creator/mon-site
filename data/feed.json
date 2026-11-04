@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-03T21:15:19Z",
+  "generated_at": "2026-11-04T01:30:39Z",
   "count": 250,
   "items": [
+    {
+      "id": "53069937df157c21fb73",
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-04T01:30:39Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
     {
       "id": "0f81648bf5c6b7071f31",
       "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T21:15:19Z",
+      "published_at": "2026-11-04T01:30:39Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -18,19 +28,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T21:15:19Z",
+      "published_at": "2026-11-04T01:30:39Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "ce0102be3fc9459f4890",
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T21:15:19Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "72aec30d186370a722b7",
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T21:15:19Z",
+      "published_at": "2026-11-04T01:30:39Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T21:15:19Z",
+      "published_at": "2026-11-04T01:30:39Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -58,9 +58,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-03T21:15:19Z",
+      "published_at": "2026-11-04T01:30:39Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "e3626c78b944f4864c1d",
+      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T22:18:50Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "cf2ea752df828dbad211",
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-03T21:28:44Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "1ad3ad4143cb6c9449e9",
@@ -251,26 +271,6 @@
       "published_at": "2026-11-02T15:01:11Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "53069937df157c21fb73",
-      "title": "Hackers disrupt refrigeration systems at European supermarkets",
-      "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-02T14:28:39Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "9ad81aaa3b171cef14ab",
-      "title": "Microsoft fixes Smart App Control broken by October Windows update",
-      "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-02T13:57:29Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "f0221b371a39eca6302c",
