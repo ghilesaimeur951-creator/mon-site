@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:48:44Z",
+  "generated_at": "2026-11-05T08:42:19Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T01:48:44Z",
+      "published_at": "2026-11-05T08:42:19Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T01:48:44Z",
+      "published_at": "2026-11-05T08:42:19Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,17 +28,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T01:48:44Z",
+      "published_at": "2026-11-05T08:42:19Z",
       "category": "Menace",
       "severity": "Élevée"
     },
     {
-      "id": "d6448e6ee754fd41b678",
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "id": "ce0102be3fc9459f4890",
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T01:48:44Z",
+      "published_at": "2026-11-05T08:42:19Z",
       "category": "Actualité",
       "severity": "Info"
     },
