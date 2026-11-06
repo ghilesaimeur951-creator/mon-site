@@ -1,34 +1,24 @@
 {
-  "generated_at": "2026-11-06T02:41:07Z",
+  "generated_at": "2026-11-06T09:52:29Z",
   "count": 250,
   "items": [
+    {
+      "id": "096e4f5225026f138bc4",
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-06T09:52:29Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "646c23c08481b93b79df",
       "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T02:41:07Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "803d0b274cc642505e68",
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T02:41:07Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "0f81648bf5c6b7071f31",
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T02:41:07Z",
+      "published_at": "2026-11-06T09:52:29Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -38,19 +28,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T02:41:07Z",
+      "published_at": "2026-11-06T09:52:29Z",
       "category": "Actualité",
       "severity": "Info"
     },
     {
-      "id": "ce0102be3fc9459f4890",
-      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "id": "c401bb54ceffe967aab5",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T02:41:07Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-11-06T09:52:29Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "59e451227cc3593aa94f",
+      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+      "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T09:22:28Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "bdfce63afd4321945049",
@@ -271,16 +271,6 @@
       "published_at": "2026-11-04T16:58:46Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "096e4f5225026f138bc4",
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04T16:00:18Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "f7c951ef06a742c05e6d",
@@ -2499,6 +2489,16 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a30641f5fa3c4237101",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
