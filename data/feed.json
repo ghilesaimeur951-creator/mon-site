@@ -1,25 +1,15 @@
 {
-  "generated_at": "2026-11-05T22:27:19Z",
+  "generated_at": "2026-11-06T02:41:07Z",
   "count": 250,
   "items": [
     {
-      "id": "c401bb54ceffe967aab5",
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "id": "646c23c08481b93b79df",
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T22:27:19Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "e3fd45fd3e304e2ff7eb",
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T22:27:19Z",
-      "category": "Vulnérabilité",
+      "published_at": "2026-11-06T02:41:07Z",
+      "category": "Menace",
       "severity": "Élevée"
     },
     {
@@ -28,17 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T22:27:19Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "d92267ddec9a3b3883c3",
-      "title": "US charges two Canadians accused of hacking US universities",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T22:27:19Z",
+      "published_at": "2026-11-06T02:41:07Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T22:27:19Z",
+      "published_at": "2026-11-06T02:41:07Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -58,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T22:27:19Z",
+      "published_at": "2026-11-06T02:41:07Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -68,9 +48,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-05T22:27:19Z",
+      "published_at": "2026-11-06T02:41:07Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "bdfce63afd4321945049",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T00:56:44Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "2ae34dc126e9b6408266",
@@ -291,16 +281,6 @@
       "published_at": "2026-11-04T16:00:18Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "646c23c08481b93b79df",
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04T15:00:10Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "f7c951ef06a742c05e6d",
@@ -2499,6 +2479,26 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-08-26T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3b5cba98939e5b187acd",
+      "title": "Incidents de sécurité dans les pare-feux SonicWall (05 août 2025)",
+      "summary": "[Mise à jour du 7 août 2025] Le 6 août 2025, SonicWall a remplacé une partie de son communiqué initial pour indiquer que les incidents de sécurité évoqués étaient vraisemblablement corrélés à la vulnérabilité CVE-2024-40766. Celle-ci a fait l'objet d'un bulletin de sécurité, SNWLID-2024-0015 (cf....",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c77ab0c88c7cb1cc1a41",
+      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
+      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-21T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
