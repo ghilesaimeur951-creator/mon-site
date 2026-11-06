@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-06T09:52:29Z",
+  "generated_at": "2026-11-06T17:00:12Z",
   "count": 250,
   "items": [
     {
-      "id": "096e4f5225026f138bc4",
-      "title": "mSecure password manager hack prompts password reset warnings",
+      "id": "b8bdafeefd7281914ede",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T09:52:29Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-11-06T17:00:12Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
-      "id": "646c23c08481b93b79df",
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "id": "94833255da64ec919226",
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T09:52:29Z",
+      "published_at": "2026-11-06T17:00:12Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T09:52:29Z",
+      "published_at": "2026-11-06T17:00:12Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,9 +38,59 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T09:52:29Z",
+      "published_at": "2026-11-06T17:00:12Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "096e4f5225026f138bc4",
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-06T17:00:12Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "ea5950eadcc7d41a1b54",
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T15:25:31Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "ed023b88beb0d3509bf9",
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T15:00:10Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "68f16abad4265550f099",
+      "title": "Chainalysis says breach exposed credentials for all customers",
+      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T14:17:07Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "25cfeb7476a406d7de4f",
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T12:37:22Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "59e451227cc3593aa94f",
@@ -61,6 +111,126 @@
       "published_at": "2026-11-06T00:56:44Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "7b7c9ed348677d9d3596",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1470/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a6b08f714dbd9648f6b3",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1469/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a6679f4981cb6d5bb2e3",
+      "title": "Vulnérabilité dans les produits VMware (06 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1474/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "39eb579f869ef320eda3",
+      "title": "Vulnérabilité dans les produits Mitel (06 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1477/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "29181ed309fc8fb080da",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1471/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "43bb1d4ed66de8eb5c93",
+      "title": "Multiples vulnérabilités dans les produits Foxit (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1478/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "08fce4eef6007ce0ad73",
+      "title": "Multiples vulnérabilités dans les produits IBM (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1472/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a4a6e7c8ef80de63d531",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1473/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3653eb6d0f0189d01c8d",
+      "title": "Multiples vulnérabilités dans les produits Cisco (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1476/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "96f6bd6892284b07fc1c",
+      "title": "Multiples vulnérabilités dans les produits Splunk (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1475/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "428a9fc87d6e3c7524e1",
+      "title": "Vulnérabilité dans Alpine (06 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Alpine. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1480/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ee25c738f57dfd68436e",
+      "title": "Multiples vulnérabilités dans Mattermost Server (06 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1479/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "2ae34dc126e9b6408266",
@@ -214,8 +384,8 @@
     },
     {
       "id": "2af442540bfa4a7c97fd",
-      "title": "Vulnérabilité dans OpenSSH (05 novembre 2026)",
-      "summary": "Le 5 novembre 2026, OpenSSH a publié un avis de sécurité concernant une vulnérabilité qui permet à un attaquant de contourner l’authentification d'un service SSH. En effet, sur les systèmes Linux qui utilisent la bibliothèque standard C musl, compilés sans support PAM ou avec PAM désactivé, un...",
+      "title": "[MàJ] Vulnérabilité dans OpenSSH (05 novembre 2026)",
+      "summary": "[Mise à jour du 6 novembre 2026] Cette vulnérabilité porte l'identifiant CVE-2026-123158. Alpine a publié un bulletin de sécurité (cf. section Documentation) concernant cette vulnérabilité. Le CERT-FR précise que toute installation de correctif ou modification de la configuration doit...",
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-015/",
       "source": "CERT-FR",
       "published_at": "2026-11-05T00:00:00Z",
@@ -229,46 +399,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
       "source": "BleepingComputer",
       "published_at": "2026-11-04T21:31:18Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b8bdafeefd7281914ede",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04T20:58:19Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "622646b53531b9768bb7",
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04T19:05:19Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "324db880e2c47ea37c6f",
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04T18:02:56Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "94833255da64ec919226",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04T16:58:46Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -483,143 +613,23 @@
       "severity": "Critique"
     },
     {
-      "id": "f0221b371a39eca6302c",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-046 (02 novembre 2026)",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-046/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "1711cd945dd14dbeb083",
-      "title": "Multiples vulnérabilités dans Tenable Identity Exposure (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1436/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "eca36f517ac12131204e",
-      "title": "Multiples vulnérabilités dans les produits Synology (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1435/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "1485da5c2be953b3811e",
-      "title": "Multiples vulnérabilités dans Redmine (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Redmine. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), un contournement de la politique de sécurité et un déni de service.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1434/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "56e69abb591f27e310df",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1440/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "15dea9de4655bde21de6",
       "title": "Multiples vulnérabilités dans Ivanti Connect Secure (02 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité. Ivanti indique que les vulnérabilités CVE-2026-104935,...",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1442/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "4ca8078640eeeec2ad97",
-      "title": "Multiples vulnérabilités dans Qnap QNE (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Qnap QNE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1437/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "637c88b1914e570a39de",
-      "title": "Multiples vulnérabilités dans macmon et NRSW (02 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Belden macmon et NRSW. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1438/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "65839cdfb8f384154d0c",
-      "title": "Vulnérabilité dans Microsoft Visual Studio (02 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Visual Studio. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1441/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "304acafe49e44ec0d671",
-      "title": "Vulnérabilité dans Traefik (02 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1439/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-02T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "8b3777694bd8fde6b6e8",
-      "title": "Multiples vulnérabilités dans les produits MongoDB (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection SQL (SQLi) et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1430/",
       "source": "CERT-FR Avis",
-      "published_at": "2026-10-30T00:00:00Z",
+      "published_at": "2026-11-02T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "790786b72cf7b581dfed",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1431/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-30T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "7e5086f13fbe5b99174b",
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1432/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-30T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "ccc9af9289d0fa292852",
-      "title": "Multiples vulnérabilités dans les produits IBM (30 octobre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1433/",
-      "source": "CERT-FR Avis",
-      "published_at": "2026-10-30T00:00:00Z",
-      "category": "Vulnérabilité",
+      "id": "f0221b371a39eca6302c",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-046 (02 novembre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-046/",
+      "source": "CERT-FR Actualité",
+      "published_at": "2026-11-02T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     },
     {
@@ -887,9 +897,9 @@
       "title": "[MàJ] Multiples vulnérabilités dans Ivanti Connect Secure (ICS) (14 octobre 2026)",
       "summary": "[Mise à jour du 2 novembre 2026] Le 29 octobre 2026, Ivanti a mis à jour son avis de sécurité du 13 octobre 2026 pour ajouter deux vulnérabilités (CVE-2026-111357 et CVE-2026-118527). Celles-ci permettent à un attaquant authentifié d'élever ses privilèges et de téléverser un fichier arbitraire...",
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-013/",
-      "source": "CERT-FR",
+      "source": "CERT-FR Alertes",
       "published_at": "2026-10-14T00:00:00Z",
-      "category": "Vulnérabilité",
+      "category": "Alerte",
       "severity": "Élevée"
     },
     {
@@ -2457,7 +2467,7 @@
       "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
       "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particulièrement sophistiqués et difficiles à détecter. Ces attaques complexes ciblent des...",
       "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-010/",
-      "source": "CERT-FR",
+      "source": "CERT-FR Menaces",
       "published_at": "2025-09-11T00:00:00Z",
       "category": "Menace",
       "severity": "Élevée"
@@ -2489,16 +2499,6 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2a30641f5fa3c4237101",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
