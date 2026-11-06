@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T17:00:12Z",
+  "generated_at": "2026-11-06T22:04:03Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T17:00:12Z",
+      "published_at": "2026-11-06T22:04:03Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,9 +18,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T17:00:12Z",
+      "published_at": "2026-11-06T22:04:03Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "a51c8636f9bc2a09ed87",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-06T22:04:03Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "acb97fdd6b827dc758c1",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-06T22:04:03Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "1ad3ad4143cb6c9449e9",
@@ -28,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T17:00:12Z",
+      "published_at": "2026-11-06T22:04:03Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -38,19 +58,49 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T17:00:12Z",
+      "published_at": "2026-11-06T22:04:03Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
     {
-      "id": "096e4f5225026f138bc4",
-      "title": "mSecure password manager hack prompts password reset warnings",
+      "id": "622646b53531b9768bb7",
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T17:00:12Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-11-06T22:04:03Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "3df1af76d776543dfa95",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T20:24:19Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "b432728a569b5bf473fd",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T18:46:52Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "25aea6b559a69eae3e78",
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T17:04:23Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "ea5950eadcc7d41a1b54",
@@ -233,6 +283,16 @@
       "severity": "Élevée"
     },
     {
+      "id": "ce4d1f135894b7993414",
+      "title": "CVE-2026-19868 — SonicWall SonicOS SSLVPN",
+      "summary": "SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-19868",
+      "source": "CISA KEV",
+      "published_at": "2026-11-06T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "2ae34dc126e9b6408266",
       "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
       "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
@@ -291,26 +351,6 @@
       "published_at": "2026-11-05T16:12:46Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "a51c8636f9bc2a09ed87",
-      "title": "Closing the Identity Gap at the Service Desk",
-      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-05T15:00:10Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "acb97fdd6b827dc758c1",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-05T09:18:29Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "efc9c259c8350659411c",
@@ -390,16 +430,6 @@
       "source": "CERT-FR",
       "published_at": "2026-11-05T00:00:00Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "05d712189c6125345f94",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-04T21:31:18Z",
-      "category": "Menace",
       "severity": "Élevée"
     },
     {
@@ -2053,16 +2083,6 @@
       "severity": "Critique"
     },
     {
-      "id": "0a0e41f30b9aab2ab83d",
-      "title": "CVE-2026-0770 — Langflow Langflow",
-      "summary": "Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-0770",
-      "source": "CISA KEV",
-      "published_at": "2026-07-21T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "0f06118715f663c68e55",
       "title": "Multiples vulnérabilités dans WordPress (20 juillet 2026)",
       "summary": "Le 17 juillet 2026, WordPress a publié un correctif pour deux vulnérabilités : CVE-2026-60137 : une injection SQL (SQLi) ; CVE-2026-63030 : celle-ci permet un contournement de la politique de sécurité. Un attaquant peut exploiter ces deux vulnérabilités, de manière combinée, pour obtenir une...",
@@ -2479,26 +2499,6 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-08-26T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3b5cba98939e5b187acd",
-      "title": "Incidents de sécurité dans les pare-feux SonicWall (05 août 2025)",
-      "summary": "[Mise à jour du 7 août 2025] Le 6 août 2025, SonicWall a remplacé une partie de son communiqué initial pour indiquer que les incidents de sécurité évoqués étaient vraisemblablement corrélés à la vulnérabilité CVE-2024-40766. Celle-ci a fait l'objet d'un bulletin de sécurité, SNWLID-2024-0015 (cf....",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-08-05T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c77ab0c88c7cb1cc1a41",
-      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
-      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-21T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
