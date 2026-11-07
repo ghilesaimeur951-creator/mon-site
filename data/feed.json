@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:01:49Z",
+  "generated_at": "2026-11-07T22:42:04Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T19:01:49Z",
+      "published_at": "2026-11-07T22:42:04Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T19:01:49Z",
+      "published_at": "2026-11-07T22:42:04Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T19:01:49Z",
+      "published_at": "2026-11-07T22:42:04Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T19:01:49Z",
+      "published_at": "2026-11-07T22:42:04Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T19:01:49Z",
+      "published_at": "2026-11-07T22:42:04Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T19:01:49Z",
+      "published_at": "2026-11-07T22:42:04Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -68,7 +68,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T19:01:49Z",
+      "published_at": "2026-11-07T22:42:04Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -78,7 +78,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T19:01:49Z",
+      "published_at": "2026-11-07T22:42:04Z",
       "category": "Actualité",
       "severity": "Info"
     },
