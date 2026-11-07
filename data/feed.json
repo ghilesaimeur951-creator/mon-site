@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:52:29Z",
+  "generated_at": "2026-11-07T07:58:12Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T01:52:29Z",
+      "published_at": "2026-11-07T07:58:12Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T01:52:29Z",
+      "published_at": "2026-11-07T07:58:12Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T01:52:29Z",
+      "published_at": "2026-11-07T07:58:12Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T01:52:29Z",
+      "published_at": "2026-11-07T07:58:12Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -48,17 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T01:52:29Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "1ad3ad4143cb6c9449e9",
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T01:52:29Z",
+      "published_at": "2026-11-07T07:58:12Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -68,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T01:52:29Z",
+      "published_at": "2026-11-07T07:58:12Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -78,9 +68,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T01:52:29Z",
+      "published_at": "2026-11-07T07:58:12Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "096e4f5225026f138bc4",
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-07T07:58:12Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "3851f16593ec3bf0e117",
