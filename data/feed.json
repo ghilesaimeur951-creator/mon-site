@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T14:40:20Z",
+  "generated_at": "2026-11-07T19:01:49Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T14:40:20Z",
+      "published_at": "2026-11-07T19:01:49Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T14:40:20Z",
+      "published_at": "2026-11-07T19:01:49Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T14:40:20Z",
+      "published_at": "2026-11-07T19:01:49Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -38,19 +38,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T14:40:20Z",
+      "published_at": "2026-11-07T19:01:49Z",
       "category": "Menace",
       "severity": "Élevée"
     },
     {
-      "id": "56bfa02295d43c2b62b1",
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "id": "bfe6337543c1c58b463a",
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T14:40:20Z",
-      "category": "Incident",
-      "severity": "Moyenne"
+      "published_at": "2026-11-07T19:01:49Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "c401bb54ceffe967aab5",
@@ -58,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T14:40:20Z",
+      "published_at": "2026-11-07T19:01:49Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -68,7 +68,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T14:40:20Z",
+      "published_at": "2026-11-07T19:01:49Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -78,9 +78,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T14:40:20Z",
+      "published_at": "2026-11-07T19:01:49Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "afb29613d255441e0b93",
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-07T15:25:35Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "5a763049bef06bb3ec3f",
@@ -351,16 +361,6 @@
       "published_at": "2026-11-05T20:15:08Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "bfe6337543c1c58b463a",
-      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-      "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-05T19:24:26Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "efc9c259c8350659411c",
