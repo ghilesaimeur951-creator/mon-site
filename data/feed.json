@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-07T07:58:12Z",
+  "generated_at": "2026-11-07T14:40:20Z",
   "count": 250,
   "items": [
+    {
+      "id": "0104ffe0a06b05b63451",
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-07T14:40:20Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "83e08e4c6c08d1c089a1",
       "title": "DigiCert data breach exposes customer information, identity documents",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T07:58:12Z",
+      "published_at": "2026-11-07T14:40:20Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -18,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T07:58:12Z",
+      "published_at": "2026-11-07T14:40:20Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -28,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T07:58:12Z",
+      "published_at": "2026-11-07T14:40:20Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -38,19 +48,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T07:58:12Z",
+      "published_at": "2026-11-07T14:40:20Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "a51c8636f9bc2a09ed87",
-      "title": "Closing the Identity Gap at the Service Desk",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T07:58:12Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "c401bb54ceffe967aab5",
@@ -58,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T07:58:12Z",
+      "published_at": "2026-11-07T14:40:20Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -68,7 +68,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T07:58:12Z",
+      "published_at": "2026-11-07T14:40:20Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -78,9 +78,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T07:58:12Z",
+      "published_at": "2026-11-07T14:40:20Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "5a763049bef06bb3ec3f",
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-07T14:10:19Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "3851f16593ec3bf0e117",
@@ -351,16 +361,6 @@
       "published_at": "2026-11-05T19:24:26Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "0104ffe0a06b05b63451",
-      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-      "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-05T17:45:29Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "efc9c259c8350659411c",
