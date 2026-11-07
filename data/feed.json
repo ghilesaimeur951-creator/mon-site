@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-11-06T22:04:03Z",
+  "generated_at": "2026-11-07T01:52:29Z",
   "count": 250,
   "items": [
+    {
+      "id": "83e08e4c6c08d1c089a1",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-07T01:52:29Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
     {
       "id": "b8bdafeefd7281914ede",
       "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T22:04:03Z",
+      "published_at": "2026-11-07T01:52:29Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,9 +28,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T22:04:03Z",
+      "published_at": "2026-11-07T01:52:29Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "56bfa02295d43c2b62b1",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-07T01:52:29Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "a51c8636f9bc2a09ed87",
@@ -28,17 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T22:04:03Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "acb97fdd6b827dc758c1",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T22:04:03Z",
+      "published_at": "2026-11-07T01:52:29Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -48,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T22:04:03Z",
+      "published_at": "2026-11-07T01:52:29Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -58,7 +68,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T22:04:03Z",
+      "published_at": "2026-11-07T01:52:29Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -68,7 +78,27 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-06T22:04:03Z",
+      "published_at": "2026-11-07T01:52:29Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "3851f16593ec3bf0e117",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-07T00:00:55Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "246617fa609df09e3218",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-06T22:27:25Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -331,26 +361,6 @@
       "published_at": "2026-11-05T17:45:29Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "56bfa02295d43c2b62b1",
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-05T16:24:26Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "83e08e4c6c08d1c089a1",
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-05T16:12:46Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "efc9c259c8350659411c",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-09-11T00:00:00Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2df76cd635cca73b2424",
-      "title": "Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (26 août 2025)",
-      "summary": "Le 26 août 2025, Citrix a publié un bulletin de sécurité (cf. section Documentation) concernant, entre autres, la vulnérabilité CVE-2025-7775. Celle-ci permet une exécution de code arbitraire à distance et affecte toutes les versions de Citrix NetScaler ADC et NetScaler Gateway, dans certaines...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-08-26T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
