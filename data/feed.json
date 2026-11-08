@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:42:04Z",
+  "generated_at": "2026-11-08T01:50:14Z",
   "count": 250,
   "items": [
     {
@@ -8,39 +8,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T22:42:04Z",
+      "published_at": "2026-11-08T01:50:14Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "83e08e4c6c08d1c089a1",
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T22:42:04Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "b8bdafeefd7281914ede",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T22:42:04Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "94833255da64ec919226",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T22:42:04Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "bfe6337543c1c58b463a",
@@ -48,9 +18,29 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T22:42:04Z",
+      "published_at": "2026-11-08T01:50:14Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "94833255da64ec919226",
+      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-08T01:50:14Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "83e08e4c6c08d1c089a1",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-08T01:50:14Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "c401bb54ceffe967aab5",
@@ -58,29 +48,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T22:42:04Z",
+      "published_at": "2026-11-08T01:50:14Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "622646b53531b9768bb7",
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T22:42:04Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "096e4f5225026f138bc4",
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-07T22:42:04Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "afb29613d255441e0b93",
@@ -2500,6 +2470,36 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-09-11T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2df76cd635cca73b2424",
+      "title": "Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (26 août 2025)",
+      "summary": "Le 26 août 2025, Citrix a publié un bulletin de sécurité (cf. section Documentation) concernant, entre autres, la vulnérabilité CVE-2025-7775. Celle-ci permet une exécution de code arbitraire à distance et affecte toutes les versions de Citrix NetScaler ADC et NetScaler Gateway, dans certaines...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-26T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3b5cba98939e5b187acd",
+      "title": "Incidents de sécurité dans les pare-feux SonicWall (05 août 2025)",
+      "summary": "[Mise à jour du 7 août 2025] Le 6 août 2025, SonicWall a remplacé une partie de son communiqué initial pour indiquer que les incidents de sécurité évoqués étaient vraisemblablement corrélés à la vulnérabilité CVE-2024-40766. Celle-ci a fait l'objet d'un bulletin de sécurité, SNWLID-2024-0015 (cf....",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c77ab0c88c7cb1cc1a41",
+      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
+      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
