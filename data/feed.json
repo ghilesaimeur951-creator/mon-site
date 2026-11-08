@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T01:50:14Z",
+  "generated_at": "2026-11-08T08:16:16Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-08T01:50:14Z",
+      "published_at": "2026-11-08T08:16:16Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,19 +18,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-08T01:50:14Z",
+      "published_at": "2026-11-08T08:16:16Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "94833255da64ec919226",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-08T01:50:14Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "83e08e4c6c08d1c089a1",
@@ -38,19 +28,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-08T01:50:14Z",
+      "published_at": "2026-11-08T08:16:16Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "c401bb54ceffe967aab5",
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-08T01:50:14Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "afb29613d255441e0b93",
@@ -2500,6 +2480,26 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-21T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a30641f5fa3c4237101",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "735a9214b0cd287c3ee0",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
