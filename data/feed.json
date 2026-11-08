@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T15:25:53Z",
+  "generated_at": "2026-11-08T19:50:05Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-08T15:25:53Z",
+      "published_at": "2026-11-08T19:50:05Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "5f870823d1e992d9f5ac",
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-08T19:50:05Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-08T15:25:53Z",
+      "published_at": "2026-11-08T19:50:05Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,7 +38,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-08T15:25:53Z",
+      "published_at": "2026-11-08T19:50:05Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "f3cdbd0ed89247a33dbf",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-08T15:43:08Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -301,16 +321,6 @@
       "published_at": "2026-11-05T21:30:30Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "5f870823d1e992d9f5ac",
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-05T20:15:08Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "efc9c259c8350659411c",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "735a9214b0cd287c3ee0",
-      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
-      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
