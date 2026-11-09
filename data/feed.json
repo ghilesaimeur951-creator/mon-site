@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T02:48:40Z",
+  "generated_at": "2026-11-09T10:35:26Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-09T02:48:40Z",
+      "published_at": "2026-11-09T10:35:26Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-09T02:48:40Z",
+      "published_at": "2026-11-09T10:35:26Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -28,19 +28,9 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-09T02:48:40Z",
+      "published_at": "2026-11-09T10:35:26Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "83e08e4c6c08d1c089a1",
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-09T02:48:40Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "f3cdbd0ed89247a33dbf",
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "735a9214b0cd287c3ee0",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
