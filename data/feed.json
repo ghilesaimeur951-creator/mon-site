@@ -1,36 +1,76 @@
 {
-  "generated_at": "2026-11-09T21:03:20Z",
+  "generated_at": "2026-11-10T03:30:04Z",
   "count": 250,
   "items": [
     {
-      "id": "0104ffe0a06b05b63451",
-      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "id": "3851f16593ec3bf0e117",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-09T21:03:20Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-11-10T03:30:04Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
-      "id": "25aea6b559a69eae3e78",
-      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "id": "246617fa609df09e3218",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-09T21:03:20Z",
+      "published_at": "2026-11-10T03:30:04Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "ea5950eadcc7d41a1b54",
-      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "id": "3df1af76d776543dfa95",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-09T21:03:20Z",
+      "published_at": "2026-11-10T03:30:04Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "0540b1b026c2ad6b7cb0",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-09T23:52:12Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d6705ab398b4f94405c7",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-09T22:09:33Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "e87452b09e8afa8404c6",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-09T21:26:25Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "79849d176e5cfca227c8",
+      "title": "York University breach exposed personal information dating to 2007",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-09T21:22:31Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "33708f427c03aa2fa8a4",
@@ -260,46 +300,6 @@
       "source": "BleepingComputer",
       "published_at": "2026-11-07T14:10:19Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3851f16593ec3bf0e117",
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-07T00:00:55Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "246617fa609df09e3218",
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-06T22:27:25Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "3df1af76d776543dfa95",
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-06T20:24:19Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b432728a569b5bf473fd",
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-06T18:46:52Z",
-      "category": "Menace",
       "severity": "Élevée"
     },
     {
