@@ -1,44 +1,54 @@
 {
-  "generated_at": "2026-11-10T18:49:15Z",
+  "generated_at": "2026-11-10T23:49:30Z",
   "count": 250,
   "items": [
+    {
+      "id": "e87452b09e8afa8404c6",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-10T23:49:30Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "33708f427c03aa2fa8a4",
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-10T23:49:30Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
     {
       "id": "2d302e9d23c02c215346",
       "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T18:49:15Z",
+      "published_at": "2026-11-10T23:49:30Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "e58a25e722f029ae995b",
-      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "id": "d6705ab398b4f94405c7",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T18:49:15Z",
+      "published_at": "2026-11-10T23:49:30Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "d472411a080efc8c2a26",
-      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "id": "79849d176e5cfca227c8",
+      "title": "York University breach exposed personal information dating to 2007",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T18:49:15Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b3baae1d096d17a2a906",
-      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T18:49:15Z",
+      "published_at": "2026-11-10T23:49:30Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -48,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T18:49:15Z",
+      "published_at": "2026-11-10T23:49:30Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -58,9 +68,59 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T18:49:15Z",
+      "published_at": "2026-11-10T23:49:30Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "43b50136d94d33902fc6",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T22:20:19Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e01c8b6f2f4a1f1a87f9",
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T20:54:55Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "1aa57ef5b4c00d7f5251",
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T20:04:36Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "ddf41e717f52acfd0184",
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T19:31:11Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "70a133457da5c93bae15",
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T19:07:36Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "e84e0783f52d90d21d49",
@@ -263,62 +323,72 @@
       "severity": "Critique"
     },
     {
+      "id": "a300c80469aed96f2d27",
+      "title": "CVE-2026-124194 — Microsoft Office",
+      "summary": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-124194",
+      "source": "CISA KEV",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "72a471f41ef68cb3aaae",
+      "title": "CVE-2026-111793 — Openwave Messaging Limited Webtop Media Transcoder",
+      "summary": "Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-111793",
+      "source": "CISA KEV",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "53620fc4f7c4088035e1",
+      "title": "CVE-2026-20320 — Cisco BroadWorks",
+      "summary": "Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20320",
+      "source": "CISA KEV",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "7155661444c66428687a",
+      "title": "CVE-2026-111560 — Barracuda Networks Multiple Products",
+      "summary": "Barracuda Networks Email Security Gateway (ESG), Load Balancer, Application Delivery Controller (ADC), Message Archiver (BMA), WAF Control Center (WCC), Web Application Firewall (WAF), and Web Security Gateway (WSG) contain an OS command injection vulnerability. This vulnerability could allow an authenticated administrator to inject OS commands that execute with root privileges when the crafted timezone value is subsequently processed. This vulnerability can be chained with CVE-2026-116606",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-111560",
+      "source": "CISA KEV",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "60d7b4f6bee4218c85f5",
+      "title": "CVE-2026-116606 — Barracuda Networks Barracuda Email Security Gateway (ESG)",
+      "summary": "Barracuda Networks Email Security Gateway (ESG) contains an authentication bypass using an alternate path or channel that could allow an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance’s global configuration. This vulnerability can be chained with CVE-2026-111560.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-116606",
+      "source": "CISA KEV",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a2fb69f13b6be1350cf1",
+      "title": "CVE-2026-125350 — Google Chromium",
+      "summary": "Google Chromium contains a use-after-free vulnerability in the XML component that could allow a remote attacker to execute arbitrary code inside the sandbox via a specially crafted webpage. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-125350",
+      "source": "CISA KEV",
+      "published_at": "2026-11-10T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "0540b1b026c2ad6b7cb0",
       "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
       "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
       "source": "BleepingComputer",
       "published_at": "2026-11-09T23:52:12Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "d6705ab398b4f94405c7",
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-09T22:09:33Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "e87452b09e8afa8404c6",
-      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-09T21:26:25Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "79849d176e5cfca227c8",
-      "title": "York University breach exposed personal information dating to 2007",
-      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-09T21:22:31Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "33708f427c03aa2fa8a4",
-      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-      "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-09T18:32:42Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "3b379946ae9fdb574b45",
-      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-      "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-09T17:50:32Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -2003,26 +2073,6 @@
       "severity": "Critique"
     },
     {
-      "id": "7b9bbc221e6225c37dda",
-      "title": "CVE-2026-34486 — Apache Tomcat",
-      "summary": "Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. This vulnerability can be chained with CVE‑2025‑24813.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-34486",
-      "source": "CISA KEV",
-      "published_at": "2026-08-04T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "b8ca8bc6b10ae5316972",
-      "title": "CVE-2026-9198 — IBM Langflow",
-      "summary": "Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-9198",
-      "source": "CISA KEV",
-      "published_at": "2026-08-04T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "e1178257f5a89c51c48f",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-033 (03 août 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2033,26 +2083,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "e73636d9a4a1adb449c8",
-      "title": "CVE-2026-18577 — N-able N-central",
-      "summary": "N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-18577",
-      "source": "CISA KEV",
-      "published_at": "2026-08-03T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "975d9320d00d3620e44a",
-      "title": "CVE-2026-20316 — Cisco Secure Firewall Management Center (FMC)",
-      "summary": "Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20316",
-      "source": "CISA KEV",
-      "published_at": "2026-07-29T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "2ac8dd074f6b0fb53edf",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-032 (27 juillet 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2061,26 +2091,6 @@
       "published_at": "2026-07-27T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
-    },
-    {
-      "id": "31f4d866f5547be6502e",
-      "title": "CVE-2025-68686 — Fortinet FortiOS",
-      "summary": "Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first to have compromised the product via another vulnerability, at filesystem level.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-68686",
-      "source": "CISA KEV",
-      "published_at": "2026-07-27T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "84234db84e20d5b8c1e0",
-      "title": "CVE-2026-16812 — Arista VeloCloud Orchestrator",
-      "summary": "Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-16812",
-      "source": "CISA KEV",
-      "published_at": "2026-07-27T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "732a0c37ea9796b74047",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-09-11T00:00:00Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2df76cd635cca73b2424",
-      "title": "Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (26 août 2025)",
-      "summary": "Le 26 août 2025, Citrix a publié un bulletin de sécurité (cf. section Documentation) concernant, entre autres, la vulnérabilité CVE-2025-7775. Celle-ci permet une exécution de code arbitraire à distance et affecte toutes les versions de Citrix NetScaler ADC et NetScaler Gateway, dans certaines...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-08-26T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
