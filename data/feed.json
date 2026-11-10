@@ -1,36 +1,76 @@
 {
-  "generated_at": "2026-11-10T03:30:04Z",
+  "generated_at": "2026-11-10T11:35:20Z",
   "count": 250,
   "items": [
     {
-      "id": "3851f16593ec3bf0e117",
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "id": "833fc7066604dd447930",
+      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T03:30:04Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
+      "published_at": "2026-11-10T11:35:20Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
-      "id": "246617fa609df09e3218",
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "id": "f3cdbd0ed89247a33dbf",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T03:30:04Z",
+      "published_at": "2026-11-10T11:35:20Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "3df1af76d776543dfa95",
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "id": "afb29613d255441e0b93",
+      "title": "Hackers pull off $133 million French bank heist via service provider",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T03:30:04Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-11-10T11:35:20Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "40f3a464061387e77509",
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T10:10:20Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a2b42747a7210ba7a3b6",
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T10:04:32Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "cf90f68ee6bef3655e86",
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T08:51:25Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "4e06135bcc131ff84257",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-10T07:49:58Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "0540b1b026c2ad6b7cb0",
@@ -139,16 +179,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
       "source": "BleepingComputer",
       "published_at": "2026-11-09T13:28:56Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "833fc7066604dd447930",
-      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
-      "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-09T12:16:13Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -271,36 +301,6 @@
       "published_at": "2026-11-09T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "f3cdbd0ed89247a33dbf",
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-08T15:43:08Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "afb29613d255441e0b93",
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-07T15:25:35Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "5a763049bef06bb3ec3f",
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-07T14:10:19Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "7b7c9ed348677d9d3596",
