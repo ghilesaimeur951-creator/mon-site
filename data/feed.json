@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:49:30Z",
+  "generated_at": "2026-11-11T03:41:31Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T23:49:30Z",
+      "published_at": "2026-11-11T03:41:31Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T23:49:30Z",
+      "published_at": "2026-11-11T03:41:31Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T23:49:30Z",
+      "published_at": "2026-11-11T03:41:31Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -38,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T23:49:30Z",
+      "published_at": "2026-11-11T03:41:31Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -48,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T23:49:30Z",
+      "published_at": "2026-11-11T03:41:31Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -58,7 +58,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T23:49:30Z",
+      "published_at": "2026-11-11T03:41:31Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -68,7 +68,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-10T23:49:30Z",
+      "published_at": "2026-11-11T03:41:31Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
