@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:41:31Z",
+  "generated_at": "2026-11-11T11:26:46Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T03:41:31Z",
+      "published_at": "2026-11-11T11:26:46Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T03:41:31Z",
+      "published_at": "2026-11-11T11:26:46Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,7 +28,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T03:41:31Z",
+      "published_at": "2026-11-11T11:26:46Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -38,29 +38,39 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T03:41:31Z",
+      "published_at": "2026-11-11T11:26:46Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "79849d176e5cfca227c8",
-      "title": "York University breach exposed personal information dating to 2007",
+      "id": "cf90f68ee6bef3655e86",
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T03:41:31Z",
+      "published_at": "2026-11-11T11:26:46Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "4e06135bcc131ff84257",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-11T11:26:46Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
     {
-      "id": "afb29613d255441e0b93",
-      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "id": "0540b1b026c2ad6b7cb0",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T03:41:31Z",
-      "category": "Incident",
-      "severity": "Moyenne"
+      "published_at": "2026-11-11T11:26:46Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "f3cdbd0ed89247a33dbf",
@@ -68,9 +78,39 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T03:41:31Z",
+      "published_at": "2026-11-11T11:26:46Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "eef0141eb80065585ed7",
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-11T11:18:36Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "22463fa6921d14b34a5e",
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-11T10:12:08Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "84fe717a7ff183965a7c",
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-11T09:07:27Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "43b50136d94d33902fc6",
@@ -191,26 +231,6 @@
       "published_at": "2026-11-10T10:04:32Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "cf90f68ee6bef3655e86",
-      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-      "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-10T08:51:25Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "4e06135bcc131ff84257",
-      "title": "Fireworks AI discloses new breach after cloud provider hack",
-      "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-10T07:49:58Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "72849fb8bbe99aa30eb5",
@@ -381,16 +401,6 @@
       "published_at": "2026-11-10T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "0540b1b026c2ad6b7cb0",
-      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-09T23:52:12Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "87666d66ab6346c8384e",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-09-25T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "01c40756d19d6765c962",
-      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
-      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particulièrement sophistiqués et difficiles à détecter. Ces attaques complexes ciblent des...",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-010/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-09-11T00:00:00Z",
-      "category": "Menace",
       "severity": "Élevée"
     }
   ]
