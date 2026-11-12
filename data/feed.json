@@ -1,66 +1,26 @@
 {
-  "generated_at": "2026-11-11T18:48:21Z",
+  "generated_at": "2026-11-12T01:08:21Z",
   "count": 250,
   "items": [
+    {
+      "id": "f71a910c08b11a93964a",
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-12T01:08:21Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
     {
       "id": "e87452b09e8afa8404c6",
       "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T18:48:21Z",
+      "published_at": "2026-11-12T01:08:21Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "33708f427c03aa2fa8a4",
-      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T18:48:21Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "2d302e9d23c02c215346",
-      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T18:48:21Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "d6705ab398b4f94405c7",
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T18:48:21Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "451800d549b3393d701c",
-      "title": "Ransomware recovery is now a client retention metric",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T18:48:21Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "4864fb36b4782d0a5b79",
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T18:48:21Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "0540b1b026c2ad6b7cb0",
@@ -68,17 +28,47 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T18:48:21Z",
+      "published_at": "2026-11-12T01:08:21Z",
       "category": "Menace",
       "severity": "Élevée"
     },
     {
-      "id": "f3cdbd0ed89247a33dbf",
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-11T18:48:21Z",
+      "id": "2fa347656b166d577488",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-11T23:01:31Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "8ecf3ded8f74d009a9f2",
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-11T22:56:21Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c13c660071cbc757b808",
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-11T21:27:40Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "3c445f1213014085411e",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-11T20:54:20Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -191,46 +181,6 @@
       "published_at": "2026-11-10T19:31:11Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "70a133457da5c93bae15",
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-10T19:07:36Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "e84e0783f52d90d21d49",
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-10T18:33:26Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "f71a910c08b11a93964a",
-      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-10T16:17:16Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "9d3024bd726af4612dda",
-      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-      "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-10T15:59:19Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "72849fb8bbe99aa30eb5",
@@ -2499,6 +2449,56 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-013/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-09-25T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "01c40756d19d6765c962",
+      "title": "Campagne de notifications de menace envoyée par Apple (11 septembre 2025)",
+      "summary": "Depuis 2021, Apple envoie des campagnes de notifications aux individus ciblés par des attaques menées à l’aide de logiciels espions. Ces logiciels, tels que Pegasus, Predator, Graphite ou Triangulation sont particulièrement sophistiqués et difficiles à détecter. Ces attaques complexes ciblent des...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-010/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-09-11T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2df76cd635cca73b2424",
+      "title": "Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (26 août 2025)",
+      "summary": "Le 26 août 2025, Citrix a publié un bulletin de sécurité (cf. section Documentation) concernant, entre autres, la vulnérabilité CVE-2025-7775. Celle-ci permet une exécution de code arbitraire à distance et affecte toutes les versions de Citrix NetScaler ADC et NetScaler Gateway, dans certaines...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-26T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3b5cba98939e5b187acd",
+      "title": "Incidents de sécurité dans les pare-feux SonicWall (05 août 2025)",
+      "summary": "[Mise à jour du 7 août 2025] Le 6 août 2025, SonicWall a remplacé une partie de son communiqué initial pour indiquer que les incidents de sécurité évoqués étaient vraisemblablement corrélés à la vulnérabilité CVE-2024-40766. Celle-ci a fait l'objet d'un bulletin de sécurité, SNWLID-2024-0015 (cf....",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c77ab0c88c7cb1cc1a41",
+      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
+      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a30641f5fa3c4237101",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
