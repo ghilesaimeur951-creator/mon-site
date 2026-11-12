@@ -1,16 +1,46 @@
 {
-  "generated_at": "2026-11-12T16:55:24Z",
+  "generated_at": "2026-11-12T22:29:33Z",
   "count": 250,
   "items": [
     {
-      "id": "22463fa6921d14b34a5e",
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "id": "fdb07bf27f816d37cdd6",
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T16:55:24Z",
+      "published_at": "2026-11-12T22:29:33Z",
       "category": "Vulnérabilité",
-      "severity": "Critique"
+      "severity": "Élevée"
+    },
+    {
+      "id": "f7bee101ee0275bf0de8",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-12T22:29:33Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "9d0e65808ab58d160439",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-12T22:29:33Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "acc7a2d0e9799faadcff",
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-12T22:29:33Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "e87452b09e8afa8404c6",
@@ -18,7 +48,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T16:55:24Z",
+      "published_at": "2026-11-12T22:29:33Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -28,9 +58,49 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T16:55:24Z",
+      "published_at": "2026-11-12T22:29:33Z",
       "category": "Menace",
       "severity": "Élevée"
+    },
+    {
+      "id": "ec46d2ca2fd1c7f3543b",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-12T22:25:30Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "be3a38dc184a3a264e81",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-12T20:15:16Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "7f23aad252df2a55742b",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-12T19:51:16Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e1501a330e51ba127340",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-12T19:12:55Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "1dc09f8d2480496ec9d6",
@@ -431,46 +501,6 @@
       "published_at": "2026-11-11T20:54:20Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "9d0e65808ab58d160439",
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-11T16:24:18Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "f7bee101ee0275bf0de8",
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-11T15:12:59Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "acc7a2d0e9799faadcff",
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-11T15:01:11Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "fdb07bf27f816d37cdd6",
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-      "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-11T12:32:27Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "72849fb8bbe99aa30eb5",
@@ -2470,36 +2500,6 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-09-11T00:00:00Z",
       "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2df76cd635cca73b2424",
-      "title": "Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (26 août 2025)",
-      "summary": "Le 26 août 2025, Citrix a publié un bulletin de sécurité (cf. section Documentation) concernant, entre autres, la vulnérabilité CVE-2025-7775. Celle-ci permet une exécution de code arbitraire à distance et affecte toutes les versions de Citrix NetScaler ADC et NetScaler Gateway, dans certaines...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-08-26T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3b5cba98939e5b187acd",
-      "title": "Incidents de sécurité dans les pare-feux SonicWall (05 août 2025)",
-      "summary": "[Mise à jour du 7 août 2025] Le 6 août 2025, SonicWall a remplacé une partie de son communiqué initial pour indiquer que les incidents de sécurité évoqués étaient vraisemblablement corrélés à la vulnérabilité CVE-2024-40766. Celle-ci a fait l'objet d'un bulletin de sécurité, SNWLID-2024-0015 (cf....",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-08-05T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c77ab0c88c7cb1cc1a41",
-      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
-      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-21T00:00:00Z",
-      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
