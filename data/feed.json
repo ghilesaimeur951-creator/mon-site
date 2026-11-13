@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-11-12T22:29:33Z",
+  "generated_at": "2026-11-13T02:48:55Z",
   "count": 250,
   "items": [
     {
-      "id": "fdb07bf27f816d37cdd6",
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "id": "3c445f1213014085411e",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T22:29:33Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "f7bee101ee0275bf0de8",
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T22:29:33Z",
+      "published_at": "2026-11-13T02:48:55Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -28,19 +18,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T22:29:33Z",
+      "published_at": "2026-11-13T02:48:55Z",
       "category": "Menace",
       "severity": "Élevée"
     },
     {
-      "id": "acc7a2d0e9799faadcff",
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "id": "f7bee101ee0275bf0de8",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T22:29:33Z",
-      "category": "Actualité",
-      "severity": "Info"
+      "published_at": "2026-11-13T02:48:55Z",
+      "category": "Incident",
+      "severity": "Moyenne"
     },
     {
       "id": "e87452b09e8afa8404c6",
@@ -48,7 +38,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T22:29:33Z",
+      "published_at": "2026-11-13T02:48:55Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -58,7 +48,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-12T22:29:33Z",
+      "published_at": "2026-11-13T02:48:55Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "afe79ee14497cedd484f",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
+      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-12T22:53:10Z",
       "category": "Menace",
       "severity": "Élevée"
     },
@@ -489,16 +489,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
       "source": "BleepingComputer",
       "published_at": "2026-11-11T21:27:40Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "3c445f1213014085411e",
-      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-      "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-11T20:54:20Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Menaces",
       "published_at": "2025-09-11T00:00:00Z",
       "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2df76cd635cca73b2424",
+      "title": "Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (26 août 2025)",
+      "summary": "Le 26 août 2025, Citrix a publié un bulletin de sécurité (cf. section Documentation) concernant, entre autres, la vulnérabilité CVE-2025-7775. Celle-ci permet une exécution de code arbitraire à distance et affecte toutes les versions de Citrix NetScaler ADC et NetScaler Gateway, dans certaines...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-26T00:00:00Z",
+      "category": "Alerte",
       "severity": "Élevée"
     }
   ]
