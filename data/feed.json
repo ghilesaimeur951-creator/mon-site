@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-14T10:15:05Z",
+  "generated_at": "2026-11-14T16:36:34Z",
   "count": 250,
   "items": [
+    {
+      "id": "438aee711143d40b19ca",
+      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-14T16:36:34Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
     {
       "id": "61d140645f0be08e6bb5",
       "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-14T10:15:05Z",
+      "published_at": "2026-11-14T16:36:34Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "92e20603fc669f39fab8",
-      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-14T10:15:05Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "8ecf3ded8f74d009a9f2",
@@ -28,9 +28,19 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-14T10:15:05Z",
+      "published_at": "2026-11-14T16:36:34Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "0eb645ca70f53d6af896",
+      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-14T15:15:49Z",
+      "category": "Actualité",
+      "severity": "Info"
     },
     {
       "id": "d2962957f52f8763d871",
@@ -330,16 +340,6 @@
       "source": "BleepingComputer",
       "published_at": "2026-11-12T16:04:00Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "438aee711143d40b19ca",
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12T15:07:20Z",
-      "category": "Menace",
       "severity": "Élevée"
     },
     {
