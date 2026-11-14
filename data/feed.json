@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-14T16:36:34Z",
+  "generated_at": "2026-11-14T20:55:09Z",
   "count": 250,
   "items": [
+    {
+      "id": "1dc09f8d2480496ec9d6",
+      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-14T20:55:09Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
     {
       "id": "438aee711143d40b19ca",
       "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-14T16:36:34Z",
+      "published_at": "2026-11-14T20:55:09Z",
       "category": "Menace",
       "severity": "Élevée"
-    },
-    {
-      "id": "61d140645f0be08e6bb5",
-      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-14T16:36:34Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "8ecf3ded8f74d009a9f2",
@@ -28,7 +28,17 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-14T16:36:34Z",
+      "published_at": "2026-11-14T20:55:09Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "2396f465be9396c94b74",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-14T17:27:25Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -331,16 +341,6 @@
       "published_at": "2026-11-12T19:12:55Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "1dc09f8d2480496ec9d6",
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
-      "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12T16:04:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "0cc0b516575ca76b0639",
