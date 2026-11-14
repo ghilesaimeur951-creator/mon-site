@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:00:30Z",
+  "generated_at": "2026-11-14T03:09:26Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-13T23:00:30Z",
+      "published_at": "2026-11-14T03:09:26Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-13T23:00:30Z",
+      "published_at": "2026-11-14T03:09:26Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
