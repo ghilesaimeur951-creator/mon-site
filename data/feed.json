@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:59:46Z",
+  "generated_at": "2026-11-15T14:33:47Z",
   "count": 250,
   "items": [
     {
@@ -8,18 +8,8 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-15T06:59:46Z",
+      "published_at": "2026-11-15T14:33:47Z",
       "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "438aee711143d40b19ca",
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-15T06:59:46Z",
-      "category": "Menace",
       "severity": "Élevée"
     },
     {
@@ -2500,6 +2490,16 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "735a9214b0cd287c3ee0",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
