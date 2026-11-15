@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:30:17Z",
+  "generated_at": "2026-11-15T06:59:46Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-15T00:30:17Z",
+      "published_at": "2026-11-15T06:59:46Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-15T00:30:17Z",
+      "published_at": "2026-11-15T06:59:46Z",
       "category": "Menace",
       "severity": "Élevée"
     },
