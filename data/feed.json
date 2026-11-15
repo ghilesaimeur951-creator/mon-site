@@ -1,15 +1,45 @@
 {
-  "generated_at": "2026-11-15T14:33:47Z",
+  "generated_at": "2026-11-15T19:56:36Z",
   "count": 250,
   "items": [
     {
-      "id": "1dc09f8d2480496ec9d6",
-      "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+      "id": "7f23aad252df2a55742b",
+      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-15T14:33:47Z",
+      "published_at": "2026-11-15T19:56:36Z",
       "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "e1501a330e51ba127340",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-15T19:56:36Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "ddd80cd3bed8cfd4e521",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-15T18:29:53Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "288ae0a72da3a810158b",
+      "title": "TSMC employee data breach linked to cloud provider",
+      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-15T15:23:48Z",
+      "category": "Menace",
       "severity": "Élevée"
     },
     {
@@ -301,26 +331,6 @@
       "published_at": "2026-11-12T20:15:16Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "7f23aad252df2a55742b",
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-      "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12T19:51:16Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "e1501a330e51ba127340",
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-      "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12T19:12:55Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "0cc0b516575ca76b0639",
@@ -2490,16 +2500,6 @@
       "source": "CERT-FR Alertes",
       "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "735a9214b0cd287c3ee0",
-      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
-      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
-      "source": "CERT-FR Menaces",
-      "published_at": "2025-07-01T00:00:00Z",
-      "category": "Vulnérabilité",
       "severity": "Élevée"
     }
   ]
