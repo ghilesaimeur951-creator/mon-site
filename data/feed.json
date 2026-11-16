@@ -1,24 +1,54 @@
 {
-  "generated_at": "2026-11-16T03:06:19Z",
+  "generated_at": "2026-11-16T11:03:44Z",
   "count": 250,
   "items": [
     {
-      "id": "7f23aad252df2a55742b",
-      "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+      "id": "afe79ee14497cedd484f",
+      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-16T03:06:19Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
+      "published_at": "2026-11-16T11:03:44Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
-      "id": "e1501a330e51ba127340",
-      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "id": "ec46d2ca2fd1c7f3543b",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-16T03:06:19Z",
+      "published_at": "2026-11-16T11:03:44Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "d3122e6e57b4157091e7",
+      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T11:00:00Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "f5ef776679d8464c39fd",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T09:30:04Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "dfdbf97fc7fea38d3c24",
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T08:26:52Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -301,36 +331,6 @@
       "published_at": "2026-11-13T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "afe79ee14497cedd484f",
-      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12T22:53:10Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "ec46d2ca2fd1c7f3543b",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-      "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12T22:25:30Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "be3a38dc184a3a264e81",
-      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-      "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-12T20:15:16Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "0cc0b516575ca76b0639",
