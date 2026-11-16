@@ -1,24 +1,114 @@
 {
-  "generated_at": "2026-11-16T11:03:44Z",
+  "generated_at": "2026-11-16T20:58:44Z",
   "count": 250,
   "items": [
+    {
+      "id": "97c01e9fc4639398b11b",
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-16T20:58:44Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "afe79ee14497cedd484f",
       "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-16T11:03:44Z",
+      "published_at": "2026-11-16T20:58:44Z",
       "category": "Menace",
       "severity": "Élevée"
     },
     {
-      "id": "ec46d2ca2fd1c7f3543b",
-      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "id": "6ce23a8d3c69416c13e2",
+      "title": "German military drone operations disrupted by cyberattack",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-16T11:03:44Z",
+      "published_at": "2026-11-16T20:58:44Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "02c1dcd61c66dc6cf7fe",
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-16T20:58:44Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "ac17c0218f3e057f3e39",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T19:57:13Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "91e784d7cca7318ca4d6",
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T16:43:24Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "0d946a07bc289f653805",
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T15:44:21Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "b138a94eb9b25779d075",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T15:01:11Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "9b1f22329875fb27660e",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T14:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "71db9eda9bdedcdd9817",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T12:53:18Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "86ad7de4a47a8459b3c2",
+      "title": "Australian retail giant Coles investigates cybersecurity incident",
+      "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-16T11:18:09Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
@@ -51,6 +141,86 @@
       "published_at": "2026-11-16T08:26:52Z",
       "category": "Actualité",
       "severity": "Info"
+    },
+    {
+      "id": "cf444b334f5f114f2892",
+      "title": "Bulletin d'actualité CERTFR-2026-ACT-048 (16 novembre 2026)",
+      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-048/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-16T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3b2c41e7ec5cde35ac61",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (16 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1546/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "70f251fbb221d5cb47e0",
+      "title": "Multiples vulnérabilités dans Kerberos (16 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Kerberos. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1540/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "386f500c305605a286ba",
+      "title": "Vulnérabilité dans Citrix App Layering (16 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Citrix App Layering. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1545/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2e94b6636faaf686b0f6",
+      "title": "Multiples vulnérabilités dans MongoDB (16 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1544/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c48e44d62ffdd018f181",
+      "title": "Multiples vulnérabilités dans les produits Trend Micro (16 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1542/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "0a65ab7cd059c7079d01",
+      "title": "Vulnérabilité dans Git (16 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Git. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1541/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "63b12b71b0ebf8366870",
+      "title": "Vulnérabilité dans VMware Tanzu (16 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1543/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-16T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "ddd80cd3bed8cfd4e521",
@@ -99,76 +269,6 @@
       "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
       "source": "BleepingComputer",
       "published_at": "2026-11-13T19:38:36Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "6ce23a8d3c69416c13e2",
-      "title": "German military drone operations disrupted by cyberattack",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-13T17:31:56Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "97c01e9fc4639398b11b",
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-13T16:21:43Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b32ccd39bcb9fea1a0b2",
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-13T15:01:11Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "53b1d1645f89232be3c6",
-      "title": "Microsoft says November security updates cause printing issues",
-      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-13T12:27:40Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "02c1dcd61c66dc6cf7fe",
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-13T10:44:22Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "9c5c30b78fe1e9b23067",
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-13T09:36:18Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "e539d9a442d599497eba",
-      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-      "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-13T08:34:20Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -333,26 +433,6 @@
       "severity": "Critique"
     },
     {
-      "id": "0cc0b516575ca76b0639",
-      "title": "Point de situation de l’opération REACTIV – octobre 2026 (12 novembre 2026)",
-      "summary": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de...",
-      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-010/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "c04c8ad23af55ad456c5",
-      "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "a68d7cbacf979abeb758",
       "title": "Vulnérabilité dans NetApp ONTAP tools pour VMware vSphere 10 (12 novembre 2026)",
       "summary": "Une vulnérabilité a été découverte dans NetApp ONTAP tools pour VMware vSphere 10. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
@@ -367,16 +447,6 @@
       "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "f9d3504a1fdd9357b27e",
-      "title": "Multiples vulnérabilités dans les produits Mozilla (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1505/",
       "source": "CERT-FR",
       "published_at": "2026-11-12T00:00:00Z",
       "category": "Vulnérabilité",
@@ -423,30 +493,10 @@
       "severity": "Élevée"
     },
     {
-      "id": "64184bd80527d1aa8ed1",
-      "title": "Multiples vulnérabilités dans Citrix XenServer (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Citrix XenServer. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1502/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "4177c5f133c1c5e5deaf",
       "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "9f70d4fba6df3be9db6d",
-      "title": "Multiples vulnérabilités dans HPE Aruba Networking Private 5G Core (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking Private 5G Core. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1503/",
       "source": "CERT-FR",
       "published_at": "2026-11-12T00:00:00Z",
       "category": "Vulnérabilité",
@@ -493,16 +543,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "5e65deaa8dc3572037e5",
-      "title": "Multiples vulnérabilités dans Xen (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "03bcffdc384cb85694a0",
       "title": "Multiples vulnérabilités dans Google Pixel (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
@@ -523,30 +563,10 @@
       "severity": "Élevée"
     },
     {
-      "id": "5e298caf3ca9d419151f",
-      "title": "Multiples vulnérabilités dans Laravel (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1504/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "8491b0956220bc3cba76",
       "title": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "f79693e56698e46c8d40",
-      "title": "Multiples vulnérabilités dans les produits Check Point (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Check Point. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1501/",
       "source": "CERT-FR",
       "published_at": "2026-11-12T00:00:00Z",
       "category": "Vulnérabilité",
@@ -573,16 +593,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "4f21acda667ef2e48240",
-      "title": "Multiples vulnérabilités dans les produits Ivanti (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1506/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "35af74e160521f404645",
       "title": "Multiples vulnérabilités dans les produits Axis (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
@@ -593,10 +603,30 @@
       "severity": "Élevée"
     },
     {
-      "id": "ea5a5553dacdb3ada41e",
-      "title": "Multiples vulnérabilités dans Apache HTTP Server (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1500/",
+      "id": "0cc0b516575ca76b0639",
+      "title": "Point de situation de l’opération REACTIV – octobre 2026 (12 novembre 2026)",
+      "summary": "Face à l’intensification des attaques cybercriminelles liées à des violations de données affectant les services de l’État, le Premier ministre a demandé le 1er septembre 2026 à l’Agence nationale de la sécurité des systèmes d’information (ANSSI) de mettre en place une capacité renforcée de...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2026-CTI-010/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2026-11-12T00:00:00Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c04c8ad23af55ad456c5",
+      "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
+      "source": "CERT-FR Avis",
+      "published_at": "2026-11-12T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "5e65deaa8dc3572037e5",
+      "title": "Multiples vulnérabilités dans Xen (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
       "source": "CERT-FR Avis",
       "published_at": "2026-11-12T00:00:00Z",
       "category": "Vulnérabilité",
@@ -1257,10 +1287,10 @@
       "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et Gateway (28 septembre 2026)",
       "summary": "**[Mise à jour du 05 octobre 2026]** Le 4 octobre 2026, Citrix a publié un avis concernant une nouvelle vulnérabilité (CVE-2026-88779) permettant un déni de service à distance. La CISA indique que cette vulnérabilité est activement exploitée. **[Mise à jour du 30 septembre 2026]** Dans un billet...",
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2026-ALE-011/",
-      "source": "CERT-FR Alertes",
+      "source": "CERT-FR",
       "published_at": "2026-09-28T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
+      "category": "Vulnérabilité",
+      "severity": "Critique"
     },
     {
       "id": "7e723110c4c38f4b9f16",
@@ -2343,16 +2373,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "ec3142209200b82a461a",
-      "title": "Bulletin d'actualité CERTFR-2026-ACT-011 (16 mars 2026)",
-      "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
-      "url": "https://www.cert.cyber.gouv.fr/actualite/CERTFR-2026-ACT-011/",
-      "source": "CERT-FR Actualité",
-      "published_at": "2026-03-16T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
       "id": "cad67ff8faf2c906fa2e",
       "title": "Panorama de la cybermenace 2025 (11 mars 2026)",
       "summary": "English version : 🇬🇧 En 2025, les frontières qui existent traditionnellement entre acteurs étatiques et cybercriminels ont continué de s’éroder, complexifiant notamment le processus d'imputation. Ainsi par exemple le détournement, à des fins malveillantes, d’outils et de services légitimes, n'est...",
@@ -2479,26 +2499,6 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-08-05T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c77ab0c88c7cb1cc1a41",
-      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
-      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-21T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2a30641f5fa3c4237101",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
