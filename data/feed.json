@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:40:51Z",
+  "generated_at": "2026-11-16T03:06:19Z",
   "count": 250,
   "items": [
     {
@@ -8,7 +8,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-15T23:40:51Z",
+      "published_at": "2026-11-16T03:06:19Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -18,7 +18,7 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-15T23:40:51Z",
+      "published_at": "2026-11-16T03:06:19Z",
       "category": "Actualité",
       "severity": "Info"
     },
