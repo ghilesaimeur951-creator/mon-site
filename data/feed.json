@@ -1,14 +1,34 @@
 {
-  "generated_at": "2026-11-17T12:10:38Z",
+  "generated_at": "2026-11-17T20:50:23Z",
   "count": 250,
   "items": [
     {
-      "id": "ddd80cd3bed8cfd4e521",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "id": "0d946a07bc289f653805",
+      "title": "Fandango says hackers stole payment card details from checkout pages",
       "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-17T12:10:38Z",
+      "published_at": "2026-11-17T20:50:23Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "b138a94eb9b25779d075",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-17T20:50:23Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "9b1f22329875fb27660e",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-17T20:50:23Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -18,9 +38,69 @@
       "summary": "",
       "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
       "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-17T12:10:38Z",
+      "published_at": "2026-11-17T20:50:23Z",
       "category": "Incident",
       "severity": "Moyenne"
+    },
+    {
+      "id": "ddd80cd3bed8cfd4e521",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "summary": "",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+      "source": "BleepingComputer (scraping)",
+      "published_at": "2026-11-17T20:50:23Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "d82820a08fcb4635dc32",
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17T19:24:07Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "a5a96cf48fc1d6fb62cf",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17T18:21:24Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "6ab6f9140451038c2a4e",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17T18:04:15Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "c05daafd452340b7c56a",
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17T16:00:00Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "54e4290953ac1ddd1343",
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17T15:01:11Z",
+      "category": "Menace",
+      "severity": "Élevée"
     },
     {
       "id": "405d067acd3fc3c8b532",
@@ -73,6 +153,106 @@
       "severity": "Critique"
     },
     {
+      "id": "e3102880c1740dde2f4f",
+      "title": "Multiples vulnérabilités dans Typo3 (17 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1553/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "7d48516330a3bb255fea",
+      "title": "Vulnérabilité dans Juniper Networks Junos OS Evolved (17 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Juniper Networks Junos OS Evolved. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1551/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ca88e09da19f1c7030fa",
+      "title": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "ea706b993c94e6208539",
+      "title": "Multiples vulnérabilités dans Tenable Identity Exposure (17 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1550/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d1bc47f49f1681433e0d",
+      "title": "Vulnérabilité dans Axis OS (17 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Axis OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1549/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d93a1b0418c0e453c92b",
+      "title": "Multiples vulnérabilités dans Microsoft SharePoint (17 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft SharePoint. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1555/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "58f1226da1d8ec50ba65",
+      "title": "Multiples vulnérabilités dans OpenSSL (17 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1554/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "f20937528e45335a1680",
+      "title": "Vulnérabilité dans GLPI (17 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1548/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "adb04f73de1fed00c7bc",
+      "title": "Multiples vulnérabilités dans GitLab (17 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une falsification de requêtes côté serveur (SSRF).",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1552/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "01f4d24801127e0bb9e5",
+      "title": "CVE-2026-115731 — Perforce Puppet Enterprise",
+      "summary": "Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the service user by submitting a report containing a crafted rich-data type through a PUT request. If the certificate authority automatically signs requests without strong verification, an unauthenticated network attacker can obtain a valid certificate and exploit the vulnerability.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-115731",
+      "source": "CISA KEV",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "94c4d7b387b59e70a52c",
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
       "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
@@ -121,56 +301,6 @@
       "published_at": "2026-11-16T16:43:24Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "0d946a07bc289f653805",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T15:44:21Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "b138a94eb9b25779d075",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T15:01:11Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "9b1f22329875fb27660e",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T14:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "71db9eda9bdedcdd9817",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T12:53:18Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "86ad7de4a47a8459b3c2",
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T11:18:09Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "cf444b334f5f114f2892",
@@ -423,36 +553,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "3d9365d09ce9fb22fd59",
-      "title": "Multiples vulnérabilités dans Microsoft .Net (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1512/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "4ee1f23bea65572b934c",
-      "title": "Multiples vulnérabilités dans Microsoft Azure (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1514/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "8a6ebe57cfcede621d3c",
-      "title": "Multiples vulnérabilités dans Microsoft Windows (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1513/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "becf1516d11277e95479",
       "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
@@ -467,16 +567,6 @@
       "title": "Multiples vulnérabilités dans Citrix Secure Access client (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Citrix Secure Access client. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1519/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "4177c5f133c1c5e5deaf",
-      "title": "Multiples vulnérabilités dans les processeurs Intel (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les processeurs Intel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1509/",
       "source": "CERT-FR",
       "published_at": "2026-11-12T00:00:00Z",
       "category": "Vulnérabilité",
@@ -503,60 +593,10 @@
       "severity": "Élevée"
     },
     {
-      "id": "0dc20131773b35aefbb5",
-      "title": "Multiples vulnérabilités dans Traefik (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1517/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "b459b78f7a1eb346e92c",
-      "title": "Multiples vulnérabilités dans les produits Microsoft (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1515/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "03bcffdc384cb85694a0",
       "title": "Multiples vulnérabilités dans Google Pixel (12 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1525/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "bc7d276ee421aa95a0e5",
-      "title": "Multiples vulnérabilités dans Microsoft Office (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que la vulnérabilité...",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1511/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "8491b0956220bc3cba76",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1510/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-12T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "984bd5972ba1ea50aabc",
-      "title": "Multiples vulnérabilités dans Mitel MiVoice MX-ONE (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel MiVoice MX-ONE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1516/",
       "source": "CERT-FR",
       "published_at": "2026-11-12T00:00:00Z",
       "category": "Vulnérabilité",
@@ -593,20 +633,20 @@
       "severity": "Élevée"
     },
     {
-      "id": "c04c8ad23af55ad456c5",
-      "title": "Vulnérabilité dans Sonicwall SonicOS (12 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans Sonicwall SonicOS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1507/",
+      "id": "984bd5972ba1ea50aabc",
+      "title": "Multiples vulnérabilités dans Mitel MiVoice MX-ONE (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel MiVoice MX-ONE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1516/",
       "source": "CERT-FR Avis",
       "published_at": "2026-11-12T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
     },
     {
-      "id": "5e65deaa8dc3572037e5",
-      "title": "Multiples vulnérabilités dans Xen (12 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Xen. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1508/",
+      "id": "0dc20131773b35aefbb5",
+      "title": "Multiples vulnérabilités dans Traefik (12 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1517/",
       "source": "CERT-FR Avis",
       "published_at": "2026-11-12T00:00:00Z",
       "category": "Vulnérabilité",
@@ -2033,16 +2073,6 @@
       "severity": "Élevée"
     },
     {
-      "id": "a1fe75da9ba46289374d",
-      "title": "CVE-2026-8037 — Progress LoadMaster",
-      "summary": "Progress LoadMaster contains a command injection vulnerability that allows an un-authenticated attacker to execute arbitrary commands on the LoadMaster appliance by exploiting unsanitized input in multiple command endpoints.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-8037",
-      "source": "CISA KEV",
-      "published_at": "2026-08-07T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
       "id": "e1178257f5a89c51c48f",
       "title": "Bulletin d'actualité CERTFR-2026-ACT-033 (03 août 2026)",
       "summary": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
@@ -2469,36 +2499,6 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-08-26T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3b5cba98939e5b187acd",
-      "title": "Incidents de sécurité dans les pare-feux SonicWall (05 août 2025)",
-      "summary": "[Mise à jour du 7 août 2025] Le 6 août 2025, SonicWall a remplacé une partie de son communiqué initial pour indiquer que les incidents de sécurité évoqués étaient vraisemblablement corrélés à la vulnérabilité CVE-2024-40766. Celle-ci a fait l'objet d'un bulletin de sécurité, SNWLID-2024-0015 (cf....",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-08-05T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "c77ab0c88c7cb1cc1a41",
-      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
-      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-21T00:00:00Z",
-      "category": "Alerte",
-      "severity": "Élevée"
-    },
-    {
-      "id": "2a30641f5fa3c4237101",
-      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
-      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
-      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2025-07-01T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
