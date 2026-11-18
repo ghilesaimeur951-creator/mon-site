@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-11-18T02:39:37Z",
+  "generated_at": "2026-11-18T10:42:14Z",
   "count": 250,
   "items": [
+    {
+      "id": "3cc7c52171142a720117",
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "summary": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-18T09:24:31Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "9f8e9c27a393774d87da",
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "summary": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-18T08:24:18Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "fca3dc2fb77689c74c12",
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
@@ -231,26 +251,6 @@
       "published_at": "2026-11-17T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "94c4d7b387b59e70a52c",
-      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T22:54:00Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "90f34400313cb14331db",
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T21:31:44Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
     },
     {
       "id": "cf444b334f5f114f2892",
