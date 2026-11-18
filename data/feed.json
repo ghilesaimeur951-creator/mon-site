@@ -1,56 +1,36 @@
 {
-  "generated_at": "2026-11-17T20:50:23Z",
+  "generated_at": "2026-11-18T02:39:37Z",
   "count": 250,
   "items": [
     {
-      "id": "0d946a07bc289f653805",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-17T20:50:23Z",
+      "id": "fca3dc2fb77689c74c12",
+      "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+      "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17T23:04:21Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "2cac7202a964b936fe17",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17T21:27:17Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b578b4efad12031a1ea3",
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-17T20:51:21Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "b138a94eb9b25779d075",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-17T20:50:23Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "9b1f22329875fb27660e",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-17T20:50:23Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "2396f465be9396c94b74",
-      "title": "Cursor confirms security breach led to malicious Claude Code extension",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-17T20:50:23Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "ddd80cd3bed8cfd4e521",
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "summary": "",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "source": "BleepingComputer (scraping)",
-      "published_at": "2026-11-17T20:50:23Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "d82820a08fcb4635dc32",
@@ -271,36 +251,6 @@
       "published_at": "2026-11-16T21:31:44Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "fecd5cf0f1ca7f354737",
-      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T20:59:44Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "ac17c0218f3e057f3e39",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T19:57:13Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "91e784d7cca7318ca4d6",
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-16T16:43:24Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "cf444b334f5f114f2892",
@@ -2499,6 +2449,56 @@
       "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-012/",
       "source": "CERT-FR Alertes",
       "published_at": "2025-08-26T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3b5cba98939e5b187acd",
+      "title": "Incidents de sécurité dans les pare-feux SonicWall (05 août 2025)",
+      "summary": "[Mise à jour du 7 août 2025] Le 6 août 2025, SonicWall a remplacé une partie de son communiqué initial pour indiquer que les incidents de sécurité évoqués étaient vraisemblablement corrélés à la vulnérabilité CVE-2024-40766. Celle-ci a fait l'objet d'un bulletin de sécurité, SNWLID-2024-0015 (cf....",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-011/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-08-05T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "c77ab0c88c7cb1cc1a41",
+      "title": "[MàJ] Multiples vulnérabilités dans Microsoft SharePoint (21 juillet 2025)",
+      "summary": "**[Mise à jour du 23 juillet 2025]** Le 20 juillet 2025, Microsoft a publié des correctifs pour une vulnérabilité de type limitation insuffisante d'un chemin d'accès à un répertoire restreint, aussi appelé *path traversal*, affectant SharePoint Enterprise Server 2016, SharePoint Server 2019 et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-010/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-21T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "2a30641f5fa3c4237101",
+      "title": "Multiples vulnérabilités dans Citrix NetScaler ADC et NetScaler Gateway (01 juillet 2025)",
+      "summary": "**[Mise à jour du 17 juillet 2025]** L'éditeur a publié un lien contenant une méthode d'évaluation permettant d'identifier des tentatives d'exploitation dans les journaux applicatifs et systèmes [12]. **[Mise à jour du 7 juillet 2025]** Le 17 juin 2025, Citrix a publié un bulletin de sécurité...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-009/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Alerte",
+      "severity": "Élevée"
+    },
+    {
+      "id": "735a9214b0cd287c3ee0",
+      "title": "🇬🇧 Houken seeking a path by living on the edge with zero-days (01 juillet 2025)",
+      "summary": "In September 2024, ANSSI observed an attack campaign seeking initial access to French entities’ networks through the exploitation of several zero-day vulnerabilities on Ivanti Cloud Service Appliance (CSA) devices. French organizations from governmental, telecommunications, media, finance, and...",
+      "url": "https://www.cert.cyber.gouv.fr/cti/CERTFR-2025-CTI-009/",
+      "source": "CERT-FR Menaces",
+      "published_at": "2025-07-01T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "61d0a2271016d28eec6d",
+      "title": "[MàJ] Vulnérabilité dans Roundcube (05 juin 2025)",
+      "summary": "[Mise à jour du 06 juin 2025] Une preuve de concept est publiquement disponible. [Publication initiale] Le 01 juin 2025, Roundcube a publié des correctifs concernant une vulnérabilité critique affectant son portail de messagerie ainsi que tous les produits l'incluant (par exemple cPanel et...",
+      "url": "https://www.cert.cyber.gouv.fr/alerte/CERTFR-2025-ALE-008/",
+      "source": "CERT-FR Alertes",
+      "published_at": "2025-06-05T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
     }
