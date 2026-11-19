@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-11-18T19:03:22Z",
+  "generated_at": "2026-11-19T01:08:58Z",
   "count": 250,
   "items": [
+    {
+      "id": "98624c3d23ee283ff3bc",
+      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-18T23:08:33Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "3208f46dd169033595b0",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-18T20:49:32Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "c3f1d9d987e86306defc",
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-18T19:39:33Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
     {
       "id": "97ef079b76eaf6ad0d5c",
       "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
@@ -203,6 +233,46 @@
       "severity": "Élevée"
     },
     {
+      "id": "7decc3343ee3ef01d335",
+      "title": "CVE-2024-10441 — Synology DiskStation Manager (DSM)",
+      "summary": "Synology DSM contains an improper encoding or escaping of output vulnerability in the system plugin daemon in Synology BeeStation OS (BSM) that could allow a remote attacker to execute arbitrary code via unspecified vectors.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2024-10441",
+      "source": "CISA KEV",
+      "published_at": "2026-11-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "a033e53bd551d6960a88",
+      "title": "CVE-2026-40217 — BerriAI LiteLLM",
+      "summary": "BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-40217",
+      "source": "CISA KEV",
+      "published_at": "2026-11-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "b6450e2150b84f571bba",
+      "title": "CVE-2026-90817 — Vanderbilt University Research Electronic Data Capture (REDCap)",
+      "summary": "Vanderbilt University Research Electronic Data Capture (REDCap) contains a code injection vulnerability which could allow an unauthenticated attacker to execute arbitrary code on the server. An attacker could exploit this via crafted HTTP requests that access an unintended controller route from a public survey context and supply a crafted file-path or stream parameter during data import processing. Exploitation requires knowledge of a valid public survey hash.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-90817",
+      "source": "CISA KEV",
+      "published_at": "2026-11-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d4c98a1b74ecd0477a13",
+      "title": "CVE-2026-90436 — Apache Axis",
+      "summary": "Apache Axis contains an unsafe reflection vulnerability that could allow an unauthenticated remote attacker to execute arbitrary code via a crafted SOAP fault message that causes Axis to load and instantiate an attacker-specified class when a suitable class is available on the application classpath. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-90436",
+      "source": "CISA KEV",
+      "published_at": "2026-11-18T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
       "id": "fca3dc2fb77689c74c12",
       "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
       "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]",
@@ -259,36 +329,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
       "source": "BleepingComputer",
       "published_at": "2026-11-17T18:04:15Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "c05daafd452340b7c56a",
-      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-17T16:00:00Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "54e4290953ac1ddd1343",
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-17T15:01:11Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "405d067acd3fc3c8b532",
-      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-17T11:19:51Z",
       "category": "Actualité",
       "severity": "Info"
     },
@@ -1991,46 +2031,6 @@
       "published_at": "2026-08-17T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
-    },
-    {
-      "id": "b964dbaee397552ad3da",
-      "title": "CVE-2025-62593 — Ray-Project Ray",
-      "summary": "Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2025-62593",
-      "source": "CISA KEV",
-      "published_at": "2026-08-17T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "702a91d4ad6c0b242abe",
-      "title": "CVE-2026-20349 — Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD)",
-      "summary": "Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) contain a heap inspection vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-20349",
-      "source": "CISA KEV",
-      "published_at": "2026-08-11T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "feebd31081206458c2ed",
-      "title": "CVE-2026-68820 — Microsoft Windows Ancillary Function Driver for WinSock",
-      "summary": "Microsoft Windows Ancillary Function Driver for WinSock contains a use-after-free vulnerability that allows an authorized attacker to elevate privileges locally.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-68820",
-      "source": "CISA KEV",
-      "published_at": "2026-08-11T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "93734135a07ec296b0ad",
-      "title": "CVE-2026-72898 — Metabase Metabase",
-      "summary": "Metabase contains a SQL Injection vulnerability that allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, which can give them administrator access to the instance. From there, the attacker could change the application configuration, steal stored credentials for the connected databases, read any data accessible through those connections, and export data.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-72898",
-      "source": "CISA KEV",
-      "published_at": "2026-08-11T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "82483b346e721b6a02b9",
