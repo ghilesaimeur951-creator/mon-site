@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-20T04:48:28Z",
+  "generated_at": "2026-11-20T13:42:27Z",
   "count": 250,
   "items": [
+    {
+      "id": "63176744cc4b38aa2228",
+      "title": "N-able says recent security breach led to major service outage",
+      "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-20T13:18:36Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "0736dd63e3ff1a0389ce",
+      "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
+      "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-20T12:14:28Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "6008bba5a1273aa9ecbc",
+      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
+      "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-20T10:57:43Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "60993c5d14ea68abca9b",
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-20T09:25:35Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
     {
       "id": "15f220796a18084d9a07",
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
@@ -241,46 +281,6 @@
       "published_at": "2026-11-19T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Élevée"
-    },
-    {
-      "id": "98624c3d23ee283ff3bc",
-      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-18T23:08:33Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "3208f46dd169033595b0",
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-18T20:49:32Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "c3f1d9d987e86306defc",
-      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-      "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-18T19:39:33Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "97ef079b76eaf6ad0d5c",
-      "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-      "summary": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-18T16:58:42Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "b7c9e9efd9c46e468bf3",
