@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-19T23:47:48Z",
+  "generated_at": "2026-11-20T04:48:28Z",
   "count": 250,
   "items": [
+    {
+      "id": "15f220796a18084d9a07",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-20T00:26:25Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
     {
       "id": "f234841cd5e8d0a97c8a",
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
@@ -271,16 +281,6 @@
       "published_at": "2026-11-18T16:58:42Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "993f9d718221ef41a110",
-      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-      "summary": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-18T15:00:10Z",
-      "category": "Menace",
-      "severity": "Élevée"
     },
     {
       "id": "b7c9e9efd9c46e468bf3",
