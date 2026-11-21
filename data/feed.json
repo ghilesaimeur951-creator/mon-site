@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-21T17:41:34Z",
+  "generated_at": "2026-11-21T22:23:22Z",
   "count": 250,
   "items": [
+    {
+      "id": "cd00c38abb0c60dda61d",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-21T18:01:58Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
     {
       "id": "9c3f2473640f00b5e047",
       "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
@@ -361,16 +371,6 @@
       "published_at": "2026-11-19T18:20:01Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "8e443c2964ac625708f2",
-      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
-      "summary": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-19T16:28:23Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "7c0273a4fed6b5fb511c",
