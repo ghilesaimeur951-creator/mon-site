@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-21T22:23:22Z",
+  "generated_at": "2026-11-22T02:24:56Z",
   "count": 250,
   "items": [
+    {
+      "id": "1fa3870c33e20a339984",
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-21T22:59:58Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
     {
       "id": "cd00c38abb0c60dda61d",
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
@@ -361,16 +371,6 @@
       "published_at": "2026-11-19T21:15:59Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "37781c126ada26176a3e",
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-19T18:20:01Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "7c0273a4fed6b5fb511c",
