@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-22T17:37:31Z",
+  "generated_at": "2026-11-22T22:46:15Z",
   "count": 250,
   "items": [
+    {
+      "id": "f7511684402b8adf536b",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-22T18:45:37Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
     {
       "id": "c75a4d0a4b580d8c6208",
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
@@ -141,16 +151,6 @@
       "published_at": "2026-11-20T09:25:35Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "15f220796a18084d9a07",
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-20T00:26:25Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "52fc319b6051ad3c3f01",
