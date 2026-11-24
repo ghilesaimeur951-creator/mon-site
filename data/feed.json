@@ -1,7 +1,207 @@
 {
-  "generated_at": "2026-11-24T10:52:47Z",
+  "generated_at": "2026-11-24T20:55:59Z",
   "count": 250,
   "items": [
+    {
+      "id": "347042e7abf2992ce7da",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T20:21:20Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "6c5bc98dced3225cd102",
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T18:59:52Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "a251bdbac4c3ddf91ec7",
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T17:49:05Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "9078000bd51be7512e2a",
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T16:30:19Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "0ddde081cc792cb26377",
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T16:22:44Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "53f2a1acf59665bb0e1f",
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T16:15:23Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "d8bd6941027644c8bc83",
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T15:10:10Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "1f0ade1a2280679276ba",
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T15:01:11Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "f249978bf6d5abc361c8",
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T14:09:37Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "5fdfc9b8efe4d5349aeb",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T13:34:23Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "90e3a6fa4a56e8b659ae",
+      "title": "Multiples vulnérabilités dans Postfix (24 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1610/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "326f047ea3672e71e19e",
+      "title": "Vulnérabilité dans Laravel (24 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1609/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "26885f6bf5a792c5ad79",
+      "title": "Multiples vulnérabilités dans les produits Elastic (24 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1614/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "a8a70c9858ce470b480c",
+      "title": "Vulnérabilité dans Google Chrome (24 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1608/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "0a8e226027a3aaa27d99",
+      "title": "Multiples vulnérabilités dans OpenSSL (24 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1613/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "f9b456d8574f2d4319f2",
+      "title": "Vulnérabilité dans les produits F5 (24 novembre 2026)",
+      "summary": "Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer un déni de service à distance.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1612/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "dc557fe9e16c60ac96d0",
+      "title": "Multiples vulnérabilités dans Traefik (24 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1611/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
+    },
+    {
+      "id": "4e8f759682497ac11942",
+      "title": "CVE-2026-132224 — Optimizely Web Experimentation",
+      "summary": "Optimizely Web Experimentation contains an external control of critical state data vulnerability in its account signup flow that could allow an attacker to impersonate existing customer users and modify Project JavaScript. Successful exploitation can result in attacker-controlled JavaScript being distributed through Optimizely-hosted assets and executed in browsers visiting affected customer websites.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-132224",
+      "source": "CISA KEV",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "34a745f11d3503b04bc0",
+      "title": "CVE-2026-131914 — Idunno AntiCsrf",
+      "summary": "Idunno AntiCsrf contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via object injection. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-131914",
+      "source": "CISA KEV",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "f7bbc8316c9fcccd95e2",
+      "title": "CVE-2026-132165 — Drupal Core",
+      "summary": "Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the attacker can use install.php to attempt to reinstall Drupal on the site.",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-132165",
+      "source": "CISA KEV",
+      "published_at": "2026-11-24T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
     {
       "id": "957088ac58c071d1f397",
       "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
@@ -51,56 +251,6 @@
       "published_at": "2026-11-23T16:50:01Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "52eb9c59258a6af3d5f2",
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T15:00:10Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "fb4c07fac3caceca3f70",
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T13:28:45Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "cac551e65d758a4e321a",
-      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T12:02:23Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "8ff53fd940c18e3a56bf",
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T09:11:15Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "a3400f3457d4e983be38",
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T07:44:19Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "e8d5b20a8847da8169da",
@@ -219,56 +369,6 @@
       "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-134624",
       "source": "CISA KEV",
       "published_at": "2026-11-23T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "f7511684402b8adf536b",
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-22T18:45:37Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "c75a4d0a4b580d8c6208",
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-22T15:43:04Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "daee16a474d467015095",
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-22T15:15:25Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "1fa3870c33e20a339984",
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-21T22:59:58Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "cd00c38abb0c60dda61d",
-      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-21T18:01:58Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
     },
@@ -493,46 +593,6 @@
       "severity": "Critique"
     },
     {
-      "id": "7c0273a4fed6b5fb511c",
-      "title": "Multiples vulnérabilités dans les produits Mitel (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1569/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-19T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "0862ca218b076d89a3fc",
-      "title": "Multiples vulnérabilités dans Wireshark (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1575/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-19T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "1293ec57f3670afc604d",
-      "title": "Multiples vulnérabilités dans Progress WS_FTP Server (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Progress WS_FTP Server. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1570/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-19T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "e903b51af36e7230568e",
-      "title": "Multiples vulnérabilités dans les produits Cisco (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1573/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-19T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "8f3d2d726cd18e94b9d9",
       "title": "Multiples vulnérabilités dans PHP (19 novembre 2026)",
       "summary": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
@@ -553,50 +613,10 @@
       "severity": "Élevée"
     },
     {
-      "id": "e2ee939b625302e39e15",
-      "title": "Multiples vulnérabilités dans WordPress (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1574/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-19T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "719ecb8a289dda001a99",
-      "title": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-19T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "e4362f416abcc6c0ed6e",
-      "title": "Multiples vulnérabilités dans ClamAV (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ClamAV. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1572/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-19T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
       "id": "2956d8b1b7151539b77e",
       "title": "Vulnérabilité dans les produits Elastic (19 novembre 2026)",
       "summary": "Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
       "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1578/",
-      "source": "CERT-FR",
-      "published_at": "2026-11-19T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Élevée"
-    },
-    {
-      "id": "11827f51d4ab426238ce",
-      "title": "Multiples vulnérabilités dans Laravel (19 novembre 2026)",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Laravel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1571/",
       "source": "CERT-FR",
       "published_at": "2026-11-19T00:00:00Z",
       "category": "Vulnérabilité",
@@ -613,10 +633,10 @@
       "severity": "Élevée"
     },
     {
-      "id": "8b95a8cf9bbcbeb09eee",
-      "title": "Vulnérabilité dans VMware Tanzu (19 novembre 2026)",
-      "summary": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1568/",
+      "id": "719ecb8a289dda001a99",
+      "title": "Multiples vulnérabilités dans les produits Splunk (19 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1576/",
       "source": "CERT-FR Avis",
       "published_at": "2026-11-19T00:00:00Z",
       "category": "Vulnérabilité",
@@ -681,6 +701,16 @@
       "published_at": "2026-11-18T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
+    },
+    {
+      "id": "ca88e09da19f1c7030fa",
+      "title": "Multiples vulnérabilités dans Mitel MiCollab (17 novembre 2026)",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+      "url": "https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1547/",
+      "source": "CERT-FR",
+      "published_at": "2026-11-17T00:00:00Z",
+      "category": "Vulnérabilité",
+      "severity": "Élevée"
     },
     {
       "id": "01f4d24801127e0bb9e5",
@@ -2001,36 +2031,6 @@
       "published_at": "2026-08-24T00:00:00Z",
       "category": "Alerte",
       "severity": "Élevée"
-    },
-    {
-      "id": "1d7fbf13da855c3e0b65",
-      "title": "CVE-2026-21962 — Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in",
-      "summary": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in contain an improper access control vulnerability that can result in unauthorized creation, deletion or modification access to critical data as well as unauthorized access to critical data or complete access to all Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in accessible data.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-21962",
-      "source": "CISA KEV",
-      "published_at": "2026-08-24T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "e2ee2034cef4095c7f02",
-      "title": "CVE-2026-73570 — Synacor Zimbra Collaboration Suite (ZCS)",
-      "summary": "Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-73570",
-      "source": "CISA KEV",
-      "published_at": "2026-08-21T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "c138f8959b41102ecd72",
-      "title": "CVE-2026-72530 — TrueConf Server",
-      "summary": "TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.",
-      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog#CVE-2026-72530",
-      "source": "CISA KEV",
-      "published_at": "2026-08-20T00:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
     },
     {
       "id": "aad0761b59a0e27ddeec",
