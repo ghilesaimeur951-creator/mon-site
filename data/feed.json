@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-11-25T03:53:19Z",
+  "generated_at": "2026-11-25T13:42:22Z",
   "count": 250,
   "items": [
+    {
+      "id": "b5ac7b88298271778332",
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-25T11:16:32Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "2a09216dda16ef09f802",
+      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-25T10:10:20Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "29df4a0d48bee4cd9f8a",
+      "title": "Microsoft confirms authentication issues after November updates",
+      "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-25T09:02:57Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "0fe0d4f016d054892c0f",
+      "title": "Hackers reportedly breached CIA intelligence analysis system",
+      "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-25T07:45:03Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
     {
       "id": "2b855346dd50d4dcf8c1",
       "title": "Rackspace shuts down Spot cloud platform after security breach",
@@ -211,46 +251,6 @@
       "published_at": "2026-11-24T00:00:00Z",
       "category": "Vulnérabilité",
       "severity": "Critique"
-    },
-    {
-      "id": "957088ac58c071d1f397",
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T20:54:51Z",
-      "category": "Menace",
-      "severity": "Élevée"
-    },
-    {
-      "id": "7b86d265d0e5ec071e3b",
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T20:00:20Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "351ef75337d427e12b86",
-      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-      "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T19:42:20Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "6a4ef98e17a46e46919c",
-      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-      "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T18:38:40Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "e8d5b20a8847da8169da",
