@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-24T20:55:59Z",
+  "generated_at": "2026-11-25T03:53:19Z",
   "count": 250,
   "items": [
+    {
+      "id": "2b855346dd50d4dcf8c1",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-24T21:37:30Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
     {
       "id": "347042e7abf2992ce7da",
       "title": "New Inception extortion gang launches large-scale vishing campaign",
@@ -239,16 +249,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
       "source": "BleepingComputer",
       "published_at": "2026-11-23T18:38:40Z",
-      "category": "Incident",
-      "severity": "Moyenne"
-    },
-    {
-      "id": "355e3ccfadfc5a328deb",
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-23T16:50:01Z",
       "category": "Incident",
       "severity": "Moyenne"
     },
