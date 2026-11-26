@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-26T04:35:03Z",
+  "generated_at": "2026-11-26T14:25:52Z",
   "count": 250,
   "items": [
+    {
+      "id": "34599e7b6c56f4b30a76",
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-26T11:50:17Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
     {
       "id": "85d71203b57ce129093e",
       "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
@@ -331,16 +341,6 @@
       "published_at": "2026-11-24T17:49:05Z",
       "category": "Incident",
       "severity": "Moyenne"
-    },
-    {
-      "id": "9078000bd51be7512e2a",
-      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-      "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-24T16:30:19Z",
-      "category": "Actualité",
-      "severity": "Info"
     },
     {
       "id": "90e3a6fa4a56e8b659ae",
