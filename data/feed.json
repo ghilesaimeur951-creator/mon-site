@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-11-27T04:58:26Z",
+  "generated_at": "2026-11-27T14:42:21Z",
   "count": 250,
   "items": [
+    {
+      "id": "24b01fe057d66b2638e5",
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-27T14:22:06Z",
+      "category": "Menace",
+      "severity": "Élevée"
+    },
+    {
+      "id": "d4f2d117646b8508f6d6",
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-27T11:18:36Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "319bafb516c229f73fd2",
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-27T10:10:15Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
+    {
+      "id": "1147158f7c1bb54f94b0",
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-27T09:56:36Z",
+      "category": "Incident",
+      "severity": "Moyenne"
+    },
+    {
+      "id": "b44222591fc1fc506ee5",
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-27T09:08:16Z",
+      "category": "Actualité",
+      "severity": "Info"
+    },
+    {
+      "id": "0f84e2352a98ac6f9e7a",
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "source": "BleepingComputer",
+      "published_at": "2026-11-27T08:06:58Z",
+      "category": "Vulnérabilité",
+      "severity": "Critique"
+    },
     {
       "id": "ac6c22bfffe5cdc2a6ea",
       "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -161,66 +221,6 @@
       "published_at": "2026-11-25T16:13:40Z",
       "category": "Actualité",
       "severity": "Info"
-    },
-    {
-      "id": "571e665497ad37fe12a4",
-      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-      "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own infrastructure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-25T15:00:10Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "918f8236c2b641c6e4b6",
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-25T15:00:00Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "b5ac7b88298271778332",
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-25T11:16:32Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "2a09216dda16ef09f802",
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-25T10:10:20Z",
-      "category": "Vulnérabilité",
-      "severity": "Critique"
-    },
-    {
-      "id": "29df4a0d48bee4cd9f8a",
-      "title": "Microsoft confirms authentication issues after November updates",
-      "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-25T09:02:57Z",
-      "category": "Actualité",
-      "severity": "Info"
-    },
-    {
-      "id": "0fe0d4f016d054892c0f",
-      "title": "Hackers reportedly breached CIA intelligence analysis system",
-      "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-      "source": "BleepingComputer",
-      "published_at": "2026-11-25T07:45:03Z",
-      "category": "Incident",
-      "severity": "Moyenne"
     },
     {
       "id": "4c7a96e6bfc7044a5d20",
